@@ -1,0 +1,8 @@
+owner=NZL
+controller=NZL
+add_core=AOT
+add_core=NZL
+trade_goods = fish
+life_rating = 31
+terrain = small_island
+naval_base = 1

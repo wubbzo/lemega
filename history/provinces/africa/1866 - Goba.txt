@@ -1,0 +1,7 @@
+owner=X08
+controller=X08
+add_core=X08
+add_core=X09
+trade_goods = cattle
+life_rating = 10
+terrain = dryhills

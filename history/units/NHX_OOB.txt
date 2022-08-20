@@ -1,0 +1,571 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -14
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -203
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIO = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 19
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Yinxiang I Udege"
+	date="1819.5.18"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Dungga Magiya"
+	date="1819.5.21"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Tantu Irgen Baturu"
+	date="1819.5.22"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Mala Manja"
+	date="1819.5.25"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Andong Jalan"
+	location=2207
+	regiment = {
+		name="1st Qiqihar Infantry"
+		type=infantry
+		home=1552
+	}
+	regiment = {
+		name="1st Aigun Infantry"
+		type=infantry
+		home=1553
+	}
+	regiment = {
+		name="1st Lanzhou Cavalry"
+		type=cavalry
+		home=1490
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Artillery"
+		type=artillery
+		home=1535
+	}
+	regiment = {
+		name="1st Aigun Cavalry"
+		type=cavalry
+		home=1553
+	}
+}
+
+army = {
+	name="Hulan Jalan"
+	location=1553
+	regiment = {
+		name="1st Manzhouli Infantry"
+		type=infantry
+		home=1002
+	}
+	regiment = {
+		name="1st Jirim Chuulgan Cavalry"
+		type=cavalry
+		home=1533
+	}
+	regiment = {
+		name="1st Manzhouli Artillery"
+		type=artillery
+		home=1002
+	}
+	regiment = {
+		name="1st Jirim Chuulgan Artillery"
+		type=artillery
+		home=1533
+	}
+	regiment = {
+		name="1st Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="1st Jiayuguan Infantry"
+		type=infantry
+		home=1488
+	}
+	regiment = {
+		name="1st Bayan Tumen Cavalry"
+		type=cavalry
+		home=1467
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1597
+	regiment = {
+		name="1st Jirim Chuulgan Infantry"
+		type=infantry
+		home=1533
+	}
+	regiment = {
+		name="1st Ulaan Chab Chuulghan Infantry"
+		type=infantry
+		home=1534
+	}
+	regiment = {
+		name="2nd Jirim Chuulgan Cavalry"
+		type=cavalry
+		home=1533
+	}
+	regiment = {
+		name="1st Ulaan Chab Chuulghan Artillery"
+		type=artillery
+		home=1534
+	}
+	regiment = {
+		name="3rd Ulaan Chab Chuulghan Artillery"
+		type=artillery
+		home=1534
+	}
+}
+
+army = {
+	name="Keriya Jalan"
+	location=1466
+	regiment = {
+		name="2nd Manzhouli Infantry"
+		type=infantry
+		home=1002
+	}
+	regiment = {
+		name="3rd Manzhouli Infantry"
+		type=infantry
+		home=1002
+	}
+	regiment = {
+		name="1st Qiqihar Cavalry"
+		type=cavalry
+		home=1552
+	}
+	regiment = {
+		name="2nd Ulaan Chab Chuulghan Artillery"
+		type=artillery
+		home=1534
+	}
+	regiment = {
+		name="4th Manzhouli Infantry"
+		type=infantry
+		home=1002
+	}
+	regiment = {
+		name="1st Urumqi Cavalry"
+		type=cavalry
+		home=1600
+	}
+	regiment = {
+		name="1st Guihua Tumed Artillery"
+		type=artillery
+		home=1532
+	}
+}
+

@@ -1,0 +1,4 @@
+owner=X16
+controller=X16
+trade_goods = timber
+life_rating = 32

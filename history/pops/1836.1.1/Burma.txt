@@ -1,0 +1,3651 @@
+1330 = {
+	slaves=
+	{
+		culture = burmese
+		religion = theravada
+		size= 14470
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5788
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1540
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 47
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 81075
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1724
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 690
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1730
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 54
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 324
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 7633
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 10748
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 4299
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 7914
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 571
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 246
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1477
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 51374
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 482
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 5217
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 163
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 974
+	}
+
+	slaves=
+	{
+		culture = thai
+		religion = theravada
+		size= 462
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = theravada
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = theravada
+		size= 1240
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = theravada
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 39
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = theravada
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = theravada
+		size= 1531
+	}
+
+	slaves=
+	{
+		culture = thai
+		religion = nestorian
+		size= 370
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = nestorian
+		size= 520
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = nestorian
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = nestorian
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 1447
+	}
+
+}
+1331 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 319
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 15500
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 6
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1209
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 285
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 458
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 27
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 13304
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 692
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 42
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 489
+	}
+
+}
+1332 = {
+	slaves=
+	{
+		culture = burmese
+		religion = theravada
+		size= 16250
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5788
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1540
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 47
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 79295
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1936
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 690
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1730
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 54
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 324
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 7421
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 12070
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 4299
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 7914
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 571
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 246
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1477
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 50052
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 541
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 5217
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 163
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = theravada
+		size= 974
+	}
+
+	slaves=
+	{
+		culture = thai
+		religion = theravada
+		size= 519
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = theravada
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = theravada
+		size= 1240
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = theravada
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 39
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = theravada
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = theravada
+		size= 1492
+	}
+
+	slaves=
+	{
+		culture = thai
+		religion = nestorian
+		size= 416
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = nestorian
+		size= 520
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = nestorian
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = nestorian
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 1401
+	}
+
+}
+1333 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 4185
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1023
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 37
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 39844
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 480
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1258
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 45
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 2944
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 5080
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 8068
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1165
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 288
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 216
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1757
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 38641
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 1529
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 13
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 14554
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = nestorian
+		size= 443
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = nestorian
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 762
+	}
+
+}
+1334 = {
+	slaves=
+	{
+		culture = burmese
+		religion = theravada
+		size= 3661
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2197
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1373
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 24
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 31728
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 408
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 245
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1679
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 29
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1714
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 3341
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 2005
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 8064
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 374
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 138
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 968
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 20819
+	}
+
+}
+1335 = {
+	slaves=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1774
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 4185
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1023
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 37
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 38070
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 204
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 480
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 1258
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 45
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 2740
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 2153
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 5080
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 8068
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1165
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 288
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 216
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1757
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 36488
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = theravada
+		size= 648
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 1529
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 13
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 13906
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = nestorian
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = nestorian
+		size= 443
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = nestorian
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 702
+	}
+
+}
+1336 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1545
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 621
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 17
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 25199
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 799
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 21
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 2644
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1475
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 3790
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 548
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 101
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 708
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 19643
+	}
+
+}
+1337 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1545
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 621
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 17
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 25199
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 799
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 21
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 2644
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1475
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 3790
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 548
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 101
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 708
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 19643
+	}
+
+}
+1338 = {
+	slaves=
+	{
+		culture = shan
+		religion = animist
+		size= 8666
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = animist
+		size= 5533
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = animist
+		size= 602
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = animist
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = animist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = animist
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = animist
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = animist
+		size= 45045
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = nestorian
+		size= 1382
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 883
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = nestorian
+		size= 1065
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = nestorian
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 64
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 5735
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = theravada
+		size= 4837
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 3089
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 1854
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 111
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 389
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 22879
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 4679
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 2987
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 2171
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 130
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 456
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 21566
+	}
+
+	slaves=
+	{
+		culture = karen
+		religion = animist
+		size= 1732
+	}
+
+	soldiers=
+	{
+		culture = karen
+		religion = animist
+		size= 1106
+	}
+
+	artisans=
+	{
+		culture = karen
+		religion = animist
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = karen
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = karen
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = karen
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = karen
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = karen
+		religion = animist
+		size= 9006
+	}
+
+	slaves=
+	{
+		culture = karen
+		religion = nestorian
+		size= 156
+	}
+
+	soldiers=
+	{
+		culture = karen
+		religion = nestorian
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = karen
+		religion = nestorian
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = karen
+		religion = nestorian
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = karen
+		religion = nestorian
+		size= 9
+	}
+
+	officers=
+	{
+		culture = karen
+		religion = nestorian
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = karen
+		religion = nestorian
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = karen
+		religion = nestorian
+		size= 613
+	}
+
+}
+1339 = {
+	soldiers=
+	{
+		culture = manipuri
+		religion = animist
+		size= 2068
+	}
+
+	artisans=
+	{
+		culture = manipuri
+		religion = animist
+		size= 831
+	}
+
+	clergymen=
+	{
+		culture = manipuri
+		religion = animist
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = manipuri
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = manipuri
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = manipuri
+		religion = animist
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = manipuri
+		religion = animist
+		size= 33776
+	}
+
+	soldiers=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 952
+	}
+
+	clergymen=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 26
+	}
+
+	officers=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 178
+	}
+
+	farmers=
+	{
+		culture = manipuri
+		religion = nestorian
+		size= 1301
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 3207
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 7490
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 541
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 199
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1397
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 44305
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = animist
+		size= 605
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = animist
+		size= 243
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = animist
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = animist
+		size= 9887
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = nestorian
+		size= 310
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = nestorian
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 8
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 990
+	}
+
+}
+1340 = {
+	slaves=
+	{
+		culture = shan
+		religion = theravada
+		size= 9215
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 9084
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 5119
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 740
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 136
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 956
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 74960
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = nestorian
+		size= 1126
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 1110
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = nestorian
+		size= 2696
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = nestorian
+		size= 390
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 73
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 503
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 6098
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 5616
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 5534
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 8662
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1252
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 231
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 231
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1618
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 37019
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2060
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2031
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 497
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 13
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 17292
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 201
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 594
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 934
+	}
+
+}
+1341 = {
+	soldiers=
+	{
+		culture = kachin
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = animist
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = animist
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = animist
+		size= 23075
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 289
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 14
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 1768
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 459
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1451
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 73
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 305
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 20381
+	}
+
+}
+1342 = {
+	slaves=
+	{
+		culture = shan
+		religion = theravada
+		size= 3103
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 627
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 705
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 19
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 26698
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = nestorian
+		size= 253
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = nestorian
+		size= 820
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = nestorian
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 22
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = nestorian
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = nestorian
+		size= 1184
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 4408
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 6322
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 457
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 168
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1180
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 30898
+	}
+
+	slaves=
+	{
+		culture = kachin
+		religion = theravada
+		size= 1615
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 326
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = theravada
+		size= 367
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = theravada
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 10
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 13899
+	}
+
+	slaves=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 121
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 11
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = nestorian
+		size= 527
+	}
+
+}
+1343 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1802
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 489
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 17
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 61729
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = theravada
+		size= 670
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = theravada
+		size= 1819
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = theravada
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 63
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = theravada
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 764
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = theravada
+		size= 20172
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 1067
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 37
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 448
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 1806
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = nestorian
+		size= 463
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = nestorian
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = nestorian
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = nestorian
+		size= 3093
+	}
+
+}
+1344 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 497
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 8
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 21247
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = theravada
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = theravada
+		size= 870
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = theravada
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 14
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = theravada
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = theravada
+		size= 7065
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 1610
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 25
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 588
+	}
+
+}
+1345 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1135
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1987
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 34
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 53263
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 2197
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 37
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = nestorian
+		size= 418
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1319
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 13416
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1246
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 230
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1074
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 48574
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=CMI
+controller=CMI
+add_core=CMI
+trade_goods = tea
+life_rating = 32

@@ -1,0 +1,4 @@
+owner=X02
+controller=X02
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,375 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 12132
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2480
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 29651
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 4513
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 924
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 2103
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 9236
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 23
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = inti
+		size= 2695
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = inti
+		size= 551
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = inti
+		size= 2816
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = inti
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = inti
+		size= 40
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = inti
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = inti
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = inti
+		size= 3236
+	}
+
+	slaves=
+	{
+		culture = horse
+		religion = inti
+		size= 23251
+	}
+
+	soldiers=
+	{
+		culture = horse
+		religion = inti
+		size= 4754
+	}
+
+	artisans=
+	{
+		culture = horse
+		religion = inti
+		size= 16827
+	}
+
+	clergymen=
+	{
+		culture = horse
+		religion = inti
+		size= 1803
+	}
+
+	bureaucrats=
+	{
+		culture = horse
+		religion = inti
+		size= 240
+	}
+
+	officers=
+	{
+		culture = horse
+		religion = inti
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = horse
+		religion = inti
+		size= 1010
+	}
+
+	farmers=
+	{
+		culture = horse
+		religion = inti
+		size= 36809
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 179
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 11963
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = inti
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = inti
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = inti
+		size= 460
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = inti
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = inti
+		size= 3
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = inti
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = inti
+		size= 83
+	}
+
+	slaves=
+	{
+		culture = horse
+		religion = inti
+		size= 280
+	}
+
+	soldiers=
+	{
+		culture = horse
+		religion = inti
+		size= 201
+	}
+
+	artisans=
+	{
+		culture = horse
+		religion = inti
+		size= 3722
+	}
+
+	clergymen=
+	{
+		culture = horse
+		religion = inti
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = horse
+		religion = inti
+		size= 27
+	}
+
+	officers=
+	{
+		culture = horse
+		religion = inti
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = horse
+		religion = inti
+		size= 670
+	}
+
+	farmers=
+	{
+		culture = horse
+		religion = inti
+		size= 14800
+	}
+
+}

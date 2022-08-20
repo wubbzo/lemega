@@ -1,0 +1,5 @@
+owner=X21
+controller=NZL
+add_core=X21
+trade_goods = fish
+life_rating = 31

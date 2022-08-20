@@ -1,0 +1,65 @@
+2535 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4071
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 868
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 16552
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = shinto
+		size= 926
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = shinto
+		size= 347
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 46
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 67
+	}
+
+}

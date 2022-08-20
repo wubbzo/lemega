@@ -1,0 +1,797 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -92
+	military_access = yes
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 19
+	level = 2
+}
+CLM = {
+	value = -203
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 14
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIO = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 123
+	influence_value = 18
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hafiz Keita"
+	date="1800.4.16"
+	type=land
+	personality="audacious"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Tyke Amadou"
+	date="1809.9.14"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Rainbow Toumani"
+	date="1814.2.20"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2308
+	ship = {
+		name="ARA América"
+		type=manowar
+	}
+	ship = {
+		name="ARA Aquíles"
+		type=manowar
+	}
+	ship = {
+		name="ARA Argentina"
+		type=manowar
+	}
+	ship = {
+		name="ARA Argonauta"
+		type=manowar
+	}
+	ship = {
+		name="ARA Furor"
+		type=manowar
+	}
+	ship = {
+		name="ARA Héroe"
+		type=manowar
+	}
+	ship = {
+		name="ARA Libertador"
+		type=manowar
+	}
+	ship = {
+		name="ARA Navegante"
+		type=manowar
+	}
+	ship = {
+		name="ARA Perla Negra"
+		type=manowar
+	}
+	ship = {
+		name="ARA Río de la Plata"
+		type=manowar
+	}
+	ship = {
+		name="ARA San Bernardo"
+		type=manowar
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2298
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2999
+	ship = {
+		name="ARA Azopardo"
+		type=frigate
+	}
+	ship = {
+		name="ARA Cervantes"
+		type=frigate
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2340
+	regiment = {
+		name="1st Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st San Ignacio Artillery"
+		type=artillery
+		home=2317
+	}
+	regiment = {
+		name="1st Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="4th Puno Artillery"
+		type=artillery
+		home=2303
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2331
+	regiment = {
+		name="1st Puerto Maldonado Infantry"
+		type=infantry
+		home=2301
+	}
+	regiment = {
+		name="1st Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
+		name="2nd La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Huaraz Artillery"
+		type=artillery
+		home=2298
+	}
+	regiment = {
+		name="1st Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="2nd Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="1st Yurimaguas Artillery"
+		type=artillery
+		home=2287
+	}
+	regiment = {
+		name="2nd Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
+		name="1st Antofagasta Artillery"
+		type=artillery
+		home=2305
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2304
+	regiment = {
+		name="2nd Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="1st Potosí Infantry"
+		type=infantry
+		home=2314
+	}
+	regiment = {
+		name="2nd Potosí Infantry"
+		type=infantry
+		home=2314
+	}
+	regiment = {
+		name="2nd Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="3rd Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="3rd Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="4th Potosí Infantry"
+		type=infantry
+		home=2314
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2998
+	ship = {
+		name="ARA Espora"
+		type=frigate
+	}
+	ship = {
+		name="ARA Garay"
+		type=frigate
+	}
+	ship = {
+		name="ARA Hércules"
+		type=frigate
+	}
+	ship = {
+		name="ARA Murillo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2988
+	ship = {
+		name="ARA Heroína"
+		type=frigate
+	}
+	ship = {
+		name="ARA Parker"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2999
+	ship = {
+		name="ARA Salvador"
+		type=manowar
+	}
+	ship = {
+		name="ARA La Argentina"
+		type=frigate
+	}
+	ship = {
+		name="ARA Águila"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Apolo"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Atlántida"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Audaz"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Ceres"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Cóndor"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Cruel"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Delfín"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Eolo"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Esperanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Fénix"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Fidela"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Flora"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Hera"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Iris"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Lanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Minerva"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Minotauro"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Movimiento"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Odisea"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA La Libertad"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2310
+	regiment = {
+		name="3rd Potosí Infantry"
+		type=infantry
+		home=2314
+	}
+	regiment = {
+		name="4th Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="1st Chuquisaca Infantry"
+		type=infantry
+		home=2313
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="2nd Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+	regiment = {
+		name="3rd Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="2nd San Ignacio Artillery"
+		type=artillery
+		home=2317
+	}
+}
+

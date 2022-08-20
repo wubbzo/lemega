@@ -1,0 +1,6 @@
+owner=X14
+controller=X14
+add_core=PCH
+add_core=X14
+trade_goods = silk
+life_rating = 35

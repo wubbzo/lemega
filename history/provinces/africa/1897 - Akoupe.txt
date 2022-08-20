@@ -1,0 +1,6 @@
+owner=MLI
+controller=MLI
+add_core=MLI
+add_core=TRL
+trade_goods = tropical_wood
+life_rating = 10

@@ -1,0 +1,949 @@
+897 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 5639
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 7563
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 767
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 159
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 772
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 106020
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 3492
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 16929
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1715
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 357
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 329
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1729
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 48790
+	}
+
+}
+901 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 4285
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 6521
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 606
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 587
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 80966
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 3476
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 17101
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1588
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 220
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 293
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1539
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 51351
+	}
+
+}
+902 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 4904
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6891
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 679
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 139
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 672
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 92602
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 3467
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 16635
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1638
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 335
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 309
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1621
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 49945
+	}
+
+}
+903 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 6377
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 592
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 574
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 76127
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2963
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 15393
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1429
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 198
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 264
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1385
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 42770
+	}
+
+}
+904 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 4004
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 6092
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 78
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 104
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 548
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 75643
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2845
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 14751
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1370
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 190
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 253
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1328
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 41107
+	}
+
+}
+905 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 5518
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 512
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 497
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 61834
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1406
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 12546
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1165
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 161
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1129
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 33650
+	}
+
+}
+906 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1081
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 772
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 36271
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 772
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1875
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 609
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 394
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 23756
+	}
+
+}
+907 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 1095
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 2738
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 51
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 34784
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 18755
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1742
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 349
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 214
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1125
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 43935
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1778
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 4445
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 413
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 83
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 56465
+	}
+
+}
+1813 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 3172
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 4827
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 448
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 90
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 290
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 60041
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 4438
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 18332
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 1702
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 340
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 314
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 70244
+	}
+
+}

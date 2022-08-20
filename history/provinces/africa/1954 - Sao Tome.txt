@@ -1,0 +1,6 @@
+owner=BRZ
+controller=BRZ
+trade_goods = coffee
+life_rating = 35
+terrain = small_island
+naval_base = 2

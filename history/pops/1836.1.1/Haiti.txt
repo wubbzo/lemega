@@ -1,0 +1,424 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15139
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 847
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 37319
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 2088
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 470
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 23
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 19
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 4237
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 237
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 555
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 175
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 55454
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 3106
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 3689
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1199
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 184
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1162
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 13217
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 740
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 185
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 3659
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 82
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17591
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 985
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 43286
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2423
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2130
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 255
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 23
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 17035
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 954
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 3323
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 308
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 48
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 399
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 57733
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 3233
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 13536
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1257
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 194
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 155
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1624
+	}
+
+}

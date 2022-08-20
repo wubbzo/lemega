@@ -1,0 +1,5 @@
+owner=X13
+controller=X13
+trade_goods = cattle
+life_rating = 10
+terrain = savanna

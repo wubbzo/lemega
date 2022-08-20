@@ -1,0 +1,289 @@
+252 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 535
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 52894
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 3154
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = hellenic_pagan
+		size= 8777
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 3
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = nestorian
+		size= 5624
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 159
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 2714
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 882
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 66
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 570
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 11342
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 1162
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 16274
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 2
+	}
+
+}

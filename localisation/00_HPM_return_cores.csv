@@ -1,0 +1,277 @@
+;;;;;;;;;;;;x,,,,,,,,,,,,,
+return_core_on_title;Enable 'Return Cores' decisions;;;;;;;;;;;;x,,
+return_core_on_desc;The Return Cores decisions allow you to return cores of vassals and spherelings, as long as you don't have a core in the province, and are otherwise kept hidden from view to avoid having them clutter up your decision list.;;;;;;;;;;;;x
+return_core_off_title;Disable 'Return Cores' decisions;;;;;;;;;;;;x,,
+return_core_off_desc;Your decision list will now be uncluttered.;;;;;;;;;;;;x,,
+return_core_disabled_title;Deactivate 'Return Cores' decisions;;;;;;;;;;;;x,,
+return_core_disabled_desc;The 'Return Cores' decisions will disappear from this game session and won't reappear again. You won't be able to use these decisions again for this game.;;;;;;;;;;;;x,,
+return_cores_ALS_title;Return cores to Strasbourg;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_ALS_desc;We hold provinces that Strasbourg has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_ARG_title;Return cores to La Plata;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_ARG_desc;We hold provinces that La Plata has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_ARM_title;Return cores to Armenia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_ARM_desc;We hold provinces that Armenia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_AST_title;Return cores to Australia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_AST_desc;We hold provinces that Australia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_ASY_title;Return cores to Assyria;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_ASY_desc;We hold provinces that Assyria has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_AUO_title;Return cores to Nyoongah;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_AUO_desc;We hold provinces that Nyoongah has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_AUZ_title;Return cores to Malgana;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_AUZ_desc;We hold provinces that Malgana has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_AYR_title;Return cores to Air;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_AYR_desc;We hold provinces that Air has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BAV_title;Return cores to Bavaria;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BAV_desc;We hold provinces that Bavaria has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BHU_title;Return cores to Bhutocharia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BHU_desc;We hold provinces that Bhutocharia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BRY_title;Return cores to Buryatia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BRY_desc;We hold provinces that Buryatia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BRZ_title;Return cores to Brazil;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BRZ_desc;We hold provinces that Brazil has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BUL_title;Return cores to Bulgaria;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BUL_desc;We hold provinces that Bulgaria has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BUN_title;Return cores to Bundelkhand;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BUN_desc;We hold provinces that Bundelkhand has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_BYZ_title;Return cores to Celestial thug empire;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_BYZ_desc;We hold provinces that Celestial thug empire has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CAL_title;Return cores to California;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CAL_desc;We hold provinces that California has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CAM_title;Return cores to Khmer;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CAM_desc;We hold provinces that Khmer has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CAS_title;Return cores to Cascadia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CAS_desc;We hold provinces that Cascadia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CHA_title;Return cores to Champa;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CHA_desc;We hold provinces that Champa has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CHC_title;Return cores to Chu;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CHC_desc;We hold provinces that Chu has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CHL_title;Return cores to Chile;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CHL_desc;We hold provinces that Chile has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CHM_title;Return cores to Chimu;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CHM_desc;We hold provinces that Chimu has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CLM_title;Return cores to Colombia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CLM_desc;We hold provinces that Colombia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CMI_title;Return cores to Miao;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CMI_desc;We hold provinces that Miao has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CRO_title;Return cores to Croatia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CRO_desc;We hold provinces that Croatia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_CYI_title;Return cores to Yi;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_CYI_desc;We hold provinces that Yi has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_DEN_title;Return cores to North Sea Empire;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_DEN_desc;We hold provinces that North Sea Empire has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_EGY_title;Return cores to Kemet;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_EGY_desc;We hold provinces that Kemet has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_ENG_title;Return cores to Great Britain;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_ENG_desc;We hold provinces that Great Britain has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_EST_title;Return cores to Estonia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_EST_desc;We hold provinces that Estonia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FEO_title;Return cores to Theodoro;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FEO_desc;We hold provinces that Theodoro has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FER_title;Return cores to Ferrara;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FER_desc;We hold provinces that Ferrara has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FJV_title;Return cores to Viti Levu;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FJV_desc;We hold provinces that Viti Levu has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FJW_title;Return cores to Vanua Levu;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FJW_desc;We hold provinces that Vanua Levu has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FLA_title;Return cores to Flanders;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FLA_desc;We hold provinces that Flanders has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FLR_title;Return cores to Florida;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FLR_desc;We hold provinces that Florida has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FRA_title;Return cores to France;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FRA_desc;We hold provinces that France has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_FUL_title;Return cores to Fulo;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_FUL_desc;We hold provinces that Fulo has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_GEN_title;Return cores to Genoa;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_GEN_desc;We hold provinces that Genoa has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_GHR_title;Return cores to Garhwal;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_GHR_desc;We hold provinces that Garhwal has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_GRA_title;Return cores to Granada;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_GRA_desc;We hold provinces that Granada has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_GRE_title;Return cores to Greece;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_GRE_desc;We hold provinces that Greece has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_GUG_title;Return cores to Guge;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_GUG_desc;We hold provinces that Guge has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_HAN_title;Return cores to Hanover;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_HAN_desc;We hold provinces that Hanover has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_HAU_title;Return cores to Hausa;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_HAU_desc;We hold provinces that Hausa has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_HES_title;Return cores to Hesse;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_HES_desc;We hold provinces that Hesse has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_HLR_title;Return cores to Holy German Empire;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_HLR_desc;We hold provinces that Holy German Empire has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_HUN_title;Return cores to Hungary;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_HUN_desc;We hold provinces that Hungary has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_IRE_title;Return cores to Ireland;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_IRE_desc;We hold provinces that Ireland has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_JAP_title;Return cores to Colonial Union of Nanbu and Yamana;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_JAP_desc;We hold provinces that Colonial Union of Nanbu and Yamana has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_JIN_title;Return cores to Jin;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_JIN_desc;We hold provinces that Jin has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KBO_title;Return cores to Kanem Bornu;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KBO_desc;We hold provinces that Kanem Bornu has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KHA_title;Return cores to Mongolia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KHA_desc;We hold provinces that Mongolia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KLK_title;Return cores to Khalkha;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KLK_desc;We hold provinces that Khalkha has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KMC_title;Return cores to Kamchadals;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KMC_desc;We hold provinces that Kamchadals has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KON_title;Return cores to Kongo;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KON_desc;We hold provinces that Kongo has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KRC_title;Return cores to Korchin;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KRC_desc;We hold provinces that Korchin has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_KRN_title;Return cores to Utaiyids;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_KRN_desc;We hold provinces that Utaiyids has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_LIO_title;Return cores to Liao;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_LIO_desc;We hold provinces that Liao has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_LIT_title;Return cores to Lithuania;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_LIT_desc;We hold provinces that Lithuania has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_LNG_title;Return cores to Liang;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_LNG_desc;We hold provinces that Liang has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_LOM_title;Return cores to Milan;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_LOM_desc;We hold provinces that Milan has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_LOU_title;Return cores to Louisiana;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_LOU_desc;We hold provinces that Louisiana has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MEW_title;Return cores to Mewar;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MEW_desc;We hold provinces that Mewar has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MEX_title;Return cores to Mexico;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MEX_desc;We hold provinces that Mexico has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MLI_title;Return cores to Wakanda;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MLI_desc;We hold provinces that Wakanda has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MOR_title;Return cores to Morocco;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MOR_desc;We hold provinces that Morocco has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MPC_title;Return cores to Mapuche;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MPC_desc;We hold provinces that Mapuche has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MRT_title;Return cores to Marathas;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MRT_desc;We hold provinces that Marathas has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_MYS_title;Return cores to Mysore;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_MYS_desc;We hold provinces that Mysore has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_NET_title;Return cores to Netherlands;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_NET_desc;We hold provinces that Netherlands has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_NHX_title;Return cores to Udege;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_NHX_desc;We hold provinces that Udege has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_NVK_title;Return cores to Nivkh;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_NVK_desc;We hold provinces that Nivkh has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_NZL_title;Return cores to Zealandia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_NZL_desc;We hold provinces that Zealandia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_NZM_title;Return cores to Ngati Awa;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_NZM_desc;We hold provinces that Ngati Awa has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_PAP_title;Return cores to The Papal State;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_PAP_desc;We hold provinces that The Papal State has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_POL_title;Return cores to Poland;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_POL_desc;We hold provinces that Poland has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_PRG_title;Return cores to Paraguay;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_PRG_desc;We hold provinces that Paraguay has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_PRO_title;Return cores to Provence;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_PRO_desc;We hold provinces that Provence has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_RUS_title;Return cores to Russian-Pecheng Commonwealth;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_RUS_desc;We hold provinces that Russian-Pecheng Commonwealth has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SAX_title;Return cores to Saxony;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SAX_desc;We hold provinces that Saxony has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SCA_title;Return cores to Scandinavia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SCA_desc;We hold provinces that Scandinavia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SCO_title;Return cores to Scotland;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SCO_desc;We hold provinces that Scotland has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SIA_title;Return cores to Siam;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SIA_desc;We hold provinces that Siam has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SLV_title;Return cores to Nitra;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SLV_desc;We hold provinces that Nitra has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SMO_title;Return cores to Samoa;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SMO_desc;We hold provinces that Samoa has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SON_title;Return cores to Sonora;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SON_desc;We hold provinces that Sonora has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SPA_title;Return cores to Historia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SPA_desc;We hold provinces that Historia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SPQ_title;Return cores to Roman Empire;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SPQ_desc;We hold provinces that Roman Empire has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SVY_title;Return cores to Savoy;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SVY_desc;We hold provinces that Savoy has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_SWI_title;Return cores to Switzerland;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_SWI_desc;We hold provinces that Switzerland has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_TEX_title;Return cores to Texas;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_TEX_desc;We hold provinces that Texas has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_TGA_title;Return cores to Tonga;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_TGA_desc;We hold provinces that Tonga has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_TRL_title;Return cores to Trapalandia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_TRL_desc;We hold provinces that Trapalandia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_TRT_title;Return cores to Tirhut;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_TRT_desc;We hold provinces that Tirhut has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_TUR_title;Return cores to Ottomans;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_TUR_desc;We hold provinces that Ottomans has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_TUS_title;Return cores to Tuscany;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_TUS_desc;We hold provinces that Tuscany has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_URB_title;Return cores to Urbino;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_URB_desc;We hold provinces that Urbino has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_UTS_title;Return cores to Tsang;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_UTS_desc;We hold provinces that Tsang has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_VEN_title;Return cores to Venice;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_VEN_desc;We hold provinces that Venice has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_VNZ_title;Return cores to Venezuela;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_VNZ_desc;We hold provinces that Venezuela has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_WES_title;Return cores to Westphalia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_WES_desc;We hold provinces that Westphalia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_WHA_title;Return cores to Wales;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_WHA_desc;We hold provinces that Wales has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_WOL_title;Return cores to Jolof;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_WOL_desc;We hold provinces that Jolof has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X00_title;Return cores to Franconia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X00_desc;We hold provinces that Franconia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X01_title;Return cores to TurkmeJrccstan;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X01_desc;We hold provinces that TurkmeJrccstan has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X02_title;Return cores to Corunna;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X02_desc;We hold provinces that Corunna has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X03_title;Return cores to Valladolid;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X03_desc;We hold provinces that Valladolid has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X04_title;Return cores to St Gallen;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X04_desc;We hold provinces that St Gallen has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X05_title;Return cores to Golconda;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X05_desc;We hold provinces that Golconda has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X06_title;Return cores to Al-Arid;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X06_desc;We hold provinces that Al-Arid has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X07_title;Return cores to Panipat;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X07_desc;We hold provinces that Panipat has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X08_title;Return cores to Warsheikh;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X08_desc;We hold provinces that Warsheikh has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X09_title;Return cores to Illubaborea;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X09_desc;We hold provinces that Illubaborea has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X10_title;Return cores to Niggers in Paris;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X10_desc;We hold provinces that Niggers in Paris has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X11_title;Return cores to Madagascar;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X11_desc;We hold provinces that Madagascar has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X12_title;Return cores to Griqualand;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X12_desc;We hold provinces that Griqualand has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X13_title;Return cores to Turkana;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X13_desc;We hold provinces that Turkana has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X14_title;Return cores to Tarki;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X14_desc;We hold provinces that Tarki has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X15_title;Return cores to Livonia;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X15_desc;We hold provinces that Livonia has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X16_title;Return cores to Kalar;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X16_desc;We hold provinces that Kalar has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X17_title;Return cores to Qingzhou;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X17_desc;We hold provinces that Qingzhou has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X18_title;Return cores to Kawali;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X18_desc;We hold provinces that Kawali has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X19_title;Return cores to Muko-Muko;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X19_desc;We hold provinces that Muko-Muko has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X20_title;Return cores to Kuching;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X20_desc;We hold provinces that Kuching has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X21_title;Return cores to Gorontalo;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X21_desc;We hold provinces that Gorontalo has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X22_title;Return cores to Nellore;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X22_desc;We hold provinces that Nellore has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X23_title;Return cores to Shigatse;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X23_desc;We hold provinces that Shigatse has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X24_title;Return cores to Baltistan;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X24_desc;We hold provinces that Baltistan has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X25_title;Return cores to Karakum;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X25_desc;We hold provinces that Karakum has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X26_title;Return cores to Nishapur;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X26_desc;We hold provinces that Nishapur has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X27_title;Return cores to Karashar;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X27_desc;We hold provinces that Karashar has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_X28_title;Return cores to Ludiland;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_X28_desc;We hold provinces that Ludiland has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_XMA_title;Return cores to Madurai;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_XMA_desc;We hold provinces that Madurai has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x
+return_cores_YRK_title;Return cores to Yarkand;;;;;;;;;;;;;;;;;;;;x,,
+return_cores_YRK_desc;We hold provinces that Yarkand has claims on. Returning these provinces, as an act of good faith, would surely bolster our relations.;;;;;;;;;;;;x

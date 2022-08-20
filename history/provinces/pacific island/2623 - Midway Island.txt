@@ -1,0 +1,6 @@
+owner=DEN
+controller=DEN
+trade_goods = sulphur
+life_rating = 10
+colonial=2
+naval_base = 2

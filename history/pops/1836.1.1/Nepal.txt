@@ -1,0 +1,732 @@
+1326 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 3253
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 1305
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 35
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 20037
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 3626
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 4730
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 126
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 442
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 9571
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = catholic
+		size= 965
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = catholic
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = catholic
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = catholic
+		size= 7344
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 215
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1499
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 108
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 280
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 7
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 502
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = bengali
+		religion = theravada
+		size= 3178
+	}
+
+	soldiers=
+	{
+		culture = bengali
+		religion = theravada
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = bengali
+		religion = theravada
+		size= 675
+	}
+
+	clergymen=
+	{
+		culture = bengali
+		religion = theravada
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = bengali
+		religion = theravada
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bengali
+		religion = theravada
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = bengali
+		religion = theravada
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = bengali
+		religion = theravada
+		size= 15104
+	}
+
+	slaves=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 418
+	}
+
+	soldiers=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 852
+	}
+
+	clergymen=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 9
+	}
+
+	officers=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = bengali
+		religion = nestorian
+		size= 1081
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 5348
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 10840
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1161
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 108
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 651
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 14250
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = hindu
+		size= 2383
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 145
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = hindu
+		size= 506
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = hindu
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 11324
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 225
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 601
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 6
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = nestorian
+		size= 410
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 5924
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 360
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1417
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 14
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 27964
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 1197
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 2086
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 21
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = nestorian
+		size= 3512
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = theravada
+		size= 1509
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = theravada
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = theravada
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 7365
+	}
+
+}

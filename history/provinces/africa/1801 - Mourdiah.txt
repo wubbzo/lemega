@@ -1,0 +1,8 @@
+owner=MLI
+controller=MLI
+add_core=MLI
+add_core=TRL
+trade_goods = wool
+life_rating = 20
+terrain = semidesert
+fort = 1

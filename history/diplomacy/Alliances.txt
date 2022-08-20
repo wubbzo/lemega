@@ -1,0 +1,64 @@
+alliance=
+{
+	first="EGY"
+	second="JAP"
+	start_date="1810.5.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="SPQ"
+	start_date="1749.2.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HLR"
+	second="EGY"
+	start_date="1779.10.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KON"
+	second="MLI"
+	start_date="1665.10.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KON"
+	second="SIA"
+	start_date="1732.9.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KON"
+	second="RUS"
+	start_date="1805.3.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MLI"
+	second="BYZ"
+	start_date="1783.4.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SPQ"
+	second="JAP"
+	start_date="1783.12.21"
+	end_date="1936.1.1"
+}
+

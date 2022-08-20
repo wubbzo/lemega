@@ -1,0 +1,7 @@
+owner=JAP
+controller=JAP
+trade_goods = tea
+life_rating = 31
+colonial=2
+naval_base = 1
+fort = 1

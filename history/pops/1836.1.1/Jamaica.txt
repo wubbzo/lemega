@@ -1,0 +1,340 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 13688
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 815
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 49
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 47079
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2799
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2260
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 407
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 25
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 8155
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 486
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 2868
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 516
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 64894
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 3863
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 14788
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1373
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 211
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 2662
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 16975
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1562
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 55149
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5071
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2522
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 40
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 7036
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 648
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 3017
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 280
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 362
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 76338
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 7024
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 16228
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1507
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 325
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 278
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1948
+	}
+
+}

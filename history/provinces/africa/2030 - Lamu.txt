@@ -1,0 +1,8 @@
+owner=X13
+controller=X13
+add_core=X13
+trade_goods = cattle
+life_rating = 35
+terrain = savanna
+naval_base = 2
+fort = 1

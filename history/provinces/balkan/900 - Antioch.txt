@@ -1,0 +1,6 @@
+owner=ASY
+controller=ASY
+add_core=SRN
+trade_goods = fruit
+life_rating = 35
+terrain = hills

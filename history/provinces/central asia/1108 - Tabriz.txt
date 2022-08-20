@@ -1,0 +1,5 @@
+owner=ASY
+controller=ASY
+trade_goods = coal
+life_rating = 35
+fort = 1

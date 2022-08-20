@@ -1,0 +1,4 @@
+owner=X25
+controller=X25
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,154 @@
+#Sphere of Influence
+
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

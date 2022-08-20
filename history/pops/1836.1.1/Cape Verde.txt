@@ -1,0 +1,275 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 7112
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1903
+	}
+
+	craftsmen=
+	{
+		culture = morado
+		religion = catholic
+		size= 1787
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 23128
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5683
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1519
+	}
+
+	craftsmen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1426
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 2119
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 126
+	}
+
+	clerks=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 24
+	}
+
+	capitalists=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 16509
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = inti
+		size= 255
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = inti
+		size= 68
+	}
+
+	craftsmen=
+	{
+		culture = visigothic
+		religion = inti
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = inti
+		size= 2223
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = inti
+		size= 238
+	}
+
+	clerks=
+	{
+		culture = visigothic
+		religion = inti
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = inti
+		size= 32
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = inti
+		size= 25
+	}
+
+	capitalists=
+	{
+		culture = visigothic
+		religion = inti
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = inti
+		size= 133
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 19518
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = inti
+		size= 5219
+	}
+
+	craftsmen=
+	{
+		culture = hausa
+		religion = inti
+		size= 4897
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = inti
+		size= 17409
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = inti
+		size= 1865
+	}
+
+	clerks=
+	{
+		culture = hausa
+		religion = inti
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = inti
+		size= 249
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = inti
+		size= 199
+	}
+
+	capitalists=
+	{
+		culture = hausa
+		religion = inti
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = inti
+		size= 1045
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = inti
+		size= 42250
+	}
+
+}

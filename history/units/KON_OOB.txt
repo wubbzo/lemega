@@ -1,0 +1,1249 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -36
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -71
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 26
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 6
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIO = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 219
+	influence_value = 42
+	level = 3
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+RUS = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 123
+	influence_value = 18
+	level = 3
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X12 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X13 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Cakasekene Boussombo"
+	date="1800.2.16"
+	type=sea
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Mwine Boussombo"
+	date="1804.1.15"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Ntinu Boussombo"
+	date="1804.3.8"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2030
+	ship = {
+		name="Abuja"
+		type=frigate
+	}
+	ship = {
+		name="Ede"
+		type=frigate
+	}
+	ship = {
+		name="Enugu"
+		type=frigate
+	}
+	ship = {
+		name="Kaduna"
+		type=frigate
+	}
+	ship = {
+		name="Kano"
+		type=frigate
+	}
+	ship = {
+		name="Katsina"
+		type=frigate
+	}
+	ship = {
+		name="Jos"
+		type=frigate
+	}
+	ship = {
+		name="Owo"
+		type=frigate
+	}
+	ship = {
+		name="Sokoto"
+		type=frigate
+	}
+	ship = {
+		name="Zaria"
+		type=frigate
+	}
+	ship = {
+		name="1st Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tolanaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lindi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mbanza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Loango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mbanza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Angoche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Lindi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2624
+	ship = {
+		name="1st Sofala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Inhambane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Antsiranana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mahajanga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Loango Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zanzibar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Luanda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Antsiranana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lindi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Lindi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Toamasina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Moçambique Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Toliara Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=2040
+	regiment = {
+		name="1st Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="1st Lilongwe Artillery"
+		type=artillery
+		home=2067
+	}
+	regiment = {
+		name="1st Lusambo Infantry"
+		type=infantry
+		home=1986
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2001
+	regiment = {
+		name="2nd Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="3rd Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="1st Mbanza Artillery"
+		type=artillery
+		home=2001
+	}
+	regiment = {
+		name="1st Quibala Infantry"
+		type=infantry
+		home=2002
+	}
+	regiment = {
+		name="3rd Mbanza Artillery"
+		type=artillery
+		home=2001
+	}
+}
+
+navy = {
+	name="Explo fleet"
+	location=2030
+	ship = {
+		name="3rd Kilwa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kismayo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sofala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Inhambane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mombasa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mombasa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sofala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mombasa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nellore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Antsiranana Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2030
+	ship = {
+		name="7th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quelimane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Benguela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Luanda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Elizabeth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quelimane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Umtata Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Antsiranana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tolanaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mahajanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Mbanza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bisho Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mossel Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mossel Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sofala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Toamasina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ampanihy Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Otautahi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kongolese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mahajanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Luanda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lamu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kongolese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lamu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quelimane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Luanda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Inhambane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lindi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Inhambane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quelimane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Loango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tolanaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Udine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mayumbe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cabinda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santander Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="18th Army"
+	location=2072
+	regiment = {
+		name="4th Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="5th Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="1st Kumbana Artillery"
+		type=artillery
+		home=1985
+	}
+	regiment = {
+		name="1st Malanje Infantry"
+		type=infantry
+		home=2009
+	}
+	regiment = {
+		name="2nd Kumbana Artillery"
+		type=artillery
+		home=1985
+	}
+}
+
+army = {
+	name="Royal Amy"
+	location=1301
+	regiment = {
+		name="6th Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="1st Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="1st Kumbana Infantry"
+		type=infantry
+		home=1985
+	}
+	regiment = {
+		name="1st Kinshasa Infantry"
+		type=infantry
+		home=1982
+	}
+	regiment = {
+		name="2nd Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="1st Luanda Artillery"
+		type=artillery
+		home=1999
+	}
+	regiment = {
+		name="1st Munza Artillery"
+		type=artillery
+		home=1989
+	}
+	regiment = {
+		name="7th Mbanza Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="1st Mpika Artillery"
+		type=artillery
+		home=2016
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2030
+	ship = {
+		name="2nd Port Elizabeth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Port Elizabeth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mossel Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zanzibar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bisho Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Swettenham Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Mbanza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st O'okiep Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Mossel Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zanzibar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Lindi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Luanda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Port Elizabeth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Antsiranana Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1302
+	regiment = {
+		name="1st Bulawayo Infantry"
+		type=infantry
+		home=2071
+	}
+	regiment = {
+		name="1st Ibo Artillery"
+		type=artillery
+		home=2063
+	}
+	regiment = {
+		name="3rd Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+}
+
+army = {
+	name="20th Army"
+	location=2121
+	regiment = {
+		name="2nd Kumbana Infantry"
+		type=infantry
+		home=1985
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2072
+	regiment = {
+		name="1st Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="1st Kinshasa Artillery"
+		type=artillery
+		home=1982
+	}
+	regiment = {
+		name="1st Kubanda Artillery"
+		type=artillery
+		home=2011
+	}
+	regiment = {
+		name="2nd Kubanda Artillery"
+		type=artillery
+		home=2011
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2024
+	regiment = {
+		name="2nd Mbanza Artillery"
+		type=artillery
+		home=2001
+	}
+	regiment = {
+		name="5th Mbanza Artillery"
+		type=artillery
+		home=2001
+	}
+}
+
+army = {
+	name="17th Army"
+	location=2068
+	regiment = {
+		name="3rd Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="3rd Kumbana Infantry"
+		type=infantry
+		home=1985
+	}
+	regiment = {
+		name="2nd Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="2nd Kinshasa Artillery"
+		type=artillery
+		home=1982
+	}
+	regiment = {
+		name="1st Lusambo Artillery"
+		type=artillery
+		home=1986
+	}
+	regiment = {
+		name="1st Nsheng Infantry"
+		type=infantry
+		home=1994
+	}
+	regiment = {
+		name="4th Mbanza Artillery"
+		type=artillery
+		home=2001
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2001
+	regiment = {
+		name="1st Monzo Infantry"
+		type=infantry
+		home=2015
+	}
+	regiment = {
+		name="1st Songea Infantry"
+		type=infantry
+		home=2040
+	}
+	regiment = {
+		name="4th Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="2nd Monzo Infantry"
+		type=infantry
+		home=2015
+	}
+	regiment = {
+		name="2nd Luanda Artillery"
+		type=artillery
+		home=1999
+	}
+	regiment = {
+		name="3rd Kubanda Artillery"
+		type=artillery
+		home=2011
+	}
+}
+

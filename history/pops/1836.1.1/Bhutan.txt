@@ -1,0 +1,170 @@
+1329 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 69290
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 35657
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 60054
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 5577
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1545
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1030
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 3603
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 210826
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 11802
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 6074
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 1155
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 30
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 46760
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 1121
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 577
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 3173
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 82
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = hindu
+		size= 780
+	}
+
+}

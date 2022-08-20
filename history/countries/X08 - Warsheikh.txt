@@ -1,0 +1,66 @@
+capital = 1871
+primary_culture = copts
+culture = somali
+culture = zzz_religion_monophysite
+religion = monophysite
+government = bourgeois_dictatorship
+plurality = 0
+nationalvalue = nv_tradition
+literacy = 0.435317
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=harassment
+
+ruling_party = X08_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 14
+	conservative = 80
+	reactionary = 6
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 2.5
+nonstate_consciousness= 1.72057
+
+# Technologies
+army_command_principle = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+clipper_design = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+prestige=0
+oob = "X08_OOB.txt"
+set_country_flag = religi
+set_country_flag = vic2_country_X08
+set_country_flag = eu4_country_K17

@@ -1,0 +1,12 @@
+owner=RUS
+controller=RUS
+add_core=PCH
+trade_goods = coal
+life_rating = 35
+colonial=2
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

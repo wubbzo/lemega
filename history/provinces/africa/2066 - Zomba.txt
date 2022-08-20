@@ -1,0 +1,4 @@
+owner=KON
+controller=KON
+trade_goods = fruit
+life_rating = 10

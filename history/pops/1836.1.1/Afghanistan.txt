@@ -1,0 +1,1889 @@
+1209 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 7263
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 862
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 431
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 19
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 34229
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 3889
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 363
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 794
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 13351
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1422
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 462
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 448
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1566
+	}
+
+}
+1210 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 7484
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 9937
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 3780
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 351
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 49
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 454
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 85881
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 3978
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = catholic
+		size= 4389
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = catholic
+		size= 7120
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = catholic
+		size= 661
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 92
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = catholic
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 854
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = catholic
+		size= 31138
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 892
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 12258
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1139
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 158
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 254
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1471
+	}
+
+}
+1211 = {
+	slaves=
+	{
+		culture = tatar
+		religion = hindu
+		size= 10448
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 7370
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hindu
+		size= 2804
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hindu
+		size= 260
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hindu
+		size= 36
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hindu
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 58793
+	}
+
+	slaves=
+	{
+		culture = tatar
+		religion = catholic
+		size= 4739
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 3342
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = catholic
+		size= 5347
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = catholic
+		size= 496
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 69
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 642
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 21584
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 17179
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1115
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 18217
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1692
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 235
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 377
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2186
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = catholic
+		size= 11001
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = catholic
+		size= 8371
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = catholic
+		size= 777
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 108
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = catholic
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = catholic
+		size= 82549
+	}
+
+}
+1212 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 9860
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = catholic
+		size= 11001
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = catholic
+		size= 8371
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = catholic
+		size= 777
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = catholic
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 753
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = catholic
+		size= 89067
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 565
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 9230
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 857
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 66
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 831
+	}
+
+}
+1213 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 2181
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 439
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = yazidi
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = yazidi
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 5
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 19138
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 831
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 193
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 7048
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 1922
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = catholic
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = catholic
+		size= 604
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = catholic
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = catholic
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = catholic
+		size= 12268
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1078
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 350
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2043
+	}
+
+}
+1214 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 4936
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 2384
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = hindu
+		size= 18381
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 4764
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 1110
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = catholic
+		size= 8251
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1678
+	}
+
+	soldiers=
+	{
+		culture = german
+		religion = catholic
+		size= 810
+	}
+
+	artisans=
+	{
+		culture = german
+		religion = catholic
+		size= 936
+	}
+
+	clergymen=
+	{
+		culture = german
+		religion = catholic
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = german
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = german
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = german
+		religion = catholic
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = german
+		religion = catholic
+		size= 4789
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1191
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 3303
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1074
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 240
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 693
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 3892
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = hindu
+		size= 10838
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 5234
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = hindu
+		size= 413
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = hindu
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 10
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 40154
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = sunni
+		size= 1424
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = sunni
+		size= 688
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = sunni
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = sunni
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = sunni
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = sunni
+		size= 5217
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = catholic
+		size= 5349
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 2584
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = catholic
+		size= 966
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = catholic
+		size= 314
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = catholic
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 18575
+	}
+
+}
+1215 = {
+	slaves=
+	{
+		culture = rajput
+		religion = hindu
+		size= 2433
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 6953
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = hindu
+		size= 756
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = hindu
+		size= 246
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 34
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 317
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 64790
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = catholic
+		size= 1077
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 3078
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = catholic
+		size= 1425
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = catholic
+		size= 463
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = catholic
+		size= 598
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 26650
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 324
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 925
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2584
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 840
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 116
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 187
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1085
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 4000
+	}
+
+}
+1216 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 2135
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 2295
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 410
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 18
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 35883
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 1140
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 962
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 754
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 14097
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 263
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1351
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 439
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 284
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1979
+	}
+
+}
+1217 = {
+	slaves=
+	{
+		culture = tatar
+		religion = hindu
+		size= 1265
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 646
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hindu
+		size= 323
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hindu
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hindu
+		size= 15
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hindu
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 29884
+	}
+
+	slaves=
+	{
+		culture = tatar
+		religion = catholic
+		size= 519
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = catholic
+		size= 588
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = catholic
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 11528
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 158
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1073
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 349
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2080
+	}
+
+}
+2133 = {
+	soldiers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 645
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 244
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 11
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 31326
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 266
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 668
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = catholic
+		size= 11990
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 1073
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 349
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2238
+	}
+
+}

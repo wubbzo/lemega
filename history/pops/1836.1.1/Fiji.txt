@@ -1,0 +1,200 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1195
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 60
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 36661
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 437
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 22
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 1319
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1195
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 60
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 36661
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 437
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 22
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = nestorian
+		size= 1319
+	}
+
+}

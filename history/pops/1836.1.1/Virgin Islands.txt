@@ -1,0 +1,184 @@
+2223 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2511
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1426
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 5515
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2679
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 449
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 525
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 5231
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 2130
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 474
+	}
+
+}

@@ -1,0 +1,4 @@
+owner=LNG
+controller=LNG
+trade_goods = silk
+life_rating = 32

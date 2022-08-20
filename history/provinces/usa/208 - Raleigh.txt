@@ -1,0 +1,6 @@
+owner=LOU
+controller=LOU
+add_core=CSA
+add_core=LOU
+trade_goods = tobacco
+life_rating = 35

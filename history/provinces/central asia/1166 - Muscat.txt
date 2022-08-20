@@ -1,0 +1,6 @@
+owner=ASY
+controller=ASY
+trade_goods = opium
+life_rating = 35
+colonial=2
+naval_base = 1

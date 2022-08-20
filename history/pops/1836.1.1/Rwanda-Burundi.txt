@@ -1,0 +1,396 @@
+2034 = {
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 645
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 27594
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 929
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 5140
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 279
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4083
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 381
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 22671
+	}
+
+}
+2035 = {
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 540
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 676
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 17991
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 964
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 2902
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1017
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 8100
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 81
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 486
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 26076
+	}
+
+	soldiers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 443
+	}
+
+	artisans=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 554
+	}
+
+	clergymen=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 14758
+	}
+
+	soldiers=
+	{
+		culture = rundi
+		religion = catholic
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = rundi
+		religion = catholic
+		size= 823
+	}
+
+	clergymen=
+	{
+		culture = rundi
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = rundi
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = rundi
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = rundi
+		religion = catholic
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = rundi
+		religion = catholic
+		size= 2795
+	}
+
+}

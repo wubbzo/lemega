@@ -1,0 +1,8 @@
+owner=AST
+controller=AST
+add_core=AST
+add_core=NZL
+trade_goods = grain
+life_rating = 31
+terrain = savanna
+naval_base = 1

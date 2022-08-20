@@ -1,0 +1,5 @@
+owner=X25
+controller=X25
+trade_goods = wool
+life_rating = 35
+colonial=2

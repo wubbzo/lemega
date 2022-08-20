@@ -1,0 +1,738 @@
+935 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 523
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 3661
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 330
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 47380
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 387
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 9076
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 843
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 117
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 817
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 27387
+	}
+
+}
+1162 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 2527
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 1522
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 20
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 38112
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 1702
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 2866
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 14519
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 5802
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 539
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 75
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2613
+	}
+
+}
+1165 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 2459
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1287
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25562
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 2188
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 632
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 2867
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 17078
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 284
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 5573
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 518
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 334
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 2648
+	}
+
+}
+1167 = {
+	slaves=
+	{
+		culture = rajput
+		religion = catholic
+		size= 13377
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 4615
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = catholic
+		size= 6505
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = catholic
+		size= 604
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = catholic
+		size= 391
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = catholic
+		size= 74676
+	}
+
+	slaves=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 428
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 743
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = monophysite
+		size= 1760
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 1193
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 411
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 8501
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 145
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = catholic
+		size= 510
+	}
+
+}
+1168 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 2102
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 23
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size= 34880
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 214
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 452
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 27
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 2935
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1390
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1820
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 296
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 109
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 382
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 20749
+	}
+
+}

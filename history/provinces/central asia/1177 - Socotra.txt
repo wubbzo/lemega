@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=EGY
+trade_goods = fish
+life_rating = 20
+terrain = semidesert
+colonial=2

@@ -1,0 +1,1119 @@
+2509 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 592
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 1332
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 27399
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 1646
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 16
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 1447
+	}
+
+}
+2510 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 179
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 8739
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 931
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 44
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 195
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 36421
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 1164
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 3418
+	}
+
+}
+2511 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 660
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 660
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 31369
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 1061
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 24
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 8280
+	}
+
+}
+2512 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 355
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 16887
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 571
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 13
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 4462
+	}
+
+}
+2513 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 5020
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 3321
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 1016
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 38
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 213
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 15417
+	}
+
+}
+2514 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 5020
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 3321
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 1016
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 38
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 213
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 18517
+	}
+
+}
+2515 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 213
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 20593
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 842
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 1056
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 50
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 39717
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 187
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 1642
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 308
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 78
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 6718
+	}
+
+}
+2516 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 369
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 17523
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 2146
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 402
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 48
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 451
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 40279
+	}
+
+}
+2524 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 758
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 35765
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 962
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 22
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 3611
+	}
+
+}
+2571 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 1440
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 3239
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 270
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 66653
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = nestorian
+		size= 3907
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = nestorian
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 39
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = nestorian
+		size= 365
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = nestorian
+		size= 2578
+	}
+
+}

@@ -1,0 +1,2150 @@
+1455 = {
+	slaves=
+	{
+		culture = filipino
+		religion = animist
+		size= 6480
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 1770
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 1950
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 52571
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = shinto
+		size= 973
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 3349
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 48
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 4135
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 7274
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1986
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 15967
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1711
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 228
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 239
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1438
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 42111
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 1384
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 378
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 734
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 11
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 10842
+	}
+
+}
+1456 = {
+	slaves=
+	{
+		culture = filipino
+		religion = animist
+		size= 8188
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 2865
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 51218
+	}
+
+	slaves=
+	{
+		culture = malay
+		religion = theravada
+		size= 269
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = theravada
+		size= 1318
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = theravada
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = theravada
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = theravada
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = theravada
+		size= 103
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = theravada
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = theravada
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = malay
+		religion = shinto
+		size= 172
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shinto
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shinto
+		size= 272
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shinto
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shinto
+		size= 14
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shinto
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shinto
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shinto
+		size= 554
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5734
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2001
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3850
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1444
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 193
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 278
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1616
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 29836
+	}
+
+}
+1457 = {
+	slaves=
+	{
+		culture = filipino
+		religion = animist
+		size= 1525
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 590
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 18963
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 22954
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2065
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1985
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 798
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 744
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 99
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 104
+	}
+
+}
+1458 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 1770
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 1950
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 59051
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 3349
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 48
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 5108
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1986
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 15967
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1711
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 228
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 239
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1438
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 49385
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 378
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 734
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 11
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 12226
+	}
+
+}
+1459 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 1953
+	}
+
+	craftsmen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 4201
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 588
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 221
+	}
+
+	clerks=
+	{
+		culture = filipino
+		religion = sunni
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 30
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 31
+	}
+
+	capitalists=
+	{
+		culture = filipino
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 62410
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shiite
+		size= 14
+	}
+
+	craftsmen=
+	{
+		culture = filipino
+		religion = shiite
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shiite
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shiite
+		size= 43
+	}
+
+	clerks=
+	{
+		culture = filipino
+		religion = shiite
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shiite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shiite
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = filipino
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shiite
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shiite
+		size= 235
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 407
+	}
+
+	craftsmen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 874
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 1401
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 525
+	}
+
+	clerks=
+	{
+		culture = filipino
+		religion = shinto
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 70
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 74
+	}
+
+	capitalists=
+	{
+		culture = filipino
+		religion = shinto
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 588
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 10441
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 284
+	}
+
+	craftsmen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 610
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2916
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1094
+	}
+
+	clerks=
+	{
+		culture = japanese
+		religion = shinto
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 145
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 153
+	}
+
+	capitalists=
+	{
+		culture = japanese
+		religion = shinto
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1225
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3428
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 1141
+	}
+
+	craftsmen=
+	{
+		culture = filipino
+		religion = animist
+		size= 2454
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 407
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 153
+	}
+
+	clerks=
+	{
+		culture = filipino
+		religion = animist
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 21
+	}
+
+	capitalists=
+	{
+		culture = filipino
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 36329
+	}
+
+}
+1460 = {
+	slaves=
+	{
+		culture = filipino
+		religion = animist
+		size= 5139
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 441
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 603
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 37760
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = hindu
+		size= 598
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 960
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 14
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 3465
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = shinto
+		size= 511
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 2189
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 31
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 1086
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4935
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 424
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 9680
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1037
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 139
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1162
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 24875
+	}
+
+}
+1461 = {
+	slaves=
+	{
+		culture = filipino
+		religion = animist
+		size= 4283
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 371
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 1550
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 30585
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4505
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 389
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 9103
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 975
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 130
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 546
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 24495
+	}
+
+}
+1462 = {
+	slaves=
+	{
+		culture = filipino
+		religion = animist
+		size= 8013
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 1346
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 678
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 37873
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = shinto
+		size= 506
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 891
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 13
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 1378
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 9689
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1628
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 13716
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1469
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 196
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 205
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 822
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 32705
+	}
+
+}
+1463 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 112633
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 2910
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 42
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 41382
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 664
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 4821
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 517
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 69
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 434
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 7824
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6389
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 35339
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3787
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 504
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 732
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3181
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 92944
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 1394
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 20
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 4666
+	}
+
+}
+1464 = {
+	slaves=
+	{
+		culture = filipino
+		religion = sunni
+		size= 5980
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 502
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 43230
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 3942
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 331
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 581
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 29
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = yazidi
+		size= 27764
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = shinto
+		size= 1180
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 1030
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 52
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 6792
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2703
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2769
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1039
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 138
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 872
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 14836
+	}
+
+}
+2565 = {
+	slaves=
+	{
+		culture = filipino
+		religion = hindu
+		size= 3176
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 336
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 13
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 29639
+	}
+
+	slaves=
+	{
+		culture = filipino
+		religion = shinto
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shinto
+		size= 501
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shinto
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 25
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shinto
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shinto
+		size= 2891
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3313
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2156
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 808
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 108
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 679
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 27520
+	}
+
+}

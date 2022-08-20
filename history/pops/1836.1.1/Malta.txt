@@ -1,0 +1,93 @@
+854 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 5066
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 7710
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 716
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 55
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 160
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 925
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = orthodox
+		size= 95509
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 260
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 8501
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 61
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 176
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 1020
+	}
+
+}

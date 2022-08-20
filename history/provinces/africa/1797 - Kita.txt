@@ -1,0 +1,6 @@
+owner=FUL
+controller=FUL
+add_core=FUL
+trade_goods = fruit
+life_rating = 32
+fort = 1

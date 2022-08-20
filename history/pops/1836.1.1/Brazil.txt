@@ -1,0 +1,11077 @@
+2306 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1229
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2987
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 102
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 6764
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 11880
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3937
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 421
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 472
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 56
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+}
+2401 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11476
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4189
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1307
+	}
+
+}
+2402 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11476
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4189
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1307
+	}
+
+}
+2403 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11476
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4189
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1307
+	}
+
+}
+2404 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11476
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4189
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1307
+	}
+
+}
+2405 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11476
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4189
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1307
+	}
+
+}
+2407 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11476
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4189
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1307
+	}
+
+}
+2408 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6088
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 5480
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+}
+2410 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 9130
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 685
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 23987
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = barbaro_germanic_south_america_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = barbaro_germanic_south_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 231
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 1281
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2816
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 14040
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1046
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3655
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1370
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 182
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1535
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 30980
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 8189
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 614
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 678
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 34
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 285
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = shamanism
+		size= 20640
+	}
+
+}
+2411 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1259
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4829
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1655
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4689
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+}
+2412 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6088
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 6344
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+}
+2413 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6088
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 6344
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+}
+2415 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4324
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1919
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5457
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 83252
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 474
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 586
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 327
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 77
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 31
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 301
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 1477
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 21
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = west_african_pagan_reformed
+		size= 4497
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 486
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3998
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 428
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 57
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 5342
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 147
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 217
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 5433
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 582
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 78
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 326
+	}
+
+}
+2416 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 510
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size= 301
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 8223
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1148
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4803
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 514
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 576
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 13664
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 721
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 11806
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 393
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 477
+	}
+
+}
+2417 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 7219
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 12031
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 805
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 1543
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 165
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 22
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4107
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 14203
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1520
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 202
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 161
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 850
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 53492
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 465
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 7830
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 494
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8332
+	}
+
+}
+2418 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 1115
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 18457
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1252
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 18902
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2819
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 35458
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10824
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1160
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 650
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 155
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 303
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1841
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 110
+	}
+
+}
+2419 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 510
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size= 301
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 8223
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1148
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4803
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 514
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 576
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 13664
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 721
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 11806
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 393
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 477
+	}
+
+}
+2420 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 510
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size= 301
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 8223
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1148
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4803
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 514
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 576
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 13664
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 721
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 11806
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 393
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 477
+	}
+
+}
+2421 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 53074
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 6538
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 2815
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 56
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 506
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 53439
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 466
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 262
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 5652
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 696
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3868
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 414
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 77
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 696
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 988
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 39293
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4842
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 26236
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2812
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 525
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 299
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4722
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 27837
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 3430
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 23211
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 5806
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 1045
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 621
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 115
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 13230
+	}
+
+}
+2422 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 16992
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1504
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 58942
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 12969
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1388
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1556
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 184
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 74
+	}
+
+}
+2423 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 687
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 33134
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 98844
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2649
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 26726
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2861
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3205
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 532
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 402
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 945
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3808
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 408
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 76
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 457
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 41558
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6924
+	}
+
+}
+2424 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 28095
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 1503
+	}
+
+	craftsmen=
+	{
+		culture = je
+		religion = animist
+		size= 5454
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 2497
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 36869
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 58
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	craftsmen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 135
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 268
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 14
+	}
+
+	clerks=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	clerks=
+	{
+		culture = je
+		religion = animist
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 14
+	}
+
+	capitalists=
+	{
+		culture = je
+		religion = animist
+		size= 30
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 4516
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 241
+	}
+
+	craftsmen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 876
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3480
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 373
+	}
+
+	clerks=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	capitalists=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 418
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1948
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 9407
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 503
+	}
+
+	craftsmen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1827
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9634
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1032
+	}
+
+	clerks=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 55
+	}
+
+	capitalists=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1156
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 978
+	}
+
+}
+2425 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 5666
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 3204
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 344
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 383
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 91476
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2037
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1591
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 32340
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1986
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 16757
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1796
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 334
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2011
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 12403
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 498
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3902
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 78
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3487
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6
+	}
+
+}
+2426 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 3823
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 445
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 4250
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 176
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 29225
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1344
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10032
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1075
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 143
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1204
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24139
+	}
+
+}
+2427 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 4152
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 2476
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 66876
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 313
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 666
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3444
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 370
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 49
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 413
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 6902
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1454
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9691
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1038
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1162
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 12364
+	}
+
+}
+2428 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 2778
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 486
+	}
+
+	craftsmen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 471
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9045
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 43109
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7533
+	}
+
+	craftsmen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7308
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 100873
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 31031
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 5584
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3323
+	}
+
+	clerks=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 492
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 443
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 265
+	}
+
+	capitalists=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 191
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 2172
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 379
+	}
+
+	craftsmen=
+	{
+		culture = je
+		religion = animist
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7070
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 129
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	craftsmen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 418
+	}
+
+}
+2429 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 4565
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 676
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6843
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 35432
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 5250
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 45879
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4234
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1588
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1333
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 296
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 169
+	}
+
+}
+2430 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 6078
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 885
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 474
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 8242
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 173
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 241
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 95
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 15250
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 2220
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3354
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 402
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 17979
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 5119
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 745
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 5795
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 621
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 83
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 695
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+}
+2431 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 5532
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 680
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5920
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 45753
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 16533
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 29921
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4499
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1687
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1890
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 314
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 180
+	}
+
+}
+2432 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 6391
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 542
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4753
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 62052
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 25833
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 11070
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 923
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 246
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1205
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 15553
+	}
+
+}
+2433 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 4849
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 452
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2771
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 36889
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4133
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 8892
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9726
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1167
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1041
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 110
+	}
+
+}
+2434 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 4817
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 229
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6424
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 42422
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2022
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 36825
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 15748
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2834
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1687
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 314
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 89
+	}
+
+}
+2435 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 35141
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1622
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2837
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 304
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 41
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 511
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 40621
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 8188
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 378
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 4161
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 446
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 59
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 749
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 4891
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 2547
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7822
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 838
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 112
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1408
+	}
+
+}
+2436 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 25521
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1326
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2155
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 231
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 36814
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 4846
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3035
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 325
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 43
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 273
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3796
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 5198
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 270
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9513
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1019
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 136
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 856
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 10938
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 15586
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 563
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1159
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = west_african_pagan_reformed
+		size= 627
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = west_african_pagan_reformed
+		size= 1274
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = west_african_pagan_reformed
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = west_african_pagan_reformed
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 537
+	}
+
+}
+2437 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 46461
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 4503
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 2198
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 26566
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 717
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 152
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 50714
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 4916
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 8572
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 919
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 123
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1543
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 20889
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 70321
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 6814
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 29759
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3188
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 425
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 340
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 5356
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 14707
+	}
+
+}
+2438 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 5772
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 754
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 6942
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 32510
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24518
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4247
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 12506
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1340
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1501
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 179
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 143
+	}
+
+}
+2439 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 4443
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 1776
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 25628
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7602
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 732
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1719
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 645
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 85
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 34
+	}
+
+}
+2440 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 26907
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 732
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 1202
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7456
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 259
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 4598
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1729
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 25
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 207
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 21281
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 579
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9900
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1061
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 141
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1187
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 6483
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2155
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 23184
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 2826
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 303
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 630
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 4563
+	}
+
+}
+2441 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 5110
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 596
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 4949
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 34561
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 19856
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4034
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 11580
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1240
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1389
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 165
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 132
+	}
+
+}
+2442 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 19047
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 622
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 1023
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 10174
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 279
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1231
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 148
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 5900
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3685
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 395
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 53
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 442
+	}
+
+}
+2443 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 21282
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 710
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 12359
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 12919
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 6069
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 428
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 2021
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 216
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 28
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 13917
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 463
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7413
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 794
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 106
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 620
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 941
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1407
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1154
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 69
+	}
+
+}
+2444 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 13014
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 572
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 947
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 13926
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 860
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1138
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 4125
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 181
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3414
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 366
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 49
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 714
+	}
+
+}
+2445 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 47848
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 4555
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 766
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 27560
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 718
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 331
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 7423
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 707
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 1078
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 75
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 340
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 2549
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 8233
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 784
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2463
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 924
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 172
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 776
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 545
+	}
+
+}
+2446 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 5121
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3155
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 130
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 28768
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 8670
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 948
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7873
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 843
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 944
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 112
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 44
+	}
+
+}
+2447 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 32629
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4660
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 252
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 44490
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 78
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = west_african_pagan_reformed
+		size= 7271
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1038
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1205
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 452
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 60
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 380
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 8088
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 2837
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 405
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2328
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 873
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 116
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 733
+	}
+
+}
+2448 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 3086
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2751
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 22627
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7597
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1985
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 744
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 99
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 39
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10333
+	}
+
+}
+2449 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 3036
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2373
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 18801
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 11814
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1587
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 595
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 334
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 79
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+}
+2450 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1131
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1160
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 128
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 131
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 8345
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7326
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 794
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 297
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 39
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 342
+	}
+
+}
+2451 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1764
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1952
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 13598
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9402
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1322
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 496
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 277
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4133
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 66
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+}
+2452 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1613
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2603
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 55
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 89
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 8878
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 9771
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3937
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 421
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 472
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 56
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+}
+2453 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 1238
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 532
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7725
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 5881
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2524
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 27820
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7642
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 818
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 917
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 109
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 87
+	}
+
+}
+2455 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1118
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1173
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 134
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 8236
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7435
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 794
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 297
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 39
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 342
+	}
+
+}
+2456 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 1238
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 532
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7725
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 5881
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2524
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 27820
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7642
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 818
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 917
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 109
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 87
+	}
+
+}
+2457 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1357
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3340
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 133
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 324
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 9752
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 20844
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1588
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 595
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 667
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 79
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+}
+2458 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 3949
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 252
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 8388
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 9093
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 16201
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 576
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 2910
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 311
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 349
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 41
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 4600
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 293
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 4963
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 532
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 71
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 596
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3580
+	}
+
+}
+2459 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1433
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 107
+	}
+
+	craftsmen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1076
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 20
+	}
+
+	clerks=
+	{
+		culture = guarani
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2511
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 8053
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 604
+	}
+
+	craftsmen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 6047
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 2302
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 247
+	}
+
+	clerks=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	capitalists=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 12487
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1395
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 105
+	}
+
+	craftsmen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1047
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3222
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 345
+	}
+
+	clerks=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 278
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 46
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	capitalists=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 193
+	}
+
+}
+2460 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 2048
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 6983
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 54
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 184
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 10397
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 26354
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 934
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 7874
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 844
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 945
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 112
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 45
+	}
+
+}
+2461 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1465
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3577
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 8236
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 604
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 2302
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 18627
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1427
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3222
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 46
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 193
+	}
+
+}
+2462 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1880
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3162
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 10570
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 604
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 2302
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = west_african_pagan_reformed
+		size= 16293
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1831
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3222
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 46
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 193
+	}
+
+}
+2463 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 592
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1882
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 7325
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 2433
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 206
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 856
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 404
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2050
+	}
+
+}
+2464 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 918
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1556
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 5987
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = inti
+		size= 3775
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 206
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1326
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 404
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1580
+	}
+
+}
+2465 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 6413
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 712
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 2494
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 267
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 25397
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 736
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 3065
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 328
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 368
+	}
+
+}
+2466 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 4856
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 1247
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 11041
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 557
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 1532
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 184
+	}
+
+}
+2467 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 1247
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 15897
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 1532
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = animist
+		size= 91
+	}
+
+}
+2532 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7128
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 1800
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 16223
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 25
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 368
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2827
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 3793
+	}
+
+}
+2549 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 2562
+	}
+
+	farmers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 465
+	}
+
+	artisans=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = protestant
+		size= 5709
+	}
+
+}
+2550 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 18376
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 11536
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 209
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 2141
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 17110
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 230
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 257
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 30
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 413
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 6539
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 701
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 94
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 785
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 12064
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 1471
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 176
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 267
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 8
+	}
+
+}
+2600 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6088
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 6344
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+}

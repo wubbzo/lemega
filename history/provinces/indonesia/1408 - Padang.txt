@@ -1,0 +1,6 @@
+owner=X19
+controller=X19
+add_core=X19
+trade_goods = fruit
+life_rating = 32
+naval_base = 2

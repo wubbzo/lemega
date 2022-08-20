@@ -1,0 +1,13 @@
+owner=BYZ
+controller=BYZ
+add_core=BYZ
+add_core=GRE
+trade_goods = sulphur
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

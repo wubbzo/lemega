@@ -1,0 +1,9 @@
+owner=NHX
+controller=NHX
+add_core=GUG
+add_core=TIB
+add_core=UTS
+add_core=X23
+trade_goods = grain
+life_rating = 32
+colonial=2

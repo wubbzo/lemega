@@ -1,0 +1,6 @@
+owner=HES
+controller=HES
+add_core=HES
+add_core=HLR
+trade_goods = iron
+life_rating = 40

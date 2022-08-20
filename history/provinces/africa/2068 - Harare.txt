@@ -1,0 +1,6 @@
+owner=KON
+controller=KON
+trade_goods = fruit
+life_rating = 10
+terrain = savanna
+colonial=2

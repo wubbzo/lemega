@@ -1,0 +1,4 @@
+owner=X26
+controller=X26
+trade_goods = wool
+life_rating = 35

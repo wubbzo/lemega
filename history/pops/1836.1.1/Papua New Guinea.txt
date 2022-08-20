@@ -1,0 +1,1533 @@
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1551
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 15232
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1284
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 720
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 170
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 6806
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 785
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 433
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 41
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 6990
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 1067
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = shinto
+		size= 1158
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = shinto
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 110
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 8497
+	}
+
+}
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 390
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 19059
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4589
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 492
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 275
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 9263
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 740
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 36097
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 192
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 24
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 13083
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = shinto
+		size= 529
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = shinto
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 40
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 66
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1209
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 91
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2295
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 713
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 311
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 34543
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 316
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size= 1054
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 23
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 10603
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 133
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = shinto
+		size= 2147
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = shinto
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 46
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 3814
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4509
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 483
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 97
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 541
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2674
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 418
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 44559
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 423
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 11
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 944
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size= 1431
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 39
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 14192
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 480
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = shinto
+		size= 2871
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = shinto
+		size= 308
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 78
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 4616
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 332
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5973
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 640
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 162
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 358
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1551
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 15232
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1284
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 720
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 170
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 6806
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 785
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 433
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 41
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = shinto
+		size= 6990
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 1067
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = shinto
+		size= 1158
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = shinto
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 110
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 8497
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4304
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 7338
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 193
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 3248
+	}
+
+	soldiers=
+	{
+		culture = janub
+		religion = nestorian
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = janub
+		religion = nestorian
+		size= 480
+	}
+
+	clergymen=
+	{
+		culture = janub
+		religion = nestorian
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = janub
+		religion = nestorian
+		size= 29
+	}
+
+	officers=
+	{
+		culture = janub
+		religion = nestorian
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = janub
+		religion = nestorian
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = janub
+		religion = nestorian
+		size= 3348
+	}
+
+}

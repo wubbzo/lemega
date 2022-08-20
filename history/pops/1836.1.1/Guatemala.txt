@@ -1,0 +1,983 @@
+2186 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 240
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 13182
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 722
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 12650
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1571
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 6670
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 533
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 6267
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 582
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 90
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 18782
+	}
+
+}
+2187 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1680
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1050
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 27016
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 461
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1627
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 5762
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 2120
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 7977
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 741
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 114
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 957
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 25859
+	}
+
+}
+2188 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 237
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11361
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 8418
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1331
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 6757
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 401
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 4879
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 453
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 70
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 13950
+	}
+
+}
+2189 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 359
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 30241
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2053
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 17965
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 561
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 6350
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 590
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 91
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 762
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 19656
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 3777
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 351
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 453
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 430
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6943
+	}
+
+}
+2628 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 332
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 290
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15885
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 675
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 9939
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 159
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1520
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 5900
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 7242
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 672
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 103
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 869
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 20917
+	}
+
+}

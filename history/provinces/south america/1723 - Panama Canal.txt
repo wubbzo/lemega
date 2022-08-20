@@ -1,0 +1,4 @@
+owner=TEX
+controller=TEX
+trade_goods = fruit
+life_rating = 32

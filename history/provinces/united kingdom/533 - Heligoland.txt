@@ -1,0 +1,7 @@
+owner=HLR
+controller=HLR
+add_core=HAN
+add_core=HLR
+trade_goods = fish
+life_rating = 30
+terrain = small_island

@@ -1,0 +1,5 @@
+owner=URB
+controller=URB
+add_core=URB
+trade_goods = wool
+life_rating = 35

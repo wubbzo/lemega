@@ -1,0 +1,1536 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -98
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -16
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 145
+	influence_value = 23
+	level = 3
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -198
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -13
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -56
+	level = 2
+}
+FUL = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = -10
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -13
+	level = 2
+}
+KBO = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 168
+	influence_value = 29
+	level = 3
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIO = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = -96
+	level = 2
+}
+RUS = {
+	value = 31
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = -46
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = -11
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+
+#Leaders
+leader = {
+	name="Bashir II"
+	date="1801.12.22"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Beauty Modibo"
+	date="1802.1.1"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Bäckahäst Moussa"
+	date="1803.8.15"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Hwin Konare"
+	date="1805.6.14"
+	type=sea
+	personality="chivalrous"
+	background="cartographer"
+}
+
+leader = {
+	name="Bäckahäst Moussa"
+	date="1809.12.29"
+	type=sea
+	personality="chivalrous"
+	background="cartographer"
+}
+
+leader = {
+	name="Bako Keita"
+	date="1818.4.11"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Bashir Deo"
+	date="1818.4.12"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Grolle Keita"
+	date="1818.4.14"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Hwin Amadou"
+	date="1818.4.17"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2919
+	ship = {
+		name="Abuja"
+		type=frigate
+	}
+	ship = {
+		name="Ede"
+		type=frigate
+	}
+	ship = {
+		name="Enugu"
+		type=frigate
+	}
+	ship = {
+		name="Kaduna"
+		type=frigate
+	}
+	ship = {
+		name="Kano"
+		type=frigate
+	}
+	ship = {
+		name="Katsina"
+		type=frigate
+	}
+	ship = {
+		name="Jos"
+		type=frigate
+	}
+	ship = {
+		name="Owo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2922
+	ship = {
+		name="Sokoto"
+		type=frigate
+	}
+	ship = {
+		name="Zaria"
+		type=frigate
+	}
+	ship = {
+		name="1st Grand Bassam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Porto Seguro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salvador da Bahia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Accra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st São Tomé Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vitória Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rosso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Baraka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cotonou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd São Luís Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Campos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Georgetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wakanda's Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pelotas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sassandra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lagos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ziguinchor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lagos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vitória Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Benin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Grand Lahou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Warri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Benin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sekondi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bonny Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lagos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bonny Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Wakanda's Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Buea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Warri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Grand Bassam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Macapá Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cotonou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lagos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Santos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Iguape Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Calabar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Lagos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Baraka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sekondi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Boffa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bonny Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ziguinchor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Grand Lahou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Accra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Benin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Monrovia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Baraka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Porto Alegre Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rosso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Accra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Maceió Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Warri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sirt Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Warri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cayenne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Santos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sekondi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th São Luís Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fernando Pó Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Boffa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Buea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ziguinchor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Vitória Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ziguinchor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Harper Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Güiria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Benin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Natal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mauritius Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Paraíba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint-Louis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Porto Alegre Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Porto Seguro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fortaleza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rio de Janeiro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bonny Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Misratah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Paraíba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bonny Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Santos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cotonou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rosso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Bonny Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1923
+	ship = {
+		name="5th São Luís Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Maceió Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Salvador da Bahia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Curiapo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Natal Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1821
+	regiment = {
+		name="1st Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Kong Infantry"
+		type=infantry
+		home=1898
+	}
+	regiment = {
+		name="2nd Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="1st Chenachene Artillery"
+		type=artillery
+		home=1717
+	}
+	regiment = {
+		name="2nd Wahiguya Infantry"
+		type=infantry
+		home=1902
+	}
+	regiment = {
+		name="1st Lagos Artillery"
+		type=artillery
+		home=1923
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1923
+	ship = {
+		name="3rd Porto Seguro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Wakanda's Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cayenne Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="33rd Army"
+	location=1807
+	regiment = {
+		name="1st Wahiguya Infantry"
+		type=infantry
+		home=1902
+	}
+	regiment = {
+		name="1st Kintampo Infantry"
+		type=infantry
+		home=1911
+	}
+	regiment = {
+		name="3rd Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Bandiagara Infantry"
+		type=infantry
+		home=1804
+	}
+	regiment = {
+		name="1st Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="1st Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+	regiment = {
+		name="2nd Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+	regiment = {
+		name="2nd Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="1st Chenachene Infantry"
+		type=infantry
+		home=1717
+	}
+	regiment = {
+		name="4th Gao Artillery"
+		type=artillery
+		home=1805
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1807
+	regiment = {
+		name="1st Lome Infantry"
+		type=infantry
+		home=1914
+	}
+	regiment = {
+		name="1st Bondouku Infantry"
+		type=infantry
+		home=1899
+	}
+	regiment = {
+		name="2nd Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="1st Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="3rd Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="4th Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="3rd Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+	regiment = {
+		name="7th Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="1st Jenne Artillery"
+		type=artillery
+		home=1802
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1717
+	regiment = {
+		name="2nd Bandiagara Infantry"
+		type=infantry
+		home=1804
+	}
+	regiment = {
+		name="1st Yendi Infantry"
+		type=infantry
+		home=1916
+	}
+	regiment = {
+		name="5th Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="4th Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="1st Araouane Infantry"
+		type=infantry
+		home=2609
+	}
+	regiment = {
+		name="1st Sia Infantry"
+		type=infantry
+		home=1905
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1807
+	regiment = {
+		name="1st Grand Lahou Infantry"
+		type=infantry
+		home=1892
+	}
+	regiment = {
+		name="2nd Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="3rd Bandiagara Infantry"
+		type=infantry
+		home=1804
+	}
+	regiment = {
+		name="6th Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="2nd Araouane Infantry"
+		type=infantry
+		home=2609
+	}
+	regiment = {
+		name="3rd Araouane Infantry"
+		type=infantry
+		home=2609
+	}
+	regiment = {
+		name="1st Orodaro Infantry"
+		type=infantry
+		home=1906
+	}
+	regiment = {
+		name="1st Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="7th Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="2nd Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="1st Awka Infantry"
+		type=infantry
+		home=1933
+	}
+	regiment = {
+		name="3rd Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="1st Mourdiah Artillery"
+		type=artillery
+		home=1801
+	}
+	regiment = {
+		name="3rd Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="1st Wahiguya Artillery"
+		type=artillery
+		home=1902
+	}
+	regiment = {
+		name="1st Gao Artillery"
+		type=artillery
+		home=1805
+	}
+	regiment = {
+		name="4th Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="2nd Gao Artillery"
+		type=artillery
+		home=1805
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1717
+	regiment = {
+		name="4th Bandiagara Infantry"
+		type=infantry
+		home=1804
+	}
+	regiment = {
+		name="5th Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="1st Mourdiah Infantry"
+		type=infantry
+		home=1801
+	}
+	regiment = {
+		name="6th Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="4th Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="4th Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="6th Bandiagara Infantry"
+		type=infantry
+		home=1804
+	}
+	regiment = {
+		name="1st Segu Artillery"
+		type=artillery
+		home=1800
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1717
+	regiment = {
+		name="1st Bougouni Infantry"
+		type=infantry
+		home=1798
+	}
+	regiment = {
+		name="8th Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="2nd Orodaro Infantry"
+		type=infantry
+		home=1906
+	}
+	regiment = {
+		name="5th Bandiagara Infantry"
+		type=infantry
+		home=1804
+	}
+	regiment = {
+		name="1st Bamako Infantry"
+		type=infantry
+		home=1794
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1716
+	regiment = {
+		name="1st Dori Infantry"
+		type=infantry
+		home=1903
+	}
+	regiment = {
+		name="2nd Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="2nd Chenachene Artillery"
+		type=artillery
+		home=1717
+	}
+	regiment = {
+		name="1st Dori Artillery"
+		type=artillery
+		home=1903
+	}
+	regiment = {
+		name="9th Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="3rd Gao Artillery"
+		type=artillery
+		home=1805
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1717
+	regiment = {
+		name="1st Lagos Infantry"
+		type=infantry
+		home=1923
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1716
+	regiment = {
+		name="3rd Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="2nd Dori Artillery"
+		type=artillery
+		home=1903
+	}
+	regiment = {
+		name="2nd Tindouf Infantry"
+		type=infantry
+		home=1716
+	}
+	regiment = {
+		name="1st Sia Artillery"
+		type=artillery
+		home=1905
+	}
+}
+
+army = {
+	name="24th Army"
+	location=1716
+	regiment = {
+		name="1st Tindouf Infantry"
+		type=infantry
+		home=1716
+	}
+	regiment = {
+		name="1st Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="4th Araouane Infantry"
+		type=infantry
+		home=2609
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1717
+	regiment = {
+		name="1st Fada Ngourma Infantry"
+		type=infantry
+		home=1904
+	}
+	regiment = {
+		name="5th Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+}
+

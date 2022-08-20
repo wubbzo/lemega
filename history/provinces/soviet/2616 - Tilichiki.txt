@@ -1,0 +1,5 @@
+owner=KMC
+controller=KMC
+add_core=KMC
+trade_goods = fish
+life_rating = 20

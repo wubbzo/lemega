@@ -1,0 +1,198 @@
+2127 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2489
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 40816
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 784
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 165
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 146
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 41
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = shinto
+		size= 160
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = shinto
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = shinto
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = shinto
+		size= 1
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = shinto
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = shinto
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = shinto
+		size= 2648
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 533
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 322
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = norse_pagan_reformed
+		size= 8502
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1245
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 44
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 714
+	}
+
+}

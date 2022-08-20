@@ -1,0 +1,3495 @@
+2087 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6727
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 10228
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 808
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 111
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1672
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7411
+	}
+
+}
+2088 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 527
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 17947
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11621
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 362
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 873
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 162
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 477
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3000
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 66
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 560
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 279
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 52
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 314
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 333
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 13394
+	}
+
+}
+2089 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6727
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 10228
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 808
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 111
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1672
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7411
+	}
+
+}
+2090 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6727
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 10228
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 808
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 111
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1672
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7411
+	}
+
+}
+2091 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 12319
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 523
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 17790
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 509
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 678
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 16661
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 993
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 208
+	}
+
+}
+2092 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 8628
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 2506
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 468
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 538
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 15812
+	}
+
+}
+2093 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 8652
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1056
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 198
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 442
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 15950
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 63
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 177
+	}
+
+}
+2094 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 567
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 19666
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1195
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 2513
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1055
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 37633
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 471
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 150
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 131
+	}
+
+}
+2095 = {
+	aristocrats=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = animist
+		size= 4650
+	}
+
+}
+2096 = {
+	soldiers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 3841
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 8567
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 529
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 92
+	}
+
+}
+2097 = {
+	soldiers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 3841
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 8567
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 529
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 92
+	}
+
+}
+2098 = {
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 2757
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1262
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2196
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 28
+	}
+
+}
+2099 = {
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 2757
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1262
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2196
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 28
+	}
+
+}
+2100 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 101
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 2656
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = catholic
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = catholic
+		size= 1215
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 84
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2112
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 28
+	}
+
+}
+2101 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 413
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6719
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3331
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 199
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 47
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 11254
+	}
+
+}
+2102 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 454
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6678
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3331
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 199
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 68
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 991
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 11164
+	}
+
+}
+2103 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 442
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6690
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3331
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 199
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 47
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 965
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 11189
+	}
+
+}
+2104 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 162
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6970
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3331
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 199
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 751
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 353
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 11799
+	}
+
+}
+2105 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 129
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2284
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 59
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 265
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4399
+	}
+
+}
+2106 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 157
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2256
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 59
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 323
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4341
+	}
+
+}
+2107 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2363
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 59
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 102
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4562
+	}
+
+}
+2108 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 586
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 8040
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 17630
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1350
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 570
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 587
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 246
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 30
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 604
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 254
+	}
+
+}
+2109 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 255
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 269
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 9095
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1188
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 223
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 17472
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 533
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 62
+	}
+
+}
+2110 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 519
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2925
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 6112
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1137
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 50
+	}
+
+}
+2111 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 955
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 11900
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = catholic
+		size= 412
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = catholic
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = catholic
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = zulu
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = zulu
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = zulu
+		religion = catholic
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = catholic
+		size= 4979
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 780
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 401
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 9126
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 602
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 253
+	}
+
+}
+2112 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 177
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6955
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 3331
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 199
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 751
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 11767
+	}
+
+}
+2113 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 84
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6114
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 12262
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 344
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 72
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 173
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 18
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 406
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 85
+	}
+
+}
+2114 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 204
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3240
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 6800
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 225
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 447
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 50
+	}
+
+}
+2558 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 8628
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 2506
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 468
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 538
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 15812
+	}
+
+}

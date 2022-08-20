@@ -1,0 +1,13 @@
+owner=RUS
+controller=RUS
+add_core=KHA
+trade_goods = grain
+life_rating = 32
+colonial=2
+fort = 1
+state_building=
+{
+	level=2
+	building = fabric_factory
+	upgrade = yes
+}

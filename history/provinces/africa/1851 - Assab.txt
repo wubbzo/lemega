@@ -1,0 +1,7 @@
+owner=EGY
+controller=EGY
+trade_goods = fish
+life_rating = 31
+terrain = desert
+colonial=2
+naval_base = 1

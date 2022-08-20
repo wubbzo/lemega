@@ -1,0 +1,6 @@
+owner=HLR
+controller=HLR
+add_core=FLA
+trade_goods = fish
+life_rating = 40
+naval_base = 2

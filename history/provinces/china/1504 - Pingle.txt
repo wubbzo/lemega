@@ -1,0 +1,4 @@
+owner=CHC
+controller=CHC
+trade_goods = timber
+life_rating = 32

@@ -1,0 +1,11 @@
+owner=BHU
+controller=BHU
+add_core=BHU
+trade_goods = opium
+life_rating = 32
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

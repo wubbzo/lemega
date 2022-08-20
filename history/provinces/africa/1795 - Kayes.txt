@@ -1,0 +1,6 @@
+owner=FUL
+controller=FUL
+add_core=FUL
+trade_goods = precious_metal
+life_rating = 32
+fort = 1

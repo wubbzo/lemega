@@ -1,0 +1,6 @@
+owner=SON
+controller=SON
+trade_goods = coal
+life_rating = 35
+colonial=2
+fort = 1

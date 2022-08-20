@@ -1,0 +1,6 @@
+owner=SPQ
+controller=SPQ
+add_core=CAT
+trade_goods = silk
+life_rating = 35
+naval_base = 2

@@ -1,0 +1,5 @@
+owner=X17
+controller=X17
+trade_goods = tea
+life_rating = 35
+colonial=2

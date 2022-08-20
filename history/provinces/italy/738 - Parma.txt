@@ -1,0 +1,8 @@
+owner=URB
+controller=FER
+add_core=FER
+add_core=LOM
+add_core=URB
+trade_goods = iron
+life_rating = 35
+fort = 1

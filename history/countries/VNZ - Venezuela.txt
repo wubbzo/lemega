@@ -1,0 +1,70 @@
+capital = 2264
+primary_culture = caucasian_south_america_superregion_culture
+culture = copts
+culture = sahelian_south_america_superregion_culture
+culture = zzz_religion_monophysite
+religion = monophysite
+government = bourgeois_dictatorship
+plurality = 0
+nationalvalue = nv_liberty
+literacy = 0.435317
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=harassment
+
+ruling_party = VNZ_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 14
+	conservative = 80
+	reactionary = 6
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 2.5
+nonstate_consciousness= 1.85
+
+# Technologies
+army_command_principle = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+clipper_design = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+prestige=0
+oob = "VNZ_OOB.txt"
+set_country_flag = new_world_nation
+set_country_flag = post_colonial_country
+set_country_flag = postcol_1
+set_country_flag = religi
+set_country_flag = vic2_country_VNZ
+set_country_flag = eu4_country_VNZ

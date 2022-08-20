@@ -1,0 +1,6 @@
+owner=KON
+controller=KON
+add_core=MYS
+trade_goods = fruit
+life_rating = 32
+colonial=2

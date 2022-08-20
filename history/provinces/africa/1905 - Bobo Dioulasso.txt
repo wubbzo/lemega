@@ -1,0 +1,5 @@
+owner=MLI
+controller=MLI
+add_core=MLI
+trade_goods = precious_metal
+life_rating = 35

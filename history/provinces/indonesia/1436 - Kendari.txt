@@ -1,0 +1,5 @@
+owner=X21
+controller=X21
+add_core=X21
+trade_goods = dye
+life_rating = 31

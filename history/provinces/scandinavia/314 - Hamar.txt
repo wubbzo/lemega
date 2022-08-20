@@ -1,0 +1,8 @@
+owner=DEN
+controller=DEN
+add_core=DEN
+add_core=NOR
+trade_goods = grain
+life_rating = 20
+terrain = montane_tundra
+fort = 1

@@ -1,0 +1,7 @@
+owner=ASY
+controller=ASY
+add_core=IRQ
+trade_goods = cattle
+life_rating = 10
+colonial=2
+fort = 1

@@ -1,0 +1,6 @@
+owner=TEX
+controller=TEX
+add_core=TEX
+trade_goods = coffee
+life_rating = 39
+fort = 1

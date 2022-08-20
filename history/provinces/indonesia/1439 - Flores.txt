@@ -1,0 +1,5 @@
+owner=X21
+controller=X21
+trade_goods = coffee
+life_rating = 31
+colonial=2

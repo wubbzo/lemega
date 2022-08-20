@@ -1,0 +1,6 @@
+owner=LNG
+controller=CMI
+add_core=CMI
+add_core=LNG
+trade_goods = cattle
+life_rating = 32

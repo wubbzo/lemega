@@ -1,0 +1,5 @@
+owner=X22
+controller=X22
+add_core=MYS
+trade_goods = cattle
+life_rating = 32

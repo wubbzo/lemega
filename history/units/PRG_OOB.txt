@@ -1,0 +1,575 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 176
+	influence_value = 31
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 9
+	level = 2
+}
+CLM = {
+	value = -2
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 29
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 20
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 3
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 74
+	military_access = yes
+	influence_value = 6
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adrianos Diogenes"
+	date="1801.11.30"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Basileios III de Montmorency"
+	date="1814.9.3"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Ioustinianos Phokas"
+	date="1813.5.21"
+	type=sea
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Caracalla Basiliskos"
+	date="1815.1.27"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2348
+	regiment = {
+		name="1st Paysandú Infantry"
+		type=infantry
+		home=2345
+	}
+	regiment = {
+		name="2nd Paysandú Infantry"
+		type=infantry
+		home=2345
+	}
+	regiment = {
+		name="1st Melo Cavalry"
+		type=cavalry
+		home=2347
+	}
+	regiment = {
+		name="1st Villa Nueva Artillery"
+		type=artillery
+		home=2380
+	}
+	regiment = {
+		name="1st Rosario Cavalry"
+		type=cavalry
+		home=2363
+	}
+	regiment = {
+		name="1st Laboulaye Artillery"
+		type=artillery
+		home=2382
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2990
+	ship = {
+		name="Alto Paraguay"
+		type=frigate
+	}
+	ship = {
+		name="Libertad"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2381
+	regiment = {
+		name="3rd Paysandú Infantry"
+		type=infantry
+		home=2345
+	}
+	regiment = {
+		name="4th Paysandú Infantry"
+		type=infantry
+		home=2345
+	}
+	regiment = {
+		name="1st Curuzú Cuatiá Artillery"
+		type=artillery
+		home=2357
+	}
+	regiment = {
+		name="1st Laboulaye Infantry"
+		type=infantry
+		home=2382
+	}
+	regiment = {
+		name="1st Paysandú Artillery"
+		type=artillery
+		home=2345
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2987
+	ship = {
+		name="Bajo Paraguay"
+		type=frigate
+	}
+	ship = {
+		name="Independencia"
+		type=frigate
+	}
+	ship = {
+		name="Presidente Hayes"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2990
+	ship = {
+		name="Boquerón"
+		type=frigate
+	}
+	ship = {
+		name="Constitución"
+		type=frigate
+	}
+	ship = {
+		name="Gran Chaco"
+		type=frigate
+	}
+	ship = {
+		name="Patria Paraguaya"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2346
+	ship = {
+		name="Encarnación"
+		type=manowar
+	}
+	ship = {
+		name="San José"
+		type=manowar
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2346
+	ship = {
+		name="Angostura"
+		type=clipper_transport
+	}
+	ship = {
+		name="Estrella de los Mares"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gigante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Intrépida"
+		type=clipper_transport
+	}
+	ship = {
+		name="Júpiter"
+		type=clipper_transport
+	}
+	ship = {
+		name="Libre"
+		type=clipper_transport
+	}
+}
+

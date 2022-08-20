@@ -1,0 +1,242 @@
+2125 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 4133
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 91069
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 7213
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 772
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 432
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 92
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 67
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 8535
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 914
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 110
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 512
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 3399
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 56409
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size= 606
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size= 197
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 30
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 638
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hellenic_pagan
+		size= 444
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 589
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1666
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 541
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 83
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 7218
+	}
+
+}

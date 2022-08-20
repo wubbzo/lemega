@@ -1,0 +1,1336 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X25 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+X26 = {
+	value = 75
+	military_access = yes
+	influence_value = 26
+	level = 5
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="Army of Tadmor"
+	location=930
+	regiment = {
+		name="1st Samawah Infantry"
+		type=infantry
+		home=934
+	}
+	regiment = {
+		name="1st Sulaymania Infantry"
+		type=infantry
+		home=925
+	}
+	regiment = {
+		name="1st Ilam Infantry"
+		type=infantry
+		home=1119
+	}
+	regiment = {
+		name="1st Van Infantry"
+		type=infantry
+		home=890
+	}
+	regiment = {
+		name="1st Zanjan Cavalry"
+		type=cavalry
+		home=1123
+	}
+	regiment = {
+		name="1st Bitlis Cavalry"
+		type=cavalry
+		home=891
+	}
+	regiment = {
+		name="1st Bitlis Artillery"
+		type=artillery
+		home=891
+	}
+	regiment = {
+		name="1st Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="1st Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="1st Ardabil Artillery"
+		type=artillery
+		home=1112
+	}
+	regiment = {
+		name="1st Ahvaz Artillery"
+		type=artillery
+		home=1131
+	}
+	regiment = {
+		name="1st Bahrain Infantry"
+		type=infantry
+		home=1162
+	}
+	regiment = {
+		name="1st Ardabil Cavalry"
+		type=cavalry
+		home=1112
+	}
+	regiment = {
+		name="1st Raqqah Artillery"
+		type=artillery
+		home=901
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=894
+	ship = {
+		name="Aramu"
+		type=manowar
+	}
+	ship = {
+		name="Argishtis"
+		type=manowar
+	}
+	ship = {
+		name="Ararat"
+		type=frigate
+	}
+	ship = {
+		name="Ani"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1162
+	ship = {
+		name="Artsakh"
+		type=manowar
+	}
+	ship = {
+		name="Dvin"
+		type=manowar
+	}
+	ship = {
+		name="Erimena"
+		type=manowar
+	}
+	ship = {
+		name="Haik"
+		type=manowar
+	}
+	ship = {
+		name="Haldi"
+		type=manowar
+	}
+	ship = {
+		name="Ishpuinis"
+		type=manowar
+	}
+	ship = {
+		name="Kars"
+		type=manowar
+	}
+	ship = {
+		name="Lutipri"
+		type=manowar
+	}
+	ship = {
+		name="Musasir"
+		type=frigate
+	}
+	ship = {
+		name="Menuas"
+		type=frigate
+	}
+	ship = {
+		name="1st Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Doha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gwadar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Assyrian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Abu Dhabi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Assyrian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Yerevan"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=894
+	ship = {
+		name="Manzikert"
+		type=manowar
+	}
+	ship = {
+		name="Parisos"
+		type=manowar
+	}
+	ship = {
+		name="Rusas II"
+		type=frigate
+	}
+	ship = {
+		name="1st Beirut Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Acre Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trablos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Antakya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Latakia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Vaspurakan"
+		type=manowar
+	}
+	ship = {
+		name="1st Beirut Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Acre Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Army of Qazaniya"
+	location=1119
+	regiment = {
+		name="1st Samarra Infantry"
+		type=infantry
+		home=927
+	}
+	regiment = {
+		name="2nd Samarra Infantry"
+		type=infantry
+		home=927
+	}
+	regiment = {
+		name="1st Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+	regiment = {
+		name="1st Deir ez-Zor Cavalry"
+		type=cavalry
+		home=907
+	}
+	regiment = {
+		name="1st Aleppo Artillery"
+		type=artillery
+		home=897
+	}
+	regiment = {
+		name="1st Kermanshah Artillery"
+		type=artillery
+		home=1117
+	}
+	regiment = {
+		name="1st Kaf Artillery"
+		type=artillery
+		home=1156
+	}
+	regiment = {
+		name="1st Mahabad Infantry"
+		type=infantry
+		home=1111
+	}
+	regiment = {
+		name="1st Amman Cavalry"
+		type=cavalry
+		home=908
+	}
+	regiment = {
+		name="3rd Ahvaz Artillery"
+		type=artillery
+		home=1131
+	}
+}
+
+army = {
+	name="6th Army"
+	location=900
+	regiment = {
+		name="2nd Samawah Infantry"
+		type=infantry
+		home=934
+	}
+	regiment = {
+		name="1st Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="1st Deir ez-Zor Infantry"
+		type=infantry
+		home=907
+	}
+	regiment = {
+		name="3rd Samarra Infantry"
+		type=infantry
+		home=927
+	}
+	regiment = {
+		name="1st Sulaymania Cavalry"
+		type=cavalry
+		home=925
+	}
+	regiment = {
+		name="1st Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+	regiment = {
+		name="1st Amman Artillery"
+		type=artillery
+		home=908
+	}
+	regiment = {
+		name="1st Baqubah Artillery"
+		type=artillery
+		home=928
+	}
+	regiment = {
+		name="1st Homs Artillery"
+		type=artillery
+		home=903
+	}
+	regiment = {
+		name="12th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="2nd Sulaymania Cavalry"
+		type=cavalry
+		home=925
+	}
+	regiment = {
+		name="1st Latakia Cavalry"
+		type=cavalry
+		home=905
+	}
+	regiment = {
+		name="4th Latakia Artillery"
+		type=artillery
+		home=905
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2785
+	ship = {
+		name="Siwini"
+		type=frigate
+	}
+	ship = {
+		name="Selardi"
+		type=frigate
+	}
+	ship = {
+		name="Sarduri I"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of Baghdad"
+	location=686
+	regiment = {
+		name="1st Qatif Infantry"
+		type=infantry
+		home=1163
+	}
+	regiment = {
+		name="2nd Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+	regiment = {
+		name="2nd Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="3rd Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+}
+
+army = {
+	name="Army of Baraimi"
+	location=905
+	regiment = {
+		name="1st Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="3rd Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+	regiment = {
+		name="4th Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+}
+
+army = {
+	name="Army of Yasuj"
+	location=1111
+	regiment = {
+		name="2nd Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="1st Rewanduz Artillery"
+		type=artillery
+		home=924
+	}
+	regiment = {
+		name="13th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1142
+	regiment = {
+		name="1st Baghdad Infantry"
+		type=infantry
+		home=926
+	}
+	regiment = {
+		name="2nd Baghdad Infantry"
+		type=infantry
+		home=926
+	}
+	regiment = {
+		name="1st Kermanshah Infantry"
+		type=infantry
+		home=1117
+	}
+	regiment = {
+		name="1st Ahvaz Infantry"
+		type=infantry
+		home=1131
+	}
+	regiment = {
+		name="1st Bitlis Infantry"
+		type=infantry
+		home=891
+	}
+	regiment = {
+		name="1st Azraq Infantry"
+		type=infantry
+		home=910
+	}
+	regiment = {
+		name="1st Latakia Artillery"
+		type=artillery
+		home=905
+	}
+	regiment = {
+		name="2nd Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="2nd Latakia Artillery"
+		type=artillery
+		home=905
+	}
+	regiment = {
+		name="1st Adana Artillery"
+		type=artillery
+		home=894
+	}
+	regiment = {
+		name="2nd Baqubah Artillery"
+		type=artillery
+		home=928
+	}
+}
+
+army = {
+	name="Army of Ardabil"
+	location=1112
+	regiment = {
+		name="3rd Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="14th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1118
+	regiment = {
+		name="1st Arak Infantry"
+		type=infantry
+		home=1128
+	}
+	regiment = {
+		name="1st Rutbah Infantry"
+		type=infantry
+		home=931
+	}
+	regiment = {
+		name="3rd Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="5th Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+	regiment = {
+		name="1st Hasakah Infantry"
+		type=infantry
+		home=1813
+	}
+	regiment = {
+		name="1st Urmia Artillery"
+		type=artillery
+		home=1110
+	}
+}
+
+army = {
+	name="Army of Teheran"
+	location=1115
+	regiment = {
+		name="2nd Bitlis Infantry"
+		type=infantry
+		home=891
+	}
+	regiment = {
+		name="2nd Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+	regiment = {
+		name="1st Al-Ahsa Infantry"
+		type=infantry
+		home=2586
+	}
+	regiment = {
+		name="2nd Ahvaz Infantry"
+		type=infantry
+		home=1131
+	}
+	regiment = {
+		name="1st Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+	regiment = {
+		name="1st Rafha Artillery"
+		type=artillery
+		home=1158
+	}
+	regiment = {
+		name="1st Nablus Artillery"
+		type=artillery
+		home=918
+	}
+	regiment = {
+		name="1st Karbala Artillery"
+		type=artillery
+		home=929
+	}
+	regiment = {
+		name="2nd Bitlis Artillery"
+		type=artillery
+		home=891
+	}
+}
+
+army = {
+	name="Army of Ardalan"
+	location=1108
+	regiment = {
+		name="4th Samarra Infantry"
+		type=infantry
+		home=927
+	}
+	regiment = {
+		name="3rd Baghdad Infantry"
+		type=infantry
+		home=926
+	}
+	regiment = {
+		name="2nd Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="3rd Latakia Artillery"
+		type=artillery
+		home=905
+	}
+	regiment = {
+		name="1st Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="1st Samarra Artillery"
+		type=artillery
+		home=927
+	}
+	regiment = {
+		name="1st Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1207
+	regiment = {
+		name="1st Adana Infantry"
+		type=infantry
+		home=894
+	}
+	regiment = {
+		name="1st Antep Infantry"
+		type=infantry
+		home=898
+	}
+	regiment = {
+		name="1st Antakya Artillery"
+		type=artillery
+		home=900
+	}
+	regiment = {
+		name="1st Basra Artillery"
+		type=artillery
+		home=932
+	}
+	regiment = {
+		name="4th Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="1st Mosul Infantry"
+		type=infantry
+		home=923
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1132
+	regiment = {
+		name="4th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="5th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="1st Rewanduz Infantry"
+		type=infantry
+		home=924
+	}
+	regiment = {
+		name="6th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="3rd Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="1st Abadan Artillery"
+		type=artillery
+		home=1132
+	}
+	regiment = {
+		name="1st Baghdad Artillery"
+		type=artillery
+		home=926
+	}
+	regiment = {
+		name="1st Marash Infantry"
+		type=infantry
+		home=896
+	}
+	regiment = {
+		name="3rd Amman Artillery"
+		type=artillery
+		home=908
+	}
+}
+
+army = {
+	name="13th Army"
+	location=928
+	regiment = {
+		name="1st Doha Infantry"
+		type=infantry
+		home=1165
+	}
+	regiment = {
+		name="1st Amman Infantry"
+		type=infantry
+		home=908
+	}
+	regiment = {
+		name="2nd Arak Infantry"
+		type=infantry
+		home=1128
+	}
+	regiment = {
+		name="7th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="1st Khvoy Infantry"
+		type=infantry
+		home=1109
+	}
+	regiment = {
+		name="1st Sanandaj Infantry"
+		type=infantry
+		home=1118
+	}
+	regiment = {
+		name="1st Khoramabad Infantry"
+		type=infantry
+		home=1120
+	}
+	regiment = {
+		name="2nd Kermanshah Artillery"
+		type=artillery
+		home=1117
+	}
+	regiment = {
+		name="6th Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1210
+	regiment = {
+		name="1st Homs Infantry"
+		type=infantry
+		home=903
+	}
+	regiment = {
+		name="1st Acre Infantry"
+		type=infantry
+		home=916
+	}
+	regiment = {
+		name="1st As-Suwayda Infantry"
+		type=infantry
+		home=906
+	}
+	regiment = {
+		name="8th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="9th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="2nd Homs Artillery"
+		type=artillery
+		home=903
+	}
+	regiment = {
+		name="2nd Amman Artillery"
+		type=artillery
+		home=908
+	}
+	regiment = {
+		name="2nd Homs Infantry"
+		type=infantry
+		home=903
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1213
+	regiment = {
+		name="10th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="11th Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2790
+	ship = {
+		name="Sarduris II"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=927
+	regiment = {
+		name="1st Beersheba Infantry"
+		type=infantry
+		home=921
+	}
+	regiment = {
+		name="1st Dezful Infantry"
+		type=infantry
+		home=1133
+	}
+	regiment = {
+		name="1st Raqqah Infantry"
+		type=infantry
+		home=901
+	}
+	regiment = {
+		name="2nd Amman Infantry"
+		type=infantry
+		home=908
+	}
+	regiment = {
+		name="1st Abu Dhabi Artillery"
+		type=artillery
+		home=1167
+	}
+	regiment = {
+		name="2nd Karbala Artillery"
+		type=artillery
+		home=929
+	}
+	regiment = {
+		name="5th Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="6th Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+	regiment = {
+		name="7th Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1117
+	regiment = {
+		name="1st Lengeh Infantry"
+		type=infantry
+		home=1141
+	}
+	regiment = {
+		name="2nd Doha Infantry"
+		type=infantry
+		home=1165
+	}
+	regiment = {
+		name="1st Gwadar Infantry"
+		type=infantry
+		home=2640
+	}
+	regiment = {
+		name="2nd Ahvaz Artillery"
+		type=artillery
+		home=1131
+	}
+	regiment = {
+		name="2nd Baghdad Artillery"
+		type=artillery
+		home=926
+	}
+	regiment = {
+		name="8th Sulaymania Artillery"
+		type=artillery
+		home=925
+	}
+	regiment = {
+		name="3rd Doha Infantry"
+		type=infantry
+		home=1165
+	}
+	regiment = {
+		name="2nd Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+}
+

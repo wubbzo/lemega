@@ -1,0 +1,1381 @@
+1173 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = zikri
+		size= 2213
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 640
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 1119
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 11
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 403
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 27463
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 4111
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 5276
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 565
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 53
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 1899
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 43307
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 2606
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 754
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 11668
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 1250
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 117
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 4201
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 16950
+	}
+
+}
+1175 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 9655
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 1049
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 1049
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 37
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 39802
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 3741
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 407
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 1862
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 698
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 65
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 782
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 12707
+	}
+
+}
+1176 = {
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 2854
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 713
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 2494
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 25
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 898
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 29236
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 319
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 6557
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 703
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 66
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 2360
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 4976
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zikri
+		size= 775
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 12209
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 676
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 244
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 1344
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 13
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 484
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 9287
+	}
+
+}
+1177 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 12450
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 370
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 9
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 23454
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 11215
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 333
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 1037
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 337
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 26
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 653
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 19708
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = orthodox
+		size= 815
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = orthodox
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = orthodox
+		size= 1504
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = orthodox
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = orthodox
+		size= 38
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = orthodox
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = orthodox
+		size= 948
+	}
+
+}
+1178 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = zikri
+		size= 2159
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 1706
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 1249
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 16
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 377
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 38860
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 1304
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 1030
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 2756
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 35
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 833
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 20029
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 1471
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 1162
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 7405
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 966
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 93
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 2236
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 15180
+	}
+
+}
+1179 = {
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 12506
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 869
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 869
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 30
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 547
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 33307
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 587
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 2043
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 766
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 71
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 1287
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 19483
+	}
+
+}
+1180 = {
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 17920
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 1363
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 4771
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 511
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 48
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 1145
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 53114
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 24316
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 2606
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 243
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 5836
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 51320
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zikri
+		size= 5048
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 961
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 1683
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 17
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 404
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 39770
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 2735
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 521
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 3506
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 35
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 842
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 18002
+	}
+
+}
+1412 = {
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 4183
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 713
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 2494
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 25
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 898
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 28318
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 319
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 6557
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 703
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 66
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 2360
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 4565
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zikri
+		size= 1135
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = zikri
+		size= 11849
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size= 990
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 244
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 1344
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 13
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 484
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 8973
+	}
+
+}

@@ -1,0 +1,439 @@
+1356 = {
+	slaves=
+	{
+		culture = lao
+		religion = theravada
+		size= 7863
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 3653
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 7146
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 596
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 79
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 1334
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 58540
+	}
+
+	slaves=
+	{
+		culture = lao
+		religion = animist
+		size= 14415
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 13101
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 1092
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 145
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 2445
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 106790
+	}
+
+}
+1357 = {
+	slaves=
+	{
+		culture = lao
+		religion = animist
+		size= 10376
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 3500
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 6848
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 571
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 107
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 1918
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 52590
+	}
+
+	slaves=
+	{
+		culture = lao
+		religion = theravada
+		size= 12632
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 8337
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 695
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 130
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 222
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 2334
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 61053
+	}
+
+}
+1360 = {
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 11110
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 33812
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 1811
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 435
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 580
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 4734
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 189033
+	}
+
+}
+1361 = {
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 8800
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 471
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 63
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 1056
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 42062
+	}
+
+}
+1362 = {
+	slaves=
+	{
+		culture = lao
+		religion = animist
+		size= 10217
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 3957
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 12043
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 645
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 1445
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 57420
+	}
+
+}
+1363 = {
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 3957
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 12043
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 645
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 1445
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 67637
+	}
+
+}

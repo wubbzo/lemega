@@ -1,0 +1,6 @@
+owner=X20
+controller=X20
+add_core=X20
+trade_goods = grain
+life_rating = 32
+naval_base = 1

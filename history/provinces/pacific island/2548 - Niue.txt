@@ -1,0 +1,7 @@
+owner=BHU
+controller=BHU
+add_core=TGA
+trade_goods = fish
+life_rating = 15
+terrain = small_island
+colonial=2

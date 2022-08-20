@@ -1,0 +1,12 @@
+owner=HLR
+controller=HLR
+add_core=HLR
+trade_goods = fruit
+life_rating = 45
+fort = 1
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

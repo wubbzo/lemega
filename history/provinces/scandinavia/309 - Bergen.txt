@@ -1,0 +1,14 @@
+owner=DEN
+controller=DEN
+add_core=DEN
+add_core=NOR
+trade_goods = iron
+life_rating = 20
+terrain = montane_tundra
+fort = 1
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

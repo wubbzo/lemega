@@ -1,0 +1,7 @@
+owner=BHU
+controller=BHU
+add_core=NZL
+trade_goods = fish
+life_rating = 10
+colonial=2
+naval_base = 2

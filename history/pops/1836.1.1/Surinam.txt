@@ -1,0 +1,207 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5083
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 27
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 25568
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 629
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 236
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 132
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 523
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = catholic
+		size= 8051
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 165
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 959
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 360
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = catholic
+		size= 201
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 581
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 28441
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 160
+	}
+
+	farmers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 72533
+	}
+
+	soldiers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 17600
+	}
+
+	clergymen=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 1886
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 2111
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 351
+	}
+
+	officers=
+	{
+		culture = sahelian_south_america_superregion_culture
+		religion = inti
+		size= 163
+	}
+
+}

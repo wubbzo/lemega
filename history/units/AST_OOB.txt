@@ -1,0 +1,603 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 13
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = -38
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 226
+	military_access = yes
+	influence_value = 44
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = -16
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = -14
+	level = 2
+}
+NZL = {
+	value = -43
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 9
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -7
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 27
+	level = 2
+}
+TUR = {
+	value = -13
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Yasuhito Ichijo"
+	date="1808.6.10"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hidehito Toki"
+	date="1814.12.3"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Hidehito Matsudaira"
+	date="1819.5.18"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Hidehito Otomo"
+	date="1819.5.20"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hidehito Yamana"
+	date="1819.5.23"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2490
+	regiment = {
+		name="1st Melbourne Infantry"
+		type=infantry
+		home=2476
+	}
+	regiment = {
+		name="1st Port Macquarie Infantry"
+		type=infantry
+		home=2470
+	}
+	regiment = {
+		name="1st Eden Cavalry"
+		type=cavalry
+		home=2472
+	}
+	regiment = {
+		name="1st Toowoomba Artillery"
+		type=artillery
+		home=2486
+	}
+	regiment = {
+		name="1st Sale Artillery"
+		type=artillery
+		home=2479
+	}
+	regiment = {
+		name="2nd Port Macquarie Infantry"
+		type=infantry
+		home=2470
+	}
+	regiment = {
+		name="1st Sydney Cavalry"
+		type=cavalry
+		home=2468
+	}
+	regiment = {
+		name="2nd Toowoomba Artillery"
+		type=artillery
+		home=2486
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2479
+	regiment = {
+		name="1st Broken Hill Infantry"
+		type=infantry
+		home=2475
+	}
+	regiment = {
+		name="1st Port Macquarie Artillery"
+		type=artillery
+		home=2470
+	}
+	regiment = {
+		name="2nd Port Macquarie Artillery"
+		type=artillery
+		home=2470
+	}
+	regiment = {
+		name="3rd Port Macquarie Infantry"
+		type=infantry
+		home=2470
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2866
+	ship = {
+		name="Darwin"
+		type=frigate
+	}
+	ship = {
+		name="Darling"
+		type=frigate
+	}
+	ship = {
+		name="Diamantina"
+		type=frigate
+	}
+	ship = {
+		name="Dee"
+		type=frigate
+	}
+	ship = {
+		name="1st Roebourne Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2872
+	ship = {
+		name="Dawson"
+		type=frigate
+	}
+	ship = {
+		name="3rd Port Macquarie Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2479
+	ship = {
+		name="Spitfire"
+		type=manowar
+	}
+	ship = {
+		name="Adelaide"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2867
+	ship = {
+		name="Gold Coast"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2865
+	ship = {
+		name="1st Sydney Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Eden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Eden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Eden Clipper Transport"
+		type=clipper_transport
+	}
+}
+

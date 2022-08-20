@@ -1,0 +1,794 @@
+1321 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 3568
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 2230
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 32
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 57606
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 438
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 2777
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 4203
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1182
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 7962
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 370
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 114
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 557
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 10826
+	}
+
+}
+1322 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 670
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 11131
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 2904
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 1302
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 29
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 47375
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 331
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 1701
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 38
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 3524
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1654
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 5795
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 129
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 541
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 20895
+	}
+
+}
+1323 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 1703
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 342
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 28267
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 977
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 735
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 16
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 15582
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 262
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 1288
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 28
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 2850
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1041
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 4038
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 291
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 90
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 439
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 12632
+	}
+
+}
+1324 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 1703
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 342
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 28267
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 977
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 735
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 16
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 15582
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 262
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 1288
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 28
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = nestorian
+		size= 2850
+	}
+
+	soldiers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 1041
+	}
+
+	artisans=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 4038
+	}
+
+	clergymen=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 291
+	}
+
+	bureaucrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 90
+	}
+
+	officers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 439
+	}
+
+	farmers=
+	{
+		culture = tocharian
+		religion = nestorian
+		size= 12632
+	}
+
+}
+1325 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 562
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size= 2250
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size= 366
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 84
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 945
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 51991
+	}
+
+}

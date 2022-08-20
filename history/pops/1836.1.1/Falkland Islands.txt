@@ -1,0 +1,100 @@
+2131 = {
+	soldiers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1455
+	}
+
+	farmers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 22929
+	}
+
+	artisans=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 1822
+	}
+
+	clergymen=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 194
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 9475
+	}
+
+	artisans=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 25505
+	}
+
+	clergymen=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 2732
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 510
+	}
+
+	officers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 291
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 1530
+	}
+
+	farmers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 130628
+	}
+
+}

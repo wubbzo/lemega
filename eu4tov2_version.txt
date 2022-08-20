@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 1.0U "Ulm"
+* Compatible with EU4 [v1.0-v1.33] and Vic2 [v3]
+* Built on Mon Mar  7 11:22:39 2022
+************************** + EU4 To Vic2 + ***************************

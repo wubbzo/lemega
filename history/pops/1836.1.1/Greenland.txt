@@ -1,0 +1,144 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 6687
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 8796
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 45073
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 1118
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 817
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 528
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 124
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 49
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 6687
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 8796
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 45073
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 1118
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 817
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 528
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 124
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = hellenic_pagan
+		size= 49
+	}
+
+}

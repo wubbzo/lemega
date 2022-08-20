@@ -1,0 +1,1972 @@
+336 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11302
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 9486
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 284
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 3728
+	}
+
+}
+337 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12245
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 810
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 11149
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 4187
+	}
+
+}
+338 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = cathar
+		size= 491
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = cathar
+		size= 546
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = cathar
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = cathar
+		size= 14
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = cathar
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = cathar
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = cathar
+		size= 47832
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 2534
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 823
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 63
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 532
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 49949
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 8881
+	}
+
+	soldiers=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 1233
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 401
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 31
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 259
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = norse_pagan_reformed
+		size= 119
+	}
+
+}
+339 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 571
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 357
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 19392
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2103
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 30
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 3741
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1173
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 8956
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 959
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 128
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 537
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 30031
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 501
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 627
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 16655
+	}
+
+}
+340 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 635
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 21871
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 1316
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 428
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 15233
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 556
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 7931
+	}
+
+}
+341 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11490
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 2337
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 6228
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 930
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 2823
+	}
+
+}
+342 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11490
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 2337
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 6228
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 930
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 2823
+	}
+
+}
+343 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 635
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 21871
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 1316
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 428
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 15233
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 556
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 7931
+	}
+
+}
+344 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 391
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = catholic
+		size= 684
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 37887
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 405
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 2102
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 37656
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 3084
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = norse_pagan_reformed
+		size= 604
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 6173
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 573
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 44
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 370
+	}
+
+}
+345 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 457
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = catholic
+		size= 1600
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = catholic
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = catholic
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 43285
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 535
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 5344
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 496
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 641
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 46385
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 7878
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 732
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 945
+	}
+
+}
+346 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11302
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 9486
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 284
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 3728
+	}
+
+}
+347 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 370
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19663
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 4711
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 437
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = norse_pagan_reformed
+		size= 14946
+	}
+
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 1867
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = norse_pagan_reformed
+		size= 5738
+	}
+
+}
+348 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 1092
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 4367
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 1419
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 109
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 917
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 101132
+	}
+
+}

@@ -1,0 +1,158 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 16245
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1644
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 113
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 81389
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 8238
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 15053
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 1805
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 1397
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 301
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 257
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17396
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1644
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 121
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 87143
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 8238
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 15053
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 1805
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 1397
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 301
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = hellenic_pagan
+		size= 257
+	}
+
+}

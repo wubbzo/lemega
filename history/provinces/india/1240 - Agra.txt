@@ -1,0 +1,5 @@
+owner=X07
+controller=X07
+trade_goods = dye
+life_rating = 32
+colonial=2

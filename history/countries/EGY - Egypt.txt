@@ -1,0 +1,66 @@
+capital = 1751
+primary_culture = copts
+culture = zzz_religion_monophysite
+religion = monophysite
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_productivity
+literacy = 0.432508
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=no_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=first_past_the_post
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=harassment
+
+ruling_party = EGY_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 11
+	conservative = 83
+	reactionary = 6
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.67619
+nonstate_consciousness= 0.02816
+
+# Technologies
+army_command_principle = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+clipper_design = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+military_staff_system = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+prestige=12.9927
+oob = "EGY_OOB.txt"
+set_country_flag = religi
+decision = EGY_1836_setup
+decision = LEB_1836_setup
+set_country_flag = vic2_country_EGY
+set_country_flag = eu4_country_EGY

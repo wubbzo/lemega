@@ -1,0 +1,6 @@
+owner=FUL
+controller=FUL
+add_core=FUL
+trade_goods = cattle
+life_rating = 15
+terrain = semidesert

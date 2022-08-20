@@ -1,0 +1,5 @@
+owner=X13
+controller=X13
+trade_goods = fruit
+life_rating = 10
+terrain = montane_forest

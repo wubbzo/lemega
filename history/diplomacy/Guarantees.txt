@@ -1,0 +1,8 @@
+guarantee=
+{
+	first="SIA"
+	second="NHX"
+	start_date="1746.5.31"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,7 @@
+owner=FRA
+controller=FRA
+add_core=BSQ
+trade_goods = wool
+life_rating = 31
+terrain = forest
+naval_base = 1

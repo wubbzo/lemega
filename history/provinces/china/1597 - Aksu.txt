@@ -1,0 +1,6 @@
+owner=NHX
+controller=NHX
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32
+colonial=2

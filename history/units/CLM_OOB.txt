@@ -1,0 +1,651 @@
+#Sphere of Influence
+
+ALS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -108
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -10
+	military_access = yes
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BUN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 74
+	influence_value = 6
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = -7
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -10
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Nomau II"
+	date="1800.1.3"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Asfaloth Keita"
+	date="1783.5.31"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Lukas Toure"
+	date="1809.5.7"
+	type=land
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Alfonso Deo"
+	date="1817.2.15"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2258
+	ship = {
+		name="Amenazante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Arauca"
+		type=clipper_transport
+	}
+	ship = {
+		name="Auspicio"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2258
+	ship = {
+		name="Barranquilla"
+		type=clipper_transport
+	}
+	ship = {
+		name="Caquetá"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2279
+	regiment = {
+		name="1st Apetina Infantry"
+		type=infantry
+		home=2245
+	}
+	regiment = {
+		name="1st Maracaibo Infantry"
+		type=infantry
+		home=2270
+	}
+	regiment = {
+		name="1st Calabozo Infantry"
+		type=infantry
+		home=2266
+	}
+	regiment = {
+		name="1st Angostura Infantry"
+		type=infantry
+		home=2275
+	}
+	regiment = {
+		name="2nd Calabozo Infantry"
+		type=infantry
+		home=2266
+	}
+	regiment = {
+		name="1st Cúcuta Artillery"
+		type=artillery
+		home=2251
+	}
+	regiment = {
+		name="1st Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+	regiment = {
+		name="1st Maripasoula Infantry"
+		type=infantry
+		home=2246
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2255
+	regiment = {
+		name="1st Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="2nd Angostura Infantry"
+		type=infantry
+		home=2275
+	}
+	regiment = {
+		name="2nd Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st Guayaquil Artillery"
+		type=artillery
+		home=2280
+	}
+	regiment = {
+		name="2nd Cúcuta Artillery"
+		type=artillery
+		home=2251
+	}
+	regiment = {
+		name="1st Mahdia Artillery"
+		type=artillery
+		home=2242
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2240
+	regiment = {
+		name="1st Biloka Infantry"
+		type=infantry
+		home=1979
+	}
+	regiment = {
+		name="1st Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+	regiment = {
+		name="1st Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+	regiment = {
+		name="2nd Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+	regiment = {
+		name="3rd Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+	regiment = {
+		name="1st Pasto Artillery"
+		type=artillery
+		home=2259
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2247
+	regiment = {
+		name="1st Cúcuta Infantry"
+		type=infantry
+		home=2251
+	}
+	regiment = {
+		name="1st Loja Infantry"
+		type=infantry
+		home=2282
+	}
+	regiment = {
+		name="1st Tunja Cavalry"
+		type=cavalry
+		home=2249
+	}
+	regiment = {
+		name="1st Quito Artillery"
+		type=artillery
+		home=2279
+	}
+	regiment = {
+		name="1st San José del Guaviare Artillery"
+		type=artillery
+		home=2260
+	}
+	regiment = {
+		name="1st Apetina Artillery"
+		type=artillery
+		home=2245
+	}
+	regiment = {
+		name="1st Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="3rd Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st Valera Cavalry"
+		type=cavalry
+		home=2271
+	}
+	regiment = {
+		name="1st San Fernando de Atabapo Cavalry"
+		type=cavalry
+		home=2278
+	}
+	regiment = {
+		name="2nd Quito Artillery"
+		type=artillery
+		home=2279
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2262
+	regiment = {
+		name="1st Tunja Infantry"
+		type=infantry
+		home=2249
+	}
+}
+

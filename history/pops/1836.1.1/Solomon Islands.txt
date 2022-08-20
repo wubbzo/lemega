@@ -1,0 +1,298 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4304
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 7338
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 193
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = nestorian
+		size= 3248
+	}
+
+	soldiers=
+	{
+		culture = janub
+		religion = nestorian
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = janub
+		religion = nestorian
+		size= 480
+	}
+
+	clergymen=
+	{
+		culture = janub
+		religion = nestorian
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = janub
+		religion = nestorian
+		size= 29
+	}
+
+	officers=
+	{
+		culture = janub
+		religion = nestorian
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = janub
+		religion = nestorian
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = janub
+		religion = nestorian
+		size= 3348
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4071
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 868
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 16552
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = shinto
+		size= 926
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = shinto
+		size= 347
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 46
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 67
+	}
+
+}

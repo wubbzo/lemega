@@ -1,0 +1,198 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 31367
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 798
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 7748
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 32679
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7017
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 829
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2169
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 232
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = inti
+		size= 21039
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = inti
+		size= 536
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = inti
+		size= 5422
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = inti
+		size= 581
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = inti
+		size= 108
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = inti
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = inti
+		size= 326
+	}
+
+	slaves=
+	{
+		culture = horse
+		religion = inti
+		size= 34364
+	}
+
+	soldiers=
+	{
+		culture = horse
+		religion = inti
+		size= 875
+	}
+
+	artisans=
+	{
+		culture = horse
+		religion = inti
+		size= 13714
+	}
+
+	clergymen=
+	{
+		culture = horse
+		religion = inti
+		size= 1469
+	}
+
+	bureaucrats=
+	{
+		culture = horse
+		religion = inti
+		size= 274
+	}
+
+	officers=
+	{
+		culture = horse
+		religion = inti
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = horse
+		religion = inti
+		size= 823
+	}
+
+}

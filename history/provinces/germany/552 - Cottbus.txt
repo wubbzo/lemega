@@ -1,0 +1,5 @@
+owner=HLR
+controller=HLR
+add_core=POL
+trade_goods = fruit
+life_rating = 40

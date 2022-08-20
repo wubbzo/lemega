@@ -1,0 +1,382 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 224
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 314
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 10676
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 2020
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 44
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = shinto
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = shinto
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = shinto
+		size= 162
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = shinto
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = shinto
+		size= 8
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = shinto
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = shinto
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = shinto
+		size= 1007
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 497
+	}
+
+	soldiers=
+	{
+		culture = heiren
+		religion = shinto
+		size= 696
+	}
+
+	artisans=
+	{
+		culture = heiren
+		religion = shinto
+		size= 1291
+	}
+
+	clergymen=
+	{
+		culture = heiren
+		religion = shinto
+		size= 484
+	}
+
+	bureaucrats=
+	{
+		culture = heiren
+		religion = shinto
+		size= 65
+	}
+
+	officers=
+	{
+		culture = heiren
+		religion = shinto
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = heiren
+		religion = shinto
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = heiren
+		religion = shinto
+		size= 21477
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3298
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 314
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 7602
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = monophysite
+		size= 673
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 1396
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = monophysite
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = monophysite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = monophysite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = monophysite
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = shinto
+		size= 396
+	}
+
+	soldiers=
+	{
+		culture = copts
+		religion = shinto
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = copts
+		religion = shinto
+		size= 162
+	}
+
+	clergymen=
+	{
+		culture = copts
+		religion = shinto
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = copts
+		religion = shinto
+		size= 8
+	}
+
+	officers=
+	{
+		culture = copts
+		religion = shinto
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = copts
+		religion = shinto
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = copts
+		religion = shinto
+		size= 638
+	}
+
+	slaves=
+	{
+		culture = japanese
+		religion = shinto
+		size= 7309
+	}
+
+	soldiers=
+	{
+		culture = heiren
+		religion = shinto
+		size= 696
+	}
+
+	artisans=
+	{
+		culture = heiren
+		religion = shinto
+		size= 1291
+	}
+
+	clergymen=
+	{
+		culture = heiren
+		religion = shinto
+		size= 484
+	}
+
+	bureaucrats=
+	{
+		culture = heiren
+		religion = shinto
+		size= 65
+	}
+
+	officers=
+	{
+		culture = heiren
+		religion = shinto
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = heiren
+		religion = shinto
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = heiren
+		religion = shinto
+		size= 14665
+	}
+
+}

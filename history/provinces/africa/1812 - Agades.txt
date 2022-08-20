@@ -1,0 +1,7 @@
+owner=HAU
+controller=HAU
+add_core=AYR
+add_core=HAU
+trade_goods = wool
+life_rating = 5
+fort = 1

@@ -1,0 +1,637 @@
+2337 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 506
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 10501
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2081
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 40042
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2248
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 421
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 472
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 56
+	}
+
+}
+2338 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 7627
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 360
+	}
+
+	soldiers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 33
+	}
+
+	officers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = inti
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 794
+	}
+
+	artisans=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 2914
+	}
+
+	clergymen=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 486
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+	officers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = sahelian_andes_superregion_culture
+		religion = west_african_pagan_reformed
+		size= 23796
+	}
+
+}
+2339 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 143
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2160
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 7806
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 569
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 462
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 92
+	}
+
+}
+2340 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 555
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 19260
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1444
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 46349
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 3212
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 599
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 267
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 965
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 6316
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 526
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 70
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1179
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 25279
+	}
+
+}
+2341 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 618
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 21433
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 426
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 2426
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 9818
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1635
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1832
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 71808
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 109
+	}
+
+}
+2342 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 257
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2046
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 7354
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 1022
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 462
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 92
+	}
+
+}
+2343 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 916
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 19002
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = west_african_pagan_reformed
+		size= 623
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 63686
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 3317
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 3705
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 695
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 777
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 268
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 129
+	}
+
+}

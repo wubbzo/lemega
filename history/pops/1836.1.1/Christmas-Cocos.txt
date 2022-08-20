@@ -1,0 +1,149 @@
+2244 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 4258
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 144283
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size= 2696
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size= 1010
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 134
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 141
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 409
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = shinto
+		size= 3219
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = shinto
+		size= 1207
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 160
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = shinto
+		size= 676
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = shinto
+		size= 8764
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 426
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1363
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 511
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 68
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 12486
+	}
+
+}

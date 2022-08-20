@@ -1,0 +1,5 @@
+owner=SPQ
+controller=SPQ
+add_core=VGO
+trade_goods = fish
+life_rating = 35

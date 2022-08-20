@@ -1,0 +1,221 @@
+1773 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size= 800
+	}
+
+}
+1774 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 343
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 429
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 11398
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 303
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 1187
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 9125
+	}
+
+	soldiers=
+	{
+		culture = afer
+		religion = catholic
+		size= 836
+	}
+
+	artisans=
+	{
+		culture = afer
+		religion = catholic
+		size= 5795
+	}
+
+	clergymen=
+	{
+		culture = afer
+		religion = catholic
+		size= 538
+	}
+
+	bureaucrats=
+	{
+		culture = afer
+		religion = catholic
+		size= 83
+	}
+
+	officers=
+	{
+		culture = afer
+		religion = catholic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = afer
+		religion = catholic
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = afer
+		religion = catholic
+		size= 22169
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=SON
+controller=SON
+add_core=CAL
+add_core=SON
+trade_goods = iron
+life_rating = 35

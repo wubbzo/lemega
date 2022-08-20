@@ -1,0 +1,5 @@
+owner=ARG
+controller=ARG
+trade_goods = cotton
+life_rating = 15
+terrain = savanna

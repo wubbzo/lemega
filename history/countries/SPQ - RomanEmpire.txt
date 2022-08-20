@@ -1,0 +1,66 @@
+capital = 498
+primary_culture = spanish
+culture = zzz_religion_catholic
+religion = catholic
+government = bourgeois_dictatorship
+plurality = 0
+nationalvalue = nv_liberty
+literacy = 0.478848
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=no_slavery
+vote_franschise=wealth_weighted_voting
+upper_house_composition=appointed
+voting_system=first_past_the_post
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=gerrymandering
+
+ruling_party = RME_foederati
+upper_house = 
+{
+	fascist = 0
+	liberal = 15
+	conservative = 80
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.98363
+nonstate_consciousness= 0.0340192
+
+# Technologies
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+hot_blast = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+private_banks = 1
+prestige=7.89381
+oob = "SPQ_OOB.txt"
+set_country_flag = religi
+set_country_flag = vic2_country_SPQ
+set_country_flag = eu4_country_ROM

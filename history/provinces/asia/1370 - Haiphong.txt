@@ -1,0 +1,5 @@
+owner=SIA
+controller=SIA
+trade_goods = cattle
+life_rating = 40
+naval_base = 1

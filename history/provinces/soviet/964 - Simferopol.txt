@@ -1,0 +1,7 @@
+owner=FEO
+controller=FEO
+add_core=FEO
+add_core=PCH
+trade_goods = fish
+life_rating = 35
+naval_base = 1

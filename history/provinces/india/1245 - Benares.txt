@@ -1,0 +1,6 @@
+owner=BHU
+controller=BHU
+add_core=TRT
+trade_goods = opium
+life_rating = 32
+colonial=2

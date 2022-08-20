@@ -1,0 +1,4 @@
+owner=SIA
+controller=SIA
+trade_goods = grain
+life_rating = 34

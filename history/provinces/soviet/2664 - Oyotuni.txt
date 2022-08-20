@@ -1,0 +1,6 @@
+owner=BHU
+controller=ASY
+trade_goods = fish
+life_rating = 31
+terrain = mountain
+colonial=2

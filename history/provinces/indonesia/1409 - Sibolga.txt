@@ -1,0 +1,5 @@
+owner=X19
+controller=X19
+add_core=X19
+trade_goods = wool
+life_rating = 35

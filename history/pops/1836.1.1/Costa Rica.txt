@@ -1,0 +1,489 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6353
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 7055
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 179
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 4133
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 208
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 1056
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1069
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 347
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 75
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 4975
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 11054
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 17103
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1046
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 1346
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = hellenic_pagan
+		size= 2514
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 573
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 6407
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 128
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 769
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 20158
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8946
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16705
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 349
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 265
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = hellenic_pagan
+		size= 4616
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1742
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 122
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 731
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 20197
+	}
+
+}

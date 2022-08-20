@@ -1,0 +1,58 @@
+203 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 51236
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 5188
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 12969
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 1204
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 185
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 1557
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 21169
+	}
+
+}

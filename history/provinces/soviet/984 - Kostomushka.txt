@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=FIN
+trade_goods = timber
+life_rating = 10
+terrain = boreal

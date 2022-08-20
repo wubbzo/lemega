@@ -1,0 +1,4 @@
+owner=BHU
+controller=BHU
+trade_goods = coal
+life_rating = 28

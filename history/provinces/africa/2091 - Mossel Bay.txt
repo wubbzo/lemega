@@ -1,0 +1,4 @@
+owner=X12
+controller=X12
+trade_goods = fruit
+life_rating = 35

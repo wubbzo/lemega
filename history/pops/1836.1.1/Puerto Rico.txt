@@ -1,0 +1,191 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5710
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5765
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 11803
+	}
+
+	soldiers=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 1406
+	}
+
+	farmers=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 10468
+	}
+
+	artisans=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 1304
+	}
+
+	aristocrats=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 235
+	}
+
+	clergymen=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = catholic
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 4379
+	}
+
+	soldiers=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 522
+	}
+
+	artisans=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 1958
+	}
+
+	clergymen=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	officers=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = barbaro_germanic_central_america_superregion_culture
+		religion = hellenic_pagan
+		size= 1879
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 38710
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 4615
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 14801
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1374
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 211
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 2664
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 19872
+	}
+
+}

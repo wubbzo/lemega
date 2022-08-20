@@ -1,0 +1,6 @@
+owner=ASY
+controller=ASY
+add_core=SRN
+trade_goods = cattle
+life_rating = 35
+colonial=2

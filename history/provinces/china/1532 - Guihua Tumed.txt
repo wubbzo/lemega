@@ -1,0 +1,6 @@
+owner=NHX
+controller=NHX
+add_core=KHA
+add_core=NHX
+trade_goods = iron
+life_rating = 32

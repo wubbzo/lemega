@@ -1,0 +1,226 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7647
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1627
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 509
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 19150
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6683
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1422
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1397
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 15560
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 4091
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 871
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2994
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 278
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 360
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 6877
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 13793
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 2935
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 12237
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1136
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 175
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 1468
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = hellenic_pagan
+		size= 20530
+	}
+
+}

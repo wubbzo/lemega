@@ -1,0 +1,64 @@
+vassal=
+{
+	first="BHU"
+	second="CHL"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BHU"
+	second="NZL"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="VNZ"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="JAP"
+	second="CAL"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="JAP"
+	second="CAS"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="JAP"
+	second="AST"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPQ"
+	second="FLR"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPQ"
+	second="PRG"
+	start_date="1820.1.2"
+	end_date="1936.1.1"
+}
+

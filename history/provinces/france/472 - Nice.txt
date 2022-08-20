@@ -1,0 +1,5 @@
+owner=SPQ
+controller=SPQ
+trade_goods = grain
+life_rating = 33
+naval_base = 1

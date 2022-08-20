@@ -1,0 +1,7 @@
+owner=NHX
+controller=NHX
+add_core=KHA
+add_core=KLK
+add_core=NHX
+trade_goods = cattle
+life_rating = 32

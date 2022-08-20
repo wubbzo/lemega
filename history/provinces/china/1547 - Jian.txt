@@ -1,0 +1,5 @@
+owner=LNG
+controller=LNG
+add_core=LNG
+trade_goods = grain
+life_rating = 32
