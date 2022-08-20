@@ -1,5 +1,8 @@
 capital = 2148
 primary_culture = mexican
+culture = texan
+culture = dixie
+culture = yankee
 culture = zzz_religion_shinto
 religion = shinto
 government = democracy

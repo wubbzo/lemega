@@ -1,7 +1,6 @@
 capital = 2247
-primary_culture = sahelian_south_america_superregion_culture
-culture = brazilian
-culture = hausa
+primary_culture = brazilian
+culture = north_andean
 culture = zzz_religion_inti
 religion = inti
 government = absolute_monarchy

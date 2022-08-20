@@ -1,7 +1,6 @@
 capital = 2264
 primary_culture = caucasian_south_america_superregion_culture
-culture = copts
-culture = sahelian_south_america_superregion_culture
+culture = brazilian
 culture = zzz_religion_monophysite
 religion = monophysite
 government = bourgeois_dictatorship

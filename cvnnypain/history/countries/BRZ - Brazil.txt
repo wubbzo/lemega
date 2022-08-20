@@ -1,7 +1,11 @@
 capital = 2432
-primary_culture = hausa
-culture = je
-culture = sahelian_south_america_superregion_culture
+primary_culture = sahelian_south_america_superregion_culture
+culture = sahelian_andes_superregion_culture
+culture = afro_caribbean
+culture = afro_brazilian
+culture = afro_caribeno
+culture = afro_greek
+culture = afro_antillean
 culture = zzz_religion_west_african_pagan_reformed
 religion = west_african_pagan_reformed
 government = absolute_monarchy

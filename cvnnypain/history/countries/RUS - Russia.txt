@@ -1,5 +1,9 @@
 capital = 994
 primary_culture = russian
+culture = pecheneg
+culture = ukrainian
+culture = byelorussian
+culture = ugrian
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

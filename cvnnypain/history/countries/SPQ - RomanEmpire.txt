@@ -1,5 +1,11 @@
 capital = 498
-primary_culture = spanish
+primary_culture = latin
+culture = spanish
+culture = north_italian
+culture = south_italian
+culture = laessin
+culture = gaul
+culture = all_italian
 culture = zzz_religion_catholic
 religion = catholic
 government = bourgeois_dictatorship

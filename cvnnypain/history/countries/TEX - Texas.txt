@@ -1,5 +1,11 @@
 capital = 232
 primary_culture = yankee
+culture = meashighcaw
+culture = anglo_canadian
+culture = dixie
+culture = texan
+culture = americano
+culture = mexican
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

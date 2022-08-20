@@ -1,5 +1,6 @@
 capital = 104
 primary_culture = mexican
+culture = americano
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

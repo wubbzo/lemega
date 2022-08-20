@@ -1,6 +1,7 @@
 capital = 923
 primary_culture = assyrian
 culture = armenian
+culture = kurdish
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
