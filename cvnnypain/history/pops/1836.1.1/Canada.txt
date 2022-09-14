@@ -1,35 +1,35 @@
 6 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 900
 	}
@@ -38,53 +38,47 @@
 7 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 1800
 	}
 
 }
 9 = {
-	soldiers=
-	{
-		culture = inuit
-		religion = totemism
-		size= 155
-	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = texan
 		religion = totemism
-		size= 7620
+		size= 3620
 	}
 
 	farmers=
@@ -140,74 +134,54 @@
 11 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 500
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = texan
 		religion = animist
 		size= 150
 	}
 
 }
 13 = {
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 62
-	}
 
 	farmers=
 	{
-		culture = penutian
+		culture = texan
 		religion = totemism
 		size= 6253
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 507
 	}
 
 	farmers=
@@ -261,46 +235,19 @@
 
 }
 14 = {
-	soldiers=
+	
+	farmers=
 	{
-		culture = eskaleut
+		culture = texan
 		religion = totemism
-		size= 115
+		size= 5297
 	}
 
 	farmers=
 	{
-		culture = eskaleut
-		religion = totemism
-		size= 11297
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = penutian
+		culture = texan
 		religion = totemism
 		size= 1126
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 9
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 891
 	}
 
 	farmers=
@@ -403,46 +350,12 @@
 
 }
 15 = {
-	soldiers=
-	{
-		culture = eskaleut
-		religion = totemism
-		size= 41
-	}
 
 	farmers=
 	{
-		culture = eskaleut
-		religion = totemism
-		size= 4072
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 95
-	}
-
-	farmers=
-	{
-		culture = penutian
+		culture = texan
 		religion = totemism
 		size= 9477
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 4481
 	}
 
 	farmers=
@@ -568,7 +481,7 @@
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 990
 	}
@@ -605,25 +518,19 @@
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 1000
 	}
 
 }
 18 = {
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 561
-	}
 
 	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
-		size= 9459
+		size= 4459
 	}
 
 	soldiers=
@@ -677,30 +584,17 @@
 
 }
 19 = {
-	soldiers=
+	
+	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
-		size= 181
+		size= 10891
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
-		size= 17891
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 21
-	}
-
-	farmers=
-	{
-		culture = penutian
+		culture = texan
 		religion = totemism
 		size= 2008
 	}
@@ -754,62 +648,14 @@
 		size= 948
 	}
 
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 453
-	}
-
 }
 20 = {
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 90
-	}
-
+	
 	farmers=
 	{
-		culture = penutian
+		culture = texan
 		religion = totemism
-		size= 8928
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 574
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 600
+		size= 4928
 	}
 
 	farmers=
@@ -863,46 +709,12 @@
 
 }
 21 = {
-	soldiers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 58
-	}
 
 	farmers=
 	{
-		culture = sonoran
+		culture = texan
 		religion = totemism
-		size= 5692
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 393
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 272
+		size= 3692
 	}
 
 	farmers=
@@ -956,165 +768,12 @@
 
 }
 22 = {
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 311
-	}
 
 	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
 		size= 14495
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 21
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1178
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 44
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1952
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 49
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 141
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 16
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 45
-	}
-
-	aristocrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 30
-	}
-
-	bureaucrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 10
-	}
-
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 9
-	}
-
-	officers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	officers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 2
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 12
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 201
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 65
-	}
-
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 14
-	}
-
-	officers=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 42
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = hellenic_pagan
-		size= 244
 	}
 
 	soldiers=
@@ -1168,74 +827,12 @@
 
 }
 23 = {
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 282
-	}
-
+	
 	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
-		size= 13839
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 61
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 226
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 20
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 961
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 2
+		size= 10839
 	}
 
 	artisans=
@@ -1289,198 +886,31 @@
 
 }
 24 = {
+
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
 		size= 2327
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
-		size= 21181
-	}
-
-	soldiers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 49
+		size= 11181
 	}
 
 	artisans=
 	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 802
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 74
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 47
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 55
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 23
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 496
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 11
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 14
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 43
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 99
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 294
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 322
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1169
 	}
 
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 109
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 17
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 20
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 70
-	}
-
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1719
 	}
@@ -1538,196 +968,28 @@
 25 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
 		size= 2327
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
-		size= 22033
-	}
-
-	soldiers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 50
+		size= 12033
 	}
 
 	artisans=
 	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 802
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 74
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 47
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 55
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 23
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 515
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 11
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 14
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 43
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 99
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 305
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 322
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1169
 	}
 
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 109
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 17
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 20
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 70
-	}
-
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1788
 	}
@@ -1783,81 +1045,12 @@
 
 }
 26 = {
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 207
-	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
-		size= 9791
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 72
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 21
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 205
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
+		size= 4791
 	}
 
 	soldiers=
@@ -1911,81 +1104,12 @@
 
 }
 27 = {
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 207
-	}
-
+	
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
-		size= 9995
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 72
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 21
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 210
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
+		size= 4995
 	}
 
 	soldiers=
@@ -2039,74 +1163,12 @@
 
 }
 28 = {
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 216
-	}
 
 	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
 		size= 10551
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 286
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = americano
-		religion = catholic
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 20
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1021
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 295
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 1
 	}
 
 	artisans=
@@ -2160,179 +1222,26 @@
 
 }
 30 = {
+
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
 		size= 1936
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
-		size= 18694
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 67
+		size= 8694
 	}
 
 	farmers=
 	{
-		culture = cree
-		religion = totemism
-		size= 649
-	}
-
-	soldiers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 45
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 441
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 186
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1814
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 272
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 187
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 108
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1697
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 24
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 16
-	}
-
-	soldiers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 52
-	}
-
-	artisans=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 23
-	}
-
-	clergymen=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 481
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 10
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 6
 	}
 
 	soldiers=
@@ -2386,28 +1295,21 @@
 
 	soldiers=
 	{
-		culture = siouan
+		culture = texan
 		religion = totemism
 		size= 1901
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = texan
 		religion = totemism
-		size= 18588
-	}
-
-	soldiers=
-	{
-		culture = dakota
-		religion = totemism
-		size= 374
+		size= 8588
 	}
 
 	farmers=
 	{
-		culture = dakota
+		culture = texan
 		religion = totemism
 		size= 3648
 	}
@@ -2416,123 +1318,54 @@
 31 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 900
 	}
 
 }
 32 = {
-	soldiers=
+
+	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 309
+		size= 10954
 	}
 
 	farmers=
 	{
-		culture = cree
-		religion = totemism
-		size= 14954
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 21
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 991
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 10
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 499
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 316
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 41
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1979
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
 	}
 
 	soldiers=
@@ -2584,237 +1417,28 @@
 		size= 54
 	}
 
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 209
-	}
-
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
-		size= 10212
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 8
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 1
+		culture = texan
+		religion = hellenic_pagan
+		size= 5212
 	}
 
 }
 33 = {
-	soldiers=
+	
+	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
-		size= 214
+		size= 4935
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
-		size= 9935
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 308
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 27
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 13
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 650
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 8
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 372
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 43
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 39
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 183
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1519
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 15
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 58
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 38
-	}
-
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 9
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 12
-	}
-
-	officers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 75
-	}
-
-	clergymen=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 24
-	}
-
-	bureaucrats=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	officers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 884
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 3
 	}
 
 	soldiers=
@@ -2868,214 +1492,19 @@
 
 }
 34 = {
+
 	soldiers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 15559
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 812
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 260
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 8
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 383
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 551
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 16
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = totemism
-		size= 51
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 145
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 13
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 825
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 32
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	officers=
-	{
-		culture = cree
-		religion = totemism
-		size= 3
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 769
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 71
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 11
-	}
-
-	officers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 46
+		size= 10559
 	}
 
 	soldiers=
@@ -3129,221 +1558,19 @@
 
 }
 35 = {
+
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
 		size= 1863
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = texan
 		religion = totemism
-		size= 30591
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 52
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 866
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 261
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 85
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 49
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 79
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 25
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 703
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 19
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 54
-	}
-
-	soldiers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 45
-	}
-
-	artisans=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 17
-	}
-
-	clergymen=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	officers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = hellenic_pagan
-		size= 714
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 10
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 91
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 391
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 127
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 27
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 82
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = hellenic_pagan
-		size= 873
+		size= 20591
 	}
 
 	soldiers=
@@ -3390,221 +1617,26 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = texan
 		religion = hellenic_pagan
 		size= 20802
 	}
 
 }
 36 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 126
-	}
 
 	craftsmen=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = texan
+		religion = hellenic_pagan
 		size= 2901
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = texan
+		religion = hellenic_pagan
 		size= 2569
-	}
-
-	soldiers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 4
-	}
-
-	craftsmen=
-	{
-		culture = siouan
-		religion = totemism
-		size= 80
-	}
-
-	farmers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 74
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 11
-	}
-
-	craftsmen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 241
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 219
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 8
-	}
-
-	craftsmen=
-	{
-		culture = cree
-		religion = totemism
-		size= 193
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 176
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	craftsmen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 106
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 97
-	}
-
-	craftsmen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 187
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 149
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 10
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 14
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 27
-	}
-
-	clerks=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 18
-	}
-
-	capitalists=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 17
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	clerks=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	capitalists=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
 	}
 
 	craftsmen=
@@ -3679,18 +1711,12 @@
 
 }
 37 = {
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 666
-	}
 
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 11215
+		size= 5215
 	}
 
 	soldiers=
@@ -3840,237 +1866,21 @@
 		size= 626
 	}
 
-	soldiers=
-	{
-		culture = inuit
-		religion = totemism
-		size= 921
-	}
-
 	farmers=
 	{
-		culture = inuit
-		religion = totemism
-		size= 15240
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 75
-	}
-
-	artisans=
-	{
-		culture = inuit
-		religion = totemism
-		size= 241
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 7
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = cree
+		culture = texan
 		religion = hellenic_pagan
-		size= 49
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 66
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 749
-	}
-
-	clergymen=
-	{
-		culture = inuit
-		religion = totemism
-		size= 22
-	}
-
-	aristocrats=
-	{
-		culture = inuit
-		religion = totemism
-		size= 15
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	officers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	bureaucrats=
-	{
-		culture = inuit
-		religion = totemism
-		size= 3
-	}
-
-	officers=
-	{
-		culture = inuit
-		religion = totemism
-		size= 2
-	}
-
-	soldiers=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 23
-	}
-
-	artisans=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 329
-	}
-
-	clergymen=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 31
-	}
-
-	bureaucrats=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	officers=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 20
-	}
-
-	farmers=
-	{
-		culture = inuit
-		religion = hellenic_pagan
-		size= 6
+		size= 10240
 	}
 
 }
 38 = {
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 250
-	}
-
+	
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 12234
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 80
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 190
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 530
+		size= 6234
 	}
 
 	soldiers=
@@ -4173,116 +1983,19 @@
 
 }
 39 = {
-	soldiers=
+
+	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 275
+		size= 6336
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
-		size= 13336
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 877
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 19
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 89
-	}
-
-	farmers=
-	{
-		culture = cree
+		culture = texan
 		religion = hellenic_pagan
 		size= 3904
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 264
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 114
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 85
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 57
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 37
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 25
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 14
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
 	}
 
 	soldiers=
@@ -4336,74 +2049,19 @@
 
 }
 40 = {
-	soldiers=
+
+	farmers=
 	{
-		culture = cree
-		religion = totemism
-		size= 170
+		culture = texan
+		religion = hellenic_pagan
+		size= 4001
 	}
 
 	farmers=
 	{
-		culture = cree
-		religion = totemism
-		size= 8001
-	}
-
-	soldiers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 76
-	}
-
-	soldiers=
-	{
-		culture = dakota
-		religion = totemism
-		size= 23
-	}
-
-	farmers=
-	{
-		culture = dakota
+		culture = texan
 		religion = totemism
 		size= 1097
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 9
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 435
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 727
 	}
 
 	soldiers=
@@ -4457,123 +2115,12 @@
 
 }
 41 = {
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 640
-	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
-		size= 10653
-	}
-
-	soldiers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 2105
-	}
-
-	farmers=
-	{
-		culture = siouan
+		culture = texan
 		religion = totemism
 		size= 33796
-	}
-
-	soldiers=
-	{
-		culture = dakota
-		religion = totemism
-		size= 185
-	}
-
-	farmers=
-	{
-		culture = dakota
-		religion = totemism
-		size= 3083
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 184
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 3056
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 87
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1454
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 366
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 40
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 4
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 33
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 22
-	}
-
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 2
 	}
 
 	soldiers=
@@ -4625,258 +2172,36 @@
 		size= 40929
 	}
 
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 142
-	}
-
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 2367
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = texan
 		religion = totemism
 		size= 1261
 	}
 
-	clergymen=
-	{
-		culture = siouan
-		religion = totemism
-		size= 117
-	}
-
-	bureaucrats=
-	{
-		culture = siouan
-		religion = totemism
-		size= 22
-	}
-
-	aristocrats=
-	{
-		culture = siouan
-		religion = totemism
-		size= 75
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	officers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 13
-	}
-
-	soldiers=
-	{
-		culture = siouan
-		religion = hellenic_pagan
-		size= 154
-	}
-
 	artisans=
 	{
-		culture = siouan
+		culture = texan
 		religion = hellenic_pagan
 		size= 1800
 	}
 
-	clergymen=
-	{
-		culture = siouan
-		religion = hellenic_pagan
-		size= 167
-	}
-
-	bureaucrats=
-	{
-		culture = siouan
-		religion = hellenic_pagan
-		size= 31
-	}
-
-	officers=
-	{
-		culture = siouan
-		religion = hellenic_pagan
-		size= 21
-	}
-
-	aristocrats=
-	{
-		culture = siouan
-		religion = hellenic_pagan
-		size= 108
-	}
-
-	farmers=
-	{
-		culture = siouan
-		religion = hellenic_pagan
-		size= 460
-	}
 
 }
 42 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 126
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
 		size= 5912
-	}
-
-	soldiers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 166
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 495
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 8
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 397
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 218
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 361
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 10
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 14
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 27
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
 	}
 
 	artisans=
@@ -4930,100 +2255,17 @@
 
 }
 46 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 686
-	}
 
-	artisans=
+	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 429
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 40
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 6
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 51
+		size= 5037
 	}
 
 	farmers=
 	{
-		culture = iroquoian
-		religion = totemism
-		size= 11037
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 224
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 709
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 66
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 10
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 85
-	}
-
-	farmers=
-	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 2895
 	}
@@ -5079,18 +2321,12 @@
 
 }
 47 = {
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 388
-	}
 
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 18915
+		size= 8915
 	}
 
 	farmers=
@@ -5191,125 +2427,21 @@
 		size= 12028
 	}
 
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 45
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 2
-	}
-
 }
 48 = {
+
 	soldiers=
 	{
-		culture = cree
-		religion = totemism
+		culture = texan
+		religion = protestant
 		size= 1252
 	}
 
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 559
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = totemism
-		size= 52
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 34
-	}
-
 	farmers=
 	{
-		culture = cree
-		religion = totemism
-		size= 20428
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 7
-	}
-
-	officers=
-	{
-		culture = cree
-		religion = totemism
-		size= 6
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 59
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 165
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 15
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 10
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 810
+		culture = texan
+		religion = catholic
+		size= 10428
 	}
 
 	soldiers=
@@ -5361,202 +2493,28 @@
 		size= 87787
 	}
 
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 157
-	}
-
 }
 49 = {
+
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 12033
+		size= 10033
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 65
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 195
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 269
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 71
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 23
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 14
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 84
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 20
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 7
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = cree
+		culture = texan
 		religion = hellenic_pagan
 		size= 3959
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 24
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 104
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 34
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 22
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 983
 	}
 
 	soldiers=
@@ -5659,46 +2617,12 @@
 
 }
 50 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 326
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 16080
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 49
-	}
-
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 318
+		size= 10080
 	}
 
 	farmers=
@@ -5801,25 +2725,12 @@
 
 }
 51 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 183
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = texan
+		religion = protestant
 		size= 8958
-	}
-
-	farmers=
-	{
-		culture = dakota
-		religion = totemism
-		size= 5
 	}
 
 	farmers=
@@ -5871,114 +2782,16 @@
 		size= 56
 	}
 
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 126
-	}
-
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 91
-	}
-
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
 		size= 6066
 	}
 
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 24
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = totemism
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 6
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	bureaucrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 31
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 169
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 2
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = hellenic_pagan
-		size= 10
-	}
-
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1312
 	}
@@ -6034,102 +2847,19 @@
 
 }
 52 = {
+
 	soldiers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
 		size= 1801
 	}
 
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 591
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 55
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 12
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 35
-	}
-
 	farmers=
 	{
-		culture = iroquoian
-		religion = totemism
-		size= 29661
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 86
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 698
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 65
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 14
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 42
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 620
+		culture = texan
+		religion = catholic
+		size= 19661
 	}
 
 	soldiers=
@@ -6230,181 +2960,21 @@
 		size= 205
 	}
 
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 384
-	}
-
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
 		size= 6440
 	}
 
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 87
-	}
-
 }
 53 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 310
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 440
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 41
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 9
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 26
-	}
 
 	farmers=
 	{
-		culture = iroquoian
-		religion = totemism
+		culture = texan
+		religion = protestant
 		size= 14647
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 167
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 115
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 11
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 7996
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 627
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 58
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 13
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 38
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 272
 	}
 
 	soldiers=
@@ -6507,102 +3077,12 @@
 
 }
 54 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 572
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 102
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 33
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 7
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 21
-	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 9477
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 62
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 124
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 40
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 26
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 847
+		size= 4477
 	}
 
 	soldiers=
@@ -6656,102 +3136,12 @@
 
 }
 55 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 572
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 102
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 33
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 7
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 21
-	}
-
+	
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 9477
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 62
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 124
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 40
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 26
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 847
+		size= 4477
 	}
 
 	soldiers=
@@ -6805,100 +3195,31 @@
 
 }
 56 = {
+
 	soldiers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
 		size= 1716
 	}
 
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 842
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 78
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 17
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 10
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 76
-	}
-
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 27878
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 183
+		size= 17878
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1070
 	}
 
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 99
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 21
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 96
-	}
-
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1785
 	}
@@ -6954,20 +3275,6 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 16
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 267
-	}
-
-	soldiers=
-	{
 		culture = anglo_canadian
 		religion = hellenic_pagan
 		size= 2209
@@ -7017,58 +3324,31 @@
 
 }
 57 = {
+
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 1271
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 21099
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 65
+		culture = texan
+		religion = protestant
+		size= 11099
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
 		size= 1086
 	}
 
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 22
-	}
-
 	farmers=
 	{
-		culture = iroquoian
-		religion = totemism
-		size= 373
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 375
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 5272
 	}
@@ -7122,76 +3402,6 @@
 		size= 131
 	}
 
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 289
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 27
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 17
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 951
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 88
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 57
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 13
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 10
-	}
-
 	soldiers=
 	{
 		culture = yankee
@@ -7243,193 +3453,26 @@
 
 }
 58 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 5255
-	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 49873
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 55
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 510
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 199
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 1668
+		size= 29873
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
 		size= 1651
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 239
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 153
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 148
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 22
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 21
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 24
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 28
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 177
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 219
-	}
-
-	artisans=
-	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 2263
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 210
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 33
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 39
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 204
 	}
 
 	soldiers=
@@ -7481,55 +3524,14 @@
 		size= 126993
 	}
 
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 29
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 3
-	}
-
 }
 59 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 884
-	}
-
+	
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 14904
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 118
+		size= 10904
 	}
 
 	soldiers=
@@ -7583,32 +3585,12 @@
 
 }
 61 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 884
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 14904
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 118
+		size= 10904
 	}
 
 	soldiers=
@@ -7662,18 +3644,12 @@
 
 }
 62 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 265
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 12992
+		size= 8992
 	}
 
 	farmers=
@@ -7776,158 +3752,19 @@
 
 }
 63 = {
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 6793
-	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 65263
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1832
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 211
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 160
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 1496
+		size= 45263
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 1523
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 140
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 90
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 30
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 26
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 272
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 25
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 16
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 88
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 954
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 89
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 19
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 58
 	}
 
 	soldiers=
@@ -7979,86 +3816,23 @@
 		size= 124682
 	}
 
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 201
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 19
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 12
-	}
-
 	soldiers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1604
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 2328
 	}
 
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 217
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 47
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 40
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 139
-	}
-
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 13065
 	}
@@ -8114,109 +3888,12 @@
 
 }
 64 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 899
-	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 14567
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 478
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 43
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 29
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 111
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 782
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 72
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 947
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 7
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 11
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 9
+		size= 10567
 	}
 
 	soldiers=
@@ -8270,100 +3947,10 @@
 
 }
 65 = {
-	soldiers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 181
-	}
 
 	farmers=
 	{
-		culture = iroquoian
-		religion = totemism
-		size= 8782
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 91
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 29
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 29
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 165
-	}
-
-	artisans=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 256
-	}
-
-	clergymen=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 83
-	}
-
-	bureaucrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 18
-	}
-
-	officers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 81
-	}
-
-	farmers=
-	{
-		culture = iroquoian
+		culture = texan
 		religion = hellenic_pagan
 		size= 7628
 	}
@@ -8419,151 +4006,12 @@
 
 }
 66 = {
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 923
-	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 14951
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 686
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 510
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 88
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 47
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 30
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 10
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 8
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	officers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 53
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 664
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 62
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 13
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 40
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 112
+		size= 10951
 	}
 
 	soldiers=
@@ -8617,128 +4065,31 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
 		size= 1043
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = texan
 		religion = totemism
-		size= 17568
-	}
-
-	soldiers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 26
-	}
-
-	farmers=
-	{
-		culture = iroquoian
-		religion = hellenic_pagan
-		size= 435
+		size= 7568
 	}
 
 }
 67 = {
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 974
-	}
 
-	artisans=
+	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 312
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 29
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 19
+		size= 6049
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 16049
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 368
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 772
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 72
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 15
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 5285
 	}
@@ -8843,142 +4194,31 @@
 
 }
 68 = {
+
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 1628
 	}
 
 	craftsmen=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 1178
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 26099
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 154
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 14
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 8
-	}
-
-	clerks=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	capitalists=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 453
-	}
-
-	craftsmen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 328
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 438
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 41
-	}
-
-	clerks=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 8
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 6
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 5
-	}
-
-	capitalists=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 26
+		size= 16099
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 6774
 	}
@@ -9125,32 +4365,26 @@
 
 }
 69 = {
+
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 1094
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 18129
+		size= 8129
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 7098
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 485
 	}
 
 	farmers=
@@ -9202,90 +4436,14 @@
 		size= 219
 	}
 
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 312
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 29
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 18
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 908
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 84
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 13
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 10
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 54
-	}
-
 }
 70 = {
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 838
-	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 14126
+		size= 10126
 	}
 
 	soldiers=
@@ -9339,123 +4497,39 @@
 
 }
 71 = {
-	slaves=
+	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = totemism
 		size= 431
 	}
 
-	soldiers=
+	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
-		size= 670
+		size= 6377
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 419
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 39
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 25
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 10377
-	}
-
-	slaves=
-	{
-		culture = native_american_minor
+		culture = dixie
 		religion = hellenic_pagan
 		size= 255
 	}
 
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 397
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 915
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 85
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 13
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 10
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 55
-	}
-
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 5354
 	}
 
-	slaves=
+	soldiers=
 	{
-		culture = afro_caribbean
+		culture = mexican
 		religion = hellenic_pagan
-		size= 2290
+		size= 1290
 	}
 
 	soldiers=
@@ -9509,100 +4583,38 @@
 
 }
 72 = {
+
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 2428
 	}
 
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 39374
-	}
-
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = totemism
 		size= 1349
 	}
 
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 124
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 79
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 24
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 15
-	}
-
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1620
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 3709
 	}
 
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 343
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 73
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 41
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 224
-	}
-
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 22931
 	}
@@ -9658,100 +4670,17 @@
 
 }
 73 = {
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 607
-	}
-
+	
 	artisans=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 379
-	}
-
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 35
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 23
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 9802
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 5
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 4
-	}
-
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 642
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1183
 	}
 
-	clergymen=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 110
-	}
-
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 17
-	}
-
-	officers=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 14
-	}
-
-	aristocrats=
-	{
-		culture = eastern_algonquian
-		religion = hellenic_pagan
-		size= 71
-	}
-
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = texan
 		religion = hellenic_pagan
 		size= 9432
 	}
@@ -9807,18 +4736,12 @@
 
 }
 74 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 708
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 11935
+		size= 6935
 	}
 
 	soldiers=
@@ -9914,18 +4837,19 @@
 
 }
 75 = {
+
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
 		size= 2787
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 46975
+		size= 26975
 	}
 
 	soldiers=
@@ -10077,18 +5001,12 @@
 
 }
 76 = {
-	soldiers=
-	{
-		culture = inuit
-		religion = totemism
-		size= 155
-	}
-
+	
 	farmers=
 	{
-		culture = inuit
+		culture = texan
 		religion = totemism
-		size= 7620
+		size= 3620
 	}
 
 	farmers=
@@ -10142,18 +5060,12 @@
 
 }
 77 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 708
-	}
-
+	
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 11935
+		size= 6935
 	}
 
 	soldiers=
@@ -10249,18 +5161,12 @@
 
 }
 2592 = {
-	soldiers=
-	{
-		culture = inuit
-		religion = totemism
-		size= 144
-	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = texan
 		religion = totemism
-		size= 7053
+		size= 4053
 	}
 
 	farmers=
@@ -10363,31 +5269,25 @@
 
 }
 2593 = {
+
 	soldiers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
 		size= 1315
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 22147
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 108
+		size= 12147
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = texan
+		religion = protestant
 		size= 1804
 	}
 
@@ -10489,69 +5389,14 @@
 		size= 54283
 	}
 
-	artisans=
-	{
-		culture = cree
-		religion = totemism
-		size= 18
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 7
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	clergymen=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
 }
 2594 = {
-	soldiers=
-	{
-		culture = cree
-		religion = totemism
-		size= 98
-	}
 
 	farmers=
 	{
-		culture = cree
+		culture = texan
 		religion = totemism
-		size= 4769
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 278
+		size= 2769
 	}
 
 	farmers=
@@ -10656,14 +5501,14 @@
 2595 = {
 	aristocrats=
 	{
-		culture = french_canadian
+		culture = texan
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = cree
+		culture = texan
 		religion = protestant
 		size= 5
 	}
@@ -10698,7 +5543,7 @@
 
 	farmers=
 	{
-		culture = inuit
+		culture = texan
 		religion = animist
 		size= 1135
 	}
@@ -10707,226 +5552,66 @@
 2596 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 450
 	}
 
 	farmers=
 	{
-		culture = inuit
-		religion = animist
+		culture = texan
+		religion = protestant
 		size= 500
 	}
 
 }
 2597 = {
-	soldiers=
+
+	farmers=
 	{
-		culture = na_dene
+		culture = texan
 		religion = totemism
-		size= 487
+		size= 13730
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
-		size= 23730
-	}
-
-	farmers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 435
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 91
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 30
-	}
-
-	soldiers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 8
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 3
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 18
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 33
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 29
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 9
-	}
-
-	bureaucrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 2
-	}
-
-	officers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
+		culture = texan
+		religion = protestant
 		size= 1576
 	}
 
-	officers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 36
-	}
-
-	artisans=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 156
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 51
-	}
-
-	bureaucrats=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 11
-	}
-
-	officers=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = hellenic_pagan
-		size= 33
-	}
-
 	farmers=
 	{
-		culture = penutian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1500
 	}
@@ -10984,53 +5669,47 @@
 2598 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 35
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 70
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 1260
 	}
 
 }
 2625 = {
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 313
-	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = texan
 		religion = totemism
-		size= 15353
+		size= 10353
 	}
 
 	farmers=
@@ -11147,18 +5826,12 @@
 
 }
 2626 = {
-	soldiers=
-	{
-		culture = inuit
-		religion = totemism
-		size= 144
-	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = texan
 		religion = totemism
-		size= 7053
+		size= 4053
 	}
 
 	farmers=
@@ -11263,35 +5936,35 @@
 2629 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 20
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = texan
 		religion = animist
 		size= 360
 	}

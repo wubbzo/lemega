@@ -4,6 +4,7 @@ culture = breton
 culture = french
 culture = picard
 culture = rollonian
+culture = flemish
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

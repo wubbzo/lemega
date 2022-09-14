@@ -1,37 +1,37 @@
 2223 = {
-	slaves=
+	aristocrats=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
-		size= 2511
+		size= 1511
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 80
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
-		size= 1426
-	}
-
-	slaves=
-	{
-		culture = afro_brazilian
-		religion = catholic
-		size= 5515
+		size= 426
 	}
 
 	farmers=
 	{
-		culture = caribeno
+		culture = guyanese
 		religion = catholic
-		size= 2679
+		size= 5515
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 1679
 	}
 
 	soldiers=
@@ -76,9 +76,9 @@
 		size= 2
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = hellenic_pagan
 		size= 525
 	}
@@ -125,11 +125,11 @@
 		size= 31
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = anglo_canadian
 		religion = hellenic_pagan
-		size= 5231
+		size= 2231
 	}
 
 	soldiers=

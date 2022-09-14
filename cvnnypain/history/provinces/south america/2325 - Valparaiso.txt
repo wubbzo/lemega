@@ -1,5 +1,8 @@
-owner=ARG
-controller=ARG
+owner=CHL
+controller=CHL
+add_core=CHL
+add_core=PRG
+add_core=BRZ
 trade_goods = fruit
 life_rating = 35
 terrain = farmlands

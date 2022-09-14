@@ -1,5 +1,9 @@
 capital = 336
 primary_culture = sami
+culture = finnish
+culture = swedish
+culture = norwegian
+culture = russian
 culture = zzz_religion_shamanist
 religion = shamanist
 government = democracy

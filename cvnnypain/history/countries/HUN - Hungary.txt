@@ -1,5 +1,7 @@
 capital = 641
 primary_culture = hungarian
+culture = szekely
+culture = slovak
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

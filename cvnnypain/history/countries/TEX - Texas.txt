@@ -4,6 +4,7 @@ culture = meashighcaw
 culture = anglo_canadian
 culture = dixie
 culture = texan
+culture = guyanese
 culture = americano
 culture = mexican
 culture = zzz_religion_hellenic_pagan

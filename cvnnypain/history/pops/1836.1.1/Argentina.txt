@@ -1,4 +1,33 @@
 1714 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1801
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2207
+	}
+
+	clergymen=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 41542
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -260,6 +289,35 @@
 
 }
 2348 = {
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 19594
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 1234
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = hellenic_pagan
+		size= 2895
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = hellenic_pagan
+		size= 2681
+	}
+	
 	slaves=
 	{
 		culture = guarani
@@ -339,6 +397,35 @@
 
 }
 2349 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2006
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 31023
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1611
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 10036
+	}
+	
 	soldiers=
 	{
 		culture = guarani
@@ -404,6 +491,21 @@
 
 }
 2350 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6123
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 4579
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -511,6 +613,28 @@
 
 }
 2351 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2069
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 17807
+	}
+	
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3578
+	}
+	
 	soldiers=
 	{
 		culture = patagonian
@@ -618,6 +742,28 @@
 
 }
 2352 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3779
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 32163
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 1516
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -725,6 +871,28 @@
 
 }
 2353 = {
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1439
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1781
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1425
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -937,6 +1105,35 @@
 
 }
 2354 = {
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1825
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 17999
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3316
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 5311
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -1002,6 +1199,28 @@
 
 }
 2355 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2674
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 25258
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1232
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -1067,11 +1286,47 @@
 
 }
 2356 = {
-	slaves=
+
+	farmers=
 	{
-		culture = guarani
-		religion = animist
-		size= 539
+		culture = siouan
+		religion = totemism
+		size= 2138
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1648
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 3172
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1298
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 964
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 1248
 	}
 
 	soldiers=
@@ -1146,6 +1401,21 @@
 
 }
 2357 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2454
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 40813
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -1211,6 +1481,21 @@
 
 }
 2358 = {
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 13850
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 13850
+	}
+	
 	soldiers=
 	{
 		culture = guarani
@@ -1318,6 +1603,21 @@
 
 }
 2359 = {
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 11870
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1179
+	}
+	
 	soldiers=
 	{
 		culture = guarani
@@ -1383,11 +1683,26 @@
 
 }
 2360 = {
-	slaves=
+	
+	soldiers=
 	{
-		culture = guarani
-		religion = animist
-		size= 106
+		culture = dakota
+		religion = totemism
+		size= 2709
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 44125
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4428
 	}
 
 	soldiers=
@@ -1462,13 +1777,42 @@
 
 }
 2361 = {
-	slaves=
+	
+	farmers=
 	{
-		culture = guarani
-		religion = animist
-		size= 188
+		culture = sonoran
+		religion = totemism
+		size= 1457
 	}
 
+	artisans=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1273
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3303
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 1923
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 1233
+	}
+	
 	soldiers=
 	{
 		culture = guarani
@@ -1541,11 +1885,26 @@
 
 }
 2362 = {
-	slaves=
+
+	farmers=
 	{
-		culture = chacoan
-		religion = animist
-		size= 683
+		culture = siouan
+		religion = totemism
+		size= 25318
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2246
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1504
 	}
 
 	soldiers=
@@ -1760,6 +2119,14 @@
 
 }
 2363 = {
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 37063
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -1825,6 +2192,28 @@
 
 }
 2364 = {
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 2429
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1927
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 3992
+	}
+
 	soldiers=
 	{
 		culture = chacoan
@@ -2016,6 +2405,28 @@
 
 }
 2365 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10035
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1382
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 2499
+	}
+
 	soldiers=
 	{
 		culture = chacoan
@@ -2081,11 +2492,47 @@
 
 }
 2366 = {
-	slaves=
+	
+	soldiers=
 	{
-		culture = chacoan
-		religion = animist
-		size= 795
+		culture = dakota
+		religion = totemism
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 9899
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 11754
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2018
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 5656
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 2527
 	}
 
 	soldiers=
@@ -2160,6 +2607,21 @@
 
 }
 2367 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14835
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 3160
+	}
+	
 	soldiers=
 	{
 		culture = chacoan
@@ -2225,11 +2687,19 @@
 
 }
 2368 = {
-	slaves=
+
+	farmers=
 	{
-		culture = aimara
-		religion = inti
-		size= 1341
+		culture = siouan
+		religion = totemism
+		size= 9439
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11530
 	}
 
 	soldiers=
@@ -2395,6 +2865,28 @@
 
 }
 2369 = {
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 13717
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1264
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = hellenic_pagan
+		size= 6018
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -2495,6 +2987,35 @@
 
 }
 2370 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1242
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 20830
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1287
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 8126
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -2644,6 +3165,21 @@
 
 }
 2371 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10547
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1203
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -2744,6 +3280,22 @@
 
 }
 2372 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10419
+	}
+
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1307
+	}
+	
 	soldiers=
 	{
 		culture = aimara
@@ -2844,11 +3396,33 @@
 
 }
 2373 = {
-	slaves=
+
+	farmers=
 	{
-		culture = aimara
-		religion = animist
-		size= 3537
+		culture = central_algonquian
+		religion = totemism
+		size= 15218
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2316
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1022
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 4639
 	}
 
 	soldiers=
@@ -3105,13 +3679,49 @@
 
 }
 2374 = {
-	slaves=
+	
+	soldiers=
 	{
-		culture = aimara
-		religion = animist
-		size= 870
+		culture = central_algonquian
+		religion = totemism
+		size= 2446
 	}
 
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 40075
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1137
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 7535
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1331
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 2678
+	}
+	
 	soldiers=
 	{
 		culture = aimara
@@ -3303,6 +3913,35 @@
 
 }
 2375 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13777
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 3517
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4590
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 4130
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -3473,13 +4112,21 @@
 
 }
 2376 = {
-	slaves=
+	
+	farmers=
 	{
-		culture = aimara
-		religion = animist
-		size= 315
+		culture = siouan
+		religion = totemism
+		size= 9709
 	}
 
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1321
+	}
+	
 	soldiers=
 	{
 		culture = aimara
@@ -3678,6 +4325,21 @@
 
 }
 2377 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12623
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 5916
+	}
+
 	soldiers=
 	{
 		culture = chacoan
@@ -3743,6 +4405,21 @@
 
 }
 2378 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15964
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 3127
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -3920,11 +4597,26 @@
 
 }
 2379 = {
-	slaves=
+	
+	farmers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 492
+		culture = central_algonquian
+		religion = totemism
+		size= 14976
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2247
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1465
 	}
 
 	soldiers=
@@ -4020,6 +4712,28 @@
 
 }
 2380 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 23774
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2691
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 4743
+	}
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4099,6 +4813,35 @@
 
 }
 2381 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 9387
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1498
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 13950
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13448
+	}
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4178,6 +4921,21 @@
 
 }
 2382 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2836
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 46031
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -4243,6 +5001,21 @@
 
 }
 2383 = {
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1519
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1718
+	}
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4308,6 +5081,49 @@
 
 }
 2384 = {
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1826
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3224
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 26116
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6328
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1720
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1759
+	}
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4373,11 +5189,33 @@
 
 }
 2385 = {
-	slaves=
+	
+	farmers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 1403
+		culture = central_algonquian
+		religion = totemism
+		size= 6328
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1720
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1759
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1173
 	}
 
 	soldiers=
@@ -4452,6 +5290,36 @@
 
 }
 2386 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1120
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18272
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1135
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1813
+	}
+
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4531,13 +5399,35 @@
 
 }
 2387 = {
-	slaves=
+	
+	farmers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 788
+		culture = central_algonquian
+		religion = totemism
+		size= 10348
 	}
 
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5693
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 1060
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 7929
+	}
+	
 	soldiers=
 	{
 		culture = araucanian
@@ -4610,6 +5500,42 @@
 
 }
 2388 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1120
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18272
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1135
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1813
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 6193
+	}
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4675,11 +5601,26 @@
 
 }
 2389 = {
-	slaves=
+	
+	farmers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 1517
+		culture = central_algonquian
+		religion = totemism
+		size= 15501
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 3257
+	}
+	
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 7929
 	}
 
 	soldiers=
@@ -4754,6 +5695,21 @@
 
 }
 2390 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10673
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 3319
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -4833,6 +5789,42 @@
 
 }
 2391 = {
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = totemism
+		size= 10629
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3279
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2589
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 19718
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1132
+	}
+
 	soldiers=
 	{
 		culture = araucanian
@@ -4961,6 +5953,49 @@
 
 }
 2392 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1789
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1412
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 7873
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1210
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 2790
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 259
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -5026,6 +6061,22 @@
 
 }
 2393 = {
+
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1304
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14725
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -5224,6 +6275,21 @@
 
 }
 2394 = {
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 15339
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11614
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -5338,6 +6404,28 @@
 
 }
 2395 = {
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 8513
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12342
+	}
+	
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1055
+	}
+	
 	soldiers=
 	{
 		culture = patagonian
@@ -5417,6 +6505,49 @@
 
 }
 2396 = {
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2251
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1017
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 25583
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1022
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11463
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 1408
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -5741,6 +6872,28 @@
 
 }
 2397 = {
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2858
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2174
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 5526
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -5925,6 +7078,14 @@
 
 }
 2398 = {
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 39524
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -6088,6 +7249,21 @@
 
 }
 2399 = {
+
+	artisans=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 3184
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 5970
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -6251,6 +7427,14 @@
 
 }
 2400 = {
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 15225
+	}
+
 	soldiers=
 	{
 		culture = patagonian
@@ -6365,6 +7549,21 @@
 
 }
 2554 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1818
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 19971
+	}
+
 	soldiers=
 	{
 		culture = guarani

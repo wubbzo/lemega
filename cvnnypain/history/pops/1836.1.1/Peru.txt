@@ -1,4 +1,33 @@
 2286 = {
+
+	slaves=
+	{
+		culture = chacoan
+		religion = animist
+		size= 683
+	}
+	
+	slaves=
+	{
+		culture = chacoan
+		religion = animist
+		size= 795
+	}
+	
+	slaves=
+	{
+		culture = aimara
+		religion = inti
+		size= 1341
+	}
+	
+	slaves=
+	{
+		culture = aimara
+		religion = animist
+		size= 3537
+	}
+	
 	soldiers=
 	{
 		culture = maranon
@@ -64,6 +93,35 @@
 
 }
 2287 = {
+
+	slaves=
+	{
+		culture = aimara
+		religion = animist
+		size= 315
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 1230
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 11684
+	}
+
+	slaves=
+	{
+		culture = aimara
+		religion = animist
+		size= 870
+	}
+
 	soldiers=
 	{
 		culture = quechua
@@ -164,6 +222,49 @@
 
 }
 2288 = {
+
+	slaves=
+	{
+		culture = araucanian
+		religion = animist
+		size= 788
+	}
+
+	slaves=
+	{
+		culture = araucanian
+		religion = animist
+		size= 31517
+	}
+
+	slaves=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1403
+	}
+
+	slaves=
+	{
+		culture = araucanian
+		religion = animist
+		size= 492
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 569
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 452
+	}
+
 	soldiers=
 	{
 		culture = maranon
@@ -229,6 +330,42 @@
 
 }
 2289 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 15609
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 5480
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 10629
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 899
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 460
+	}
+
 	soldiers=
 	{
 		culture = maranon
@@ -357,6 +494,21 @@
 
 }
 2290 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 16277
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6869
+	}
+
 	soldiers=
 	{
 		culture = quechua
@@ -555,6 +707,28 @@
 
 }
 2291 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 9656
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 6079
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4817
+	}
+
 	slaves=
 	{
 		culture = quechua
@@ -725,6 +899,21 @@
 
 }
 2292 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7626
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 18503
+	}
+
 	slaves=
 	{
 		culture = quechua
@@ -895,6 +1084,28 @@
 
 }
 2293 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 10643
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2128
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 8312
+	}
+
 	soldiers=
 	{
 		culture = quechua
@@ -1093,6 +1304,21 @@
 
 }
 2294 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 3979
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 17137
+	}
+
 	soldiers=
 	{
 		culture = maranon
@@ -1193,6 +1419,14 @@
 
 }
 2295 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 22692
+	}
+
 	slaves=
 	{
 		culture = quechua
@@ -1307,6 +1541,35 @@
 
 }
 2296 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 2776
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 17346
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 6092
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3882
+	}
+
 	soldiers=
 	{
 		culture = quechua
@@ -1505,6 +1768,14 @@
 
 }
 2297 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 71593
+	}
+
 	slaves=
 	{
 		culture = quechua
@@ -1619,6 +1890,21 @@
 
 }
 2298 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 28858
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1068
+	}
+
 	slaves=
 	{
 		culture = quechua
@@ -1845,6 +2131,21 @@
 
 }
 2299 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 51690
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 2492
+	}
+	
 	soldiers=
 	{
 		culture = quechua
@@ -1938,6 +2239,21 @@
 
 }
 2300 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 6211
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6964
+	}
+
 	soldiers=
 	{
 		culture = maranon
@@ -2115,6 +2431,21 @@
 
 }
 2301 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 39575
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 8621
+	}
+
 	soldiers=
 	{
 		culture = quechua
@@ -2362,6 +2693,14 @@
 
 }
 2302 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 30050
+	}
+
 	slaves=
 	{
 		culture = quechua
@@ -2644,6 +2983,14 @@
 
 }
 2303 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 63521
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -2954,6 +3301,28 @@
 
 }
 2304 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 9405
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5249
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 2349
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -3138,6 +3507,21 @@
 
 }
 2578 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5011
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 8008
+	}
+
 	slaves=
 	{
 		culture = aimara

@@ -1,5 +1,7 @@
 capital = 343
 primary_culture = finnish
+culture = sami
+culture = swedish
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy

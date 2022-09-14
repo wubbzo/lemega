@@ -1,4 +1,12 @@
 8 = {
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 22884
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -99,6 +107,35 @@
 
 }
 10 = {
+	
+	artisans=
+	{
+		culture = muskogean
+		religion = hellenic_pagan
+		size= 2023
+	}
+	
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1285
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1423
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 19392
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -297,6 +334,21 @@
 
 }
 720 = {
+	
+	farmers=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 16681
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 1165
+	}
+
 	soldiers=
 	{
 		culture = south_german
@@ -446,6 +498,21 @@
 
 }
 721 = {
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1992
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 12103
+	}
+	
 	soldiers=
 	{
 		culture = south_german
@@ -595,6 +662,28 @@
 
 }
 722 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1682
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 3198
+	}
+	
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1992
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -646,6 +735,28 @@
 
 }
 723 = {
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 5468
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 13738
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 1091
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -697,6 +808,28 @@
 
 }
 724 = {
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 4040
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 1317
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = shinto
+		size= 14312
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -776,6 +909,14 @@
 
 }
 725 = {
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 81247
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -876,6 +1017,21 @@
 
 }
 726 = {
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 6253
+	}
+	
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 7620
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -1025,6 +1181,21 @@
 
 }
 727 = {
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 11297
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1126
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -1125,6 +1296,28 @@
 
 }
 728 = {
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 4072
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 9477
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 4481
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -1176,6 +1369,28 @@
 
 }
 729 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 17891
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2008
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 9459
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -1325,6 +1540,21 @@
 
 }
 730 = {
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 5692
+	}
+	
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8928
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -1425,6 +1655,28 @@
 
 }
 731 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 14495
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1178
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1952
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -1527,6 +1779,34 @@
 732 = {
 	soldiers=
 	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2327
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 1169
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 1719
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 13839
+	}
+	
+	soldiers=
+	{
 		culture = north_italian
 		religion = catholic
 		size= 1110
@@ -1625,6 +1905,14 @@
 
 }
 733 = {
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 21181
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -1725,6 +2013,28 @@
 
 }
 734 = {
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2327
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 1169
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 1788
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -1923,6 +2233,14 @@
 
 }
 735 = {
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 22033
+	}
+
 	soldiers=
 	{
 		culture = south_german
@@ -2121,6 +2439,21 @@
 
 }
 736 = {
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 9995
+	}
+	
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 9791
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -2221,6 +2554,35 @@
 
 }
 737 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1814
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1697
+	}
+	
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10551
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1021
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2321,6 +2683,21 @@
 
 }
 738 = {
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1936
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 18694
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2421,6 +2798,28 @@
 
 }
 739 = {
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1901
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 18588
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 3648
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2472,6 +2871,21 @@
 
 }
 740 = {
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 14954
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1979
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2523,6 +2937,14 @@
 
 }
 741 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10212
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2574,6 +2996,21 @@
 
 }
 742 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 9935
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1519
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2772,6 +3209,21 @@
 
 }
 743 = {
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 15559
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -2921,6 +3373,21 @@
 
 }
 744 = {
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1863
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 30591
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3007,6 +3474,28 @@
 
 }
 745 = {
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 11215
+	}
+	
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2901
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2569
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3086,6 +3575,21 @@
 
 }
 746 = {
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 12234
+	}
+	
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 15240
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3137,6 +3641,35 @@
 
 }
 747 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13336
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = hellenic_pagan
+		size= 3904
+	}
+	
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 8001
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1097
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -3188,6 +3721,63 @@
 
 }
 748 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 2367
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1261
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 1800
+	}
+	
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10653
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2105
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 3083
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3056
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1454
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -3239,6 +3829,14 @@
 
 }
 749 = {
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 33796
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3325,6 +3923,35 @@
 
 }
 750 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5912
+	}
+	
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 18915
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 11037
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 2895
+	}
+
 	soldiers=
 	{
 		culture = north_italian
@@ -3376,6 +4003,42 @@
 
 }
 751 = {
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1252
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 20428
+	}
+	
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12033
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = hellenic_pagan
+		size= 3959
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3476,6 +4139,35 @@
 
 }
 752 = {
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 6066
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1312
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16080
+	}
+	
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 8958
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3576,6 +4268,21 @@
 
 }
 753 = {
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1801
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 29661
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -3774,6 +4481,35 @@
 
 }
 754 = {
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 9477
+	}
+	
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6440
+	}
+	
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 14647
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 7996
+	}
+	
 	soldiers=
 	{
 		culture = south_italian
@@ -3874,6 +4610,21 @@
 
 }
 755 = {
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 9477
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 27878
+	}
+	
 	soldiers=
 	{
 		culture = magnagreek
@@ -3974,6 +4725,56 @@
 
 }
 756 = {
+	
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1716
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1271
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 21099
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1086
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 5272
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1070
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1785
+	}
+	
 	soldiers=
 	{
 		culture = south_italian
@@ -4074,6 +4875,42 @@
 
 }
 757 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14904
+	}
+	
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5255
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1668
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1651
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 2263
+	}
+
 	soldiers=
 	{
 		culture = south_italian
@@ -4223,6 +5060,14 @@
 
 }
 758 = {
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 49873
+	}
+
 	soldiers=
 	{
 		culture = south_italian
@@ -4323,6 +5168,21 @@
 
 }
 759 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12992
+	}
+	
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14904
+	}
+	
 	soldiers=
 	{
 		culture = magnagreek
@@ -4416,6 +5276,56 @@
 
 }
 760 = {
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 1604
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 2328
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 13065
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6793
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1832
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1496
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1523
+	}
+
 	soldiers=
 	{
 		culture = magnagreek
@@ -4558,6 +5468,14 @@
 
 }
 761 = {
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 65263
+	}
+	
 	soldiers=
 	{
 		culture = magnagreek
@@ -4700,6 +5618,28 @@
 
 }
 762 = {
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 8782
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = hellenic_pagan
+		size= 7628
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 14567
+	}
+
 	soldiers=
 	{
 		culture = magnagreek
@@ -4947,6 +5887,28 @@
 
 }
 763 = {
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14951
+	}
+	
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1043
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 17568
+	}
+	
 	soldiers=
 	{
 		culture = magnagreek
@@ -5047,6 +6009,49 @@
 
 }
 764 = {
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1628
+	}
+
+	craftsmen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1178
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 26099
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 6774
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 16049
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 5285
+	}
+	
 	soldiers=
 	{
 		culture = magnagreek
@@ -5147,6 +6152,28 @@
 
 }
 765 = {
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1094
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 18129
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 7098
+	}
+	
 	soldiers=
 	{
 		culture = south_italian
@@ -5247,6 +6274,21 @@
 
 }
 766 = {
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14126
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = protestant
+		size= 10377
+	}
+	
 	soldiers=
 	{
 		culture = south_italian
@@ -5438,6 +6480,42 @@
 
 }
 1981 = {
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2428
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1349
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 1620
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 3709
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 22931
+	}
+
 	clergymen=
 	{
 		culture = north_italian
@@ -5468,6 +6546,21 @@
 
 }
 2567 = {
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 39374
+	}
+	
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 5354
+	}
+	
 	soldiers=
 	{
 		culture = north_italian
@@ -5568,6 +6661,28 @@
 
 }
 2669 = {
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9802
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 1183
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 9432
+	}
+	
 	soldiers=
 	{
 		culture = north_italian

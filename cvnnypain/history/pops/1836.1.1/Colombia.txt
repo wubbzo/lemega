@@ -1,4 +1,12 @@
 2247 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 45910
+	}
+
 	slaves=
 	{
 		culture = chibchan
@@ -113,6 +121,28 @@
 
 }
 2248 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 31575
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 8244
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2635
+	}
+	
 	slaves=
 	{
 		culture = guajiro
@@ -248,6 +278,21 @@
 
 }
 2249 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 52421
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 7425
+	}
+	
 	soldiers=
 	{
 		culture = chibchan
@@ -348,6 +393,21 @@
 
 }
 2250 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 2724
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 113633
+	}
+	
 	soldiers=
 	{
 		culture = guajiro
@@ -462,6 +522,14 @@
 
 }
 2251 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 29075
+	}
+	
 	soldiers=
 	{
 		culture = guajiro
@@ -688,6 +756,14 @@
 
 }
 2252 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 67206
+	}
+	
 	slaves=
 	{
 		culture = chibchan
@@ -949,6 +1025,21 @@
 
 }
 2253 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 15168
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7290
+	}
+
 	slaves=
 	{
 		culture = guajiro
@@ -1084,6 +1175,14 @@
 
 }
 2254 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 15168
+	}
+
 	slaves=
 	{
 		culture = guajiro
@@ -1261,6 +1360,28 @@
 
 }
 2255 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6253
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 20726
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = totemism
+		size= 1767
+	}
+	
 	slaves=
 	{
 		culture = chibchan
@@ -1508,6 +1629,21 @@
 
 }
 2256 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 46905
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 11477
+	}
+
 	slaves=
 	{
 		culture = guajiro
@@ -1587,6 +1723,21 @@
 
 }
 2257 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 35335
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6478
+	}
+	
 	soldiers=
 	{
 		culture = chibchan
@@ -1652,6 +1803,21 @@
 
 }
 2258 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 53097
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15717
+	}
+	
 	slaves=
 	{
 		culture = guajiro
@@ -1731,6 +1897,21 @@
 
 }
 2259 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2046
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 10797
+	}
+	
 	soldiers=
 	{
 		culture = chibchan
@@ -1859,6 +2040,21 @@
 
 }
 2260 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 37032
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6093
+	}
+
 	soldiers=
 	{
 		culture = maranon
@@ -2169,6 +2365,21 @@
 
 }
 2261 = {
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 31058
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5194
+	}
+
 	soldiers=
 	{
 		culture = maranon
@@ -2479,6 +2690,21 @@
 
 }
 2262 = {
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 15593
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3300
+	}
+	
 	slaves=
 	{
 		culture = carribean
@@ -2747,6 +2973,21 @@
 
 }
 2263 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 24329
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7636
+	}
+
 	soldiers=
 	{
 		culture = maranon

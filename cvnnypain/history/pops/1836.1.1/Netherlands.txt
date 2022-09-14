@@ -1,4 +1,12 @@
 375 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2984
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -148,6 +156,119 @@
 
 }
 376 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5244
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1526
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 19929
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 476
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 471
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 563
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = hellenic_pagan
+		size= 1172
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -297,6 +418,105 @@
 
 }
 377 = {
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 187
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = catholic
+		size= 95
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 4806
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 12128
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -595,6 +815,70 @@
 
 }
 379 = {
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 411
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 25
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 87
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 317
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 30886
+	}
+	
+	soldiers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 3051
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -744,6 +1028,63 @@
 
 }
 380 = {
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15366
+	}
+
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 3983
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 5106
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 418
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -893,6 +1234,42 @@
 
 }
 381 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 555
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 55327
+	}
+	
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 6624
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = protestant
+		size= 35
+	}
+	
 	soldiers=
 	{
 		culture = dutch
@@ -1042,6 +1419,49 @@
 
 }
 382 = {
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 1279
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 21578
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 9785
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -1191,6 +1611,119 @@
 
 }
 383 = {
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 9870
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 297
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 331
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = catholic
+		size= 5588
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 67
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -1291,6 +1824,98 @@
 
 }
 384 = {
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 1800
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 900
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -1440,6 +2065,140 @@
 
 }
 385 = {
+
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 17498
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1057
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = navajo
+		religion = totemism
+		size= 339
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = navajo
+		religion = totemism
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = navajo
+		religion = totemism
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = navajo
+		religion = totemism
+		size= 16
+	}
+
+	officers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 3466
+	}
+
+	soldiers=
+	{
+		culture = navajo
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = animist
+		size= 332
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = animist
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = animist
+		size= 8531
+	}
+
 	soldiers=
 	{
 		culture = dutch
@@ -1589,6 +2348,161 @@
 
 }
 386 = {
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 243
+	}
+
+	clergymen=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 17
+	}
+
+	officers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 23614
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 263
+	}
+
+	clergymen=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	officers=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 544
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 8765
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1458
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = animist
+		size= 2284
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 2792
+	}
+
 	soldiers=
 	{
 		culture = dutch

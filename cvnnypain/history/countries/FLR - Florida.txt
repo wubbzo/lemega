@@ -1,6 +1,6 @@
 capital = 200
 primary_culture = dixie
-culture = afro_american
+culture = yankee
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

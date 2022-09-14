@@ -1,5 +1,8 @@
 capital = 252
 primary_culture = icelandic
+culture = norwegian
+culture = danish
+culture = elsinorian
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy

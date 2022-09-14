@@ -1,4 +1,152 @@
 305 = {
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1661
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1111
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 33098
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 119
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 1706
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 1980
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 15456
+	}
+	
 	soldiers=
 	{
 		culture = norwegian
@@ -50,6 +198,133 @@
 
 }
 306 = {
+
+soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 448
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 926
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 705
+	}
+
+	clergymen=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 9
+	}
+
+	officers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 18364
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 746
+	}
+
+	clergymen=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = pueblo
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1950
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -192,6 +467,65 @@
 
 }
 307 = {
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 416
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 6970
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 393
+	}
+
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 946
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 15935
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = animist
+		size= 547
+	}
+
+
 	soldiers=
 	{
 		culture = sami
@@ -292,6 +626,203 @@
 
 }
 308 = {
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 994
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 16635
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 609
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 10094
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 306
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 73
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 512
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 185
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2974
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = hellenic_pagan
+		size= 2836
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -392,6 +923,189 @@
 
 }
 309 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8482
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1962
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 5104
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 190
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 1034
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -464,6 +1178,189 @@
 
 }
 310 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8482
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1962
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 5104
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 190
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 1034
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -613,6 +1510,133 @@
 
 }
 311 = {
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 7233
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 33622
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2724
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 378
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 79
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 2234
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 25
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 5
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -762,6 +1786,133 @@
 
 }
 312 = {
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2803
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 27199
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2202
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 21622
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 151
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 315
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 950
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -911,6 +2062,203 @@
 
 }
 313 = {
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1691
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 16416
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2222
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 903
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 322
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 675
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 172
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 728
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 6629
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 20
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -1053,6 +2401,217 @@
 
 }
 314 = {
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 386
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 18016
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 2856
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2061
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 278
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1222
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = siouan
+		religion = totemism
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = siouan
+		religion = totemism
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = siouan
+		religion = totemism
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = hellenic_pagan
+		size= 100
+	}
+
+	officers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 473
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 786
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -1202,6 +2761,266 @@
 
 }
 315 = {
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10597
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2110
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 171
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1710
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 144
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = totemism
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = totemism
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 94
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 544
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -1302,6 +3121,287 @@
 
 }
 316 = {
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 5519
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 52143
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2661
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2460
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 233
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 510
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2664
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 26138
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1963
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = totemism
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 117
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 768
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 1963
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 5245
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 39
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = hellenic_pagan
+		size= 2161
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 2701
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = hellenic_pagan
+		size= 1406
+	}
+
 	soldiers=
 	{
 		culture = norwegian

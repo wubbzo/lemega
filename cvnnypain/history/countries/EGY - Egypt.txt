@@ -1,5 +1,6 @@
 capital = 1751
 primary_culture = copts
+culture = amhara
 culture = zzz_religion_monophysite
 religion = monophysite
 government = absolute_monarchy

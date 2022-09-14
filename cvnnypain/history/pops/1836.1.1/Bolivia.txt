@@ -1,4 +1,12 @@
 2310 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 46039
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -197,6 +205,21 @@
 
 }
 2311 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2417
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15272
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -311,6 +334,14 @@
 
 }
 2312 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 69974
+	}
+	
 	soldiers=
 	{
 		culture = aimara
@@ -404,6 +435,14 @@
 
 }
 2313 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 26038
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -504,6 +543,28 @@
 
 }
 2314 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 10798
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 6380
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5761
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -702,6 +763,14 @@
 
 }
 2315 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 23926
+	}
+
 	soldiers=
 	{
 		culture = aimara
@@ -851,6 +920,21 @@
 
 }
 2316 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10428
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7138
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -965,6 +1049,14 @@
 
 }
 2317 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 25603
+	}
+	
 	soldiers=
 	{
 		culture = amazonian
@@ -1114,6 +1206,14 @@
 
 }
 2318 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 26139
+	}
+
 	soldiers=
 	{
 		culture = chacoan
@@ -1179,6 +1279,28 @@
 
 }
 2319 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 18830
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = totemism
+		size= 1341
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = totemism
+		size= 5613
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -1293,6 +1415,21 @@
 
 }
 2320 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 61983
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 5525
+	}
+
 	soldiers=
 	{
 		culture = amazonian
@@ -1407,6 +1544,21 @@
 
 }
 2321 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 2479
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 13940
+	}
+
 	soldiers=
 	{
 		culture = amazonian

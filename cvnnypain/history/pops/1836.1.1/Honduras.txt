@@ -1,16 +1,10 @@
 2193 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 179
-	}
-
+	
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 8801
+		size= 4801
 	}
 
 	farmers=
@@ -162,100 +156,17 @@
 
 }
 2194 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 551
-	}
 
-	artisans=
+	farmers=
 	{
-		culture = mayan
+		culture = texan
 		religion = mayan
-		size= 275
-	}
-
-	clergymen=
-	{
-		culture = mayan
-		religion = mayan
-		size= 89
-	}
-
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 14
-	}
-
-	officers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 58
+		size= 16540
 	}
 
 	farmers=
 	{
-		culture = mayan
-		religion = mayan
-		size= 26540
-	}
-
-	soldiers=
-	{
-		culture = mayan
-		religion = hellenic_pagan
-		size= 199
-	}
-
-	artisans=
-	{
-		culture = mayan
-		religion = hellenic_pagan
-		size= 474
-	}
-
-	clergymen=
-	{
-		culture = mayan
-		religion = hellenic_pagan
-		size= 154
-	}
-
-	bureaucrats=
-	{
-		culture = mayan
-		religion = hellenic_pagan
-		size= 24
-	}
-
-	officers=
-	{
-		culture = mayan
-		religion = hellenic_pagan
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = mayan
-		religion = hellenic_pagan
-		size= 100
-	}
-
-	farmers=
-	{
-		culture = mayan
+		culture = texan
 		religion = hellenic_pagan
 		size= 8983
 	}
@@ -311,18 +222,12 @@
 
 }
 2195 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 731
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 12321
+		size= 6321
 	}
 
 	soldiers=
@@ -474,18 +379,12 @@
 
 }
 2196 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 281
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 4731
+		size= 2731
 	}
 
 	farmers=

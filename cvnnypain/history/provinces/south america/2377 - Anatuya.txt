@@ -1,5 +1,7 @@
-owner=ARG
-controller=ARG
+owner=PRG
+controller=PRG
+add_core=PRG
+add_core=BRZ
 trade_goods = timber
 life_rating = 15
 terrain = savanna

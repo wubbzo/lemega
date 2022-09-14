@@ -1,6 +1,7 @@
-owner=ARG
-controller=ARG
+owner=BRZ
+controller=BRZ
 add_core=ARG
+add_core=BRZ
 trade_goods = cattle
 life_rating = 31
 terrain = new_world_desert

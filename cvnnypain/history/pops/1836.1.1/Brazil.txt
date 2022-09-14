@@ -1,6 +1,13 @@
 2306 = {
 	slaves=
 	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 51236
+	}
+	
+	slaves=
+	{
 		culture = tupi
 		religion = animist
 		size= 1229
@@ -99,6 +106,42 @@
 
 }
 2401 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10625
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 24329
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1175
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10220
+	}
+
 	soldiers=
 	{
 		culture = carribean
@@ -283,6 +326,28 @@
 
 }
 2402 = {
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3227
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 10176
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2255
+	}
+
 	soldiers=
 	{
 		culture = carribean
@@ -467,6 +532,21 @@
 
 }
 2403 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 5555
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = orthodox
+		size= 24623
+	}
+	
 	soldiers=
 	{
 		culture = carribean
@@ -651,6 +731,28 @@
 
 }
 2404 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 22357
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3984
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = orthodox
+		size= 10774
+	}
+	
 	soldiers=
 	{
 		culture = carribean
@@ -835,6 +937,41 @@
 
 }
 2405 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 26409
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4316
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9584
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 537
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 2509
+	}
 	soldiers=
 	{
 		culture = carribean
@@ -1019,6 +1156,13 @@
 
 }
 2407 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 46037
+	}
+
 	soldiers=
 	{
 		culture = carribean
@@ -1203,6 +1347,28 @@
 
 }
 2408 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 2943
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4730
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 11349
+	}
+
 	soldiers=
 	{
 		culture = tupinamba
@@ -1352,6 +1518,21 @@
 
 }
 2410 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 5981
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 22723
+	}
+	
 	slaves=
 	{
 		culture = tupi
@@ -1599,6 +1780,49 @@
 
 }
 2411 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 5675
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2263
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1491
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 2290
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 431
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 255
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -1762,6 +1986,63 @@
 
 }
 2412 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 2526
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = jewish
+		size= 1575
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 8064
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 990
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 80
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1488
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1459
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 2180
+	}
+
 	soldiers=
 	{
 		culture = tupinamba
@@ -1911,6 +2192,28 @@
 
 }
 2413 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 3542
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 2063
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 9207
+	}
+
 	soldiers=
 	{
 		culture = tupinamba
@@ -2060,6 +2363,50 @@
 
 }
 2415 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5853
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 35817
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 16483
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 362
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1252
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 36907
+	}
+
+
 	slaves=
 	{
 		culture = guajiro
@@ -2384,6 +2731,21 @@
 
 }
 2416 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 32547
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 4464
+	}
+
 	soldiers=
 	{
 		culture = amazonian
@@ -2659,6 +3021,42 @@
 
 }
 2417 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 35817
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15429
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1307
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 26703
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -2801,6 +3199,21 @@
 
 }
 2418 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 25897
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 3704
+	}
+
 	soldiers=
 	{
 		culture = je
@@ -2950,6 +3363,28 @@
 
 }
 2419 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 21085
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 13217
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 3659
+	}
+
 	soldiers=
 	{
 		culture = amazonian
@@ -3225,6 +3660,28 @@
 
 }
 2420 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17591
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 985
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 43286
+	}
+
 	soldiers=
 	{
 		culture = amazonian
@@ -3500,6 +3957,21 @@
 
 }
 2421 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 17035
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 57733
+	}
+
 	slaves=
 	{
 		culture = je
@@ -3782,6 +4254,35 @@
 
 }
 2422 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 13688
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 815
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 49
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 47079
+	}
+
 	soldiers=
 	{
 		culture = je
@@ -3847,6 +4348,21 @@
 
 }
 2423 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 8155
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 64894
+	}
+
 	soldiers=
 	{
 		culture = je
@@ -4052,6 +4568,28 @@
 
 }
 2424 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 16975
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1562
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 55149
+	}
+
 	slaves=
 	{
 		culture = je
@@ -4355,6 +4893,21 @@
 
 }
 2425 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 76338
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 7036
+	}
+	
 	soldiers=
 	{
 		culture = je
@@ -4588,6 +5141,49 @@
 
 }
 2426 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 34334
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7135
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 2478
+	}
+	
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 434
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 187
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 23194
+	}
+
 	slaves=
 	{
 		culture = je
@@ -4751,6 +5347,28 @@
 
 }
 2427 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15098
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 2175
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 19237
+	}
+
 	soldiers=
 	{
 		culture = je
@@ -4949,6 +5567,35 @@
 
 }
 2428 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 33654
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7375
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 434
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 23975
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -5112,6 +5759,28 @@
 
 }
 2429 = {
+
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7647
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 19883
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 2248
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -5191,6 +5860,63 @@
 
 }
 2430 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 13793
+	}
+	
+	slaves=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6683
+	}
+	
+	slaves=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 4091
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 769
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3682
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 255
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 8092
+	}
+
 	slaves=
 	{
 		culture = je
@@ -5459,6 +6185,56 @@
 
 }
 2431 = {
+
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5248
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 12394
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4722
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 185
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 10304
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 7672
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -5538,6 +6314,28 @@
 
 }
 2432 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 3136
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 11825
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 3204
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -5652,6 +6450,63 @@
 
 }
 2433 = {
+
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2137
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 17168
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1407
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 457
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3099
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 4400
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 2648
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 5609
+	}
+
 	slaves=
 	{
 		culture = je
@@ -5731,6 +6586,70 @@
 
 }
 2434 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 6911
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 9236
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 1565
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1445
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 457
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3061
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 4521
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 2721
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 5764
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -5810,6 +6729,70 @@
 
 }
 2435 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 3245
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 4336
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1003
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 1489
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 7917
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4161
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 317
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11362
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 9028
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -5973,6 +6956,49 @@
 
 }
 2436 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 4379
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 38710
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5710
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5765
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 11803
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -6248,6 +7274,64 @@
 
 }
 2437 = {
+
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2217
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 1338
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 2484
+	}
+	
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 16245
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1644
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 113
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 81389
+	}
+
+
 	slaves=
 	{
 		culture = je
@@ -6474,6 +7558,63 @@
 
 }
 2438 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 6200
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 4364
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 1004
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17396
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1644
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 121
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 87143
+	}
+
 	slaves=
 	{
 		culture = je
@@ -6553,6 +7694,49 @@
 
 }
 2439 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2511
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1426
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 5515
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 525
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 5231
+	}
+
 	slaves=
 	{
 		culture = je
@@ -6653,6 +7837,35 @@
 
 }
 2440 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11400
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 760
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1416
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 53008
+	}	
+
 	slaves=
 	{
 		culture = je
@@ -6956,6 +8169,21 @@
 
 }
 2441 = {
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 10361
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 33576
+	}
+
 	slaves=
 	{
 		culture = je
@@ -7035,6 +8263,49 @@
 
 }
 2442 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 13334
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 283
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 502
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 340
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 3695
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 30526
+	}
+
 	slaves=
 	{
 		culture = je
@@ -7240,6 +8511,42 @@
 
 }
 2443 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17131
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 362
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 589
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 36750
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 27095
+	}
+
 	slaves=
 	{
 		culture = je
@@ -7508,6 +8815,21 @@
 
 }
 2444 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 6590
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 30422
+	}
+
 	slaves=
 	{
 		culture = je
@@ -7720,6 +9042,42 @@
 
 }
 2445 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 13413
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1322
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 382
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1124
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 17088
+	}
+
 	slaves=
 	{
 		culture = je
@@ -7946,6 +9304,21 @@
 
 }
 2446 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 26663
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 16981
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -8046,6 +9419,49 @@
 
 }
 2447 = {
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 17328
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 13687
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1322
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 390
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1147
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 17436
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -8265,6 +9681,41 @@
 
 }
 2448 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6090
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2458
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 22780
+	}
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 27207
+	}
+	
 	slaves=
 	{
 		culture = tupi
@@ -8344,6 +9795,21 @@
 
 }
 2449 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 19859
+	}
+	
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 2090
+	}
+
 	slaves=
 	{
 		culture = je
@@ -8423,6 +9889,42 @@
 
 }
 2450 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 14534
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2832
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 13421
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 16671
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 8297
+	}
+	
 	slaves=
 	{
 		culture = tupi
@@ -8523,6 +10025,14 @@
 
 }
 2451 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 85553
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -8637,6 +10147,21 @@
 
 }
 2452 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 1525
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 15552
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -8737,6 +10262,35 @@
 
 }
 2453 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10509
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1562
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4904
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 34140
+	}
+
 	slaves=
 	{
 		culture = je
@@ -8816,6 +10370,21 @@
 
 }
 2455 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 47257
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 4355
+	}
+
 	slaves=
 	{
 		culture = tupi
@@ -8916,6 +10485,35 @@
 
 }
 2456 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 12680
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5316
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 58351
+	}
+
 	slaves=
 	{
 		culture = je
@@ -8995,6 +10593,22 @@
 
 }
 2457 = {
+
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 44879
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 7444
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -9095,6 +10709,42 @@
 
 }
 2458 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 1769
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4963
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 468
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2928
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 19823
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -9230,6 +10880,14 @@
 
 }
 2459 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 16661
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -9456,6 +11114,35 @@
 
 }
 2460 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17774
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2374
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 22236
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 68043
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -9556,6 +11243,21 @@
 
 }
 2461 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 10685
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 54719
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -9719,6 +11421,35 @@
 
 }
 2462 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9711
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1395
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 13791
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 33487
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -9882,6 +11613,28 @@
 
 }
 2463 = {
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 136
+	}
+	
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 30270
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 2534
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -10017,6 +11770,126 @@
 
 }
 2464 = {
+
+	artisans=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 3764
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 13386
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 323
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 11362
+	}
+	
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 132
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -10152,6 +12025,42 @@
 
 }
 2465 = {
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 10834
+	}
+	
 	slaves=
 	{
 		culture = guarani
@@ -10259,6 +12168,36 @@
 
 }
 2466 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 313
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 232
+	}
+
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 2236
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1085
+	}
+
 	slaves=
 	{
 		culture = guarani
@@ -10366,6 +12305,35 @@
 
 }
 2467 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 40301
+	}
+	
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 541
+	}
+	
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5405
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5580
+	}
+
 	soldiers=
 	{
 		culture = guarani
@@ -10466,6 +12434,49 @@
 
 }
 2532 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 834
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 249
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1614
+	}
+	
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 20702
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 140
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3703
+	}
+
 	soldiers=
 	{
 		culture = carribean
@@ -10601,6 +12612,28 @@
 
 }
 2549 = {
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 6001
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3588
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 2425
+	}
+
 	soldiers=
 	{
 		culture = amazonian
@@ -10715,6 +12748,43 @@
 
 }
 2550 = {
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 59452
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = hellenic_pagan
+		size= 963
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5297
+	}
+	
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7078
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = hellenic_pagan
+		size= 1269
+	}
+
+
 	soldiers=
 	{
 		culture = amazonian
@@ -10927,6 +12997,28 @@
 
 }
 2600 = {
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6727
+	}
+
+	slaves=
+	{
+		culture = afro_american
+		religion = hellenic_pagan
+		size= 48583
+	}
+	
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3641
+	}
+
 	soldiers=
 	{
 		culture = tupinamba

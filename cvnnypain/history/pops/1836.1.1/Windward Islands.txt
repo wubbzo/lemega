@@ -1,30 +1,30 @@
 2229 = {
-	slaves=
+	artisans=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
-		size= 11400
+		size= 5400
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 760
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 1416
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_greek
+		culture = guyanese
 		religion = orthodox
-		size= 53008
+		size= 33008
 	}
 
 	soldiers=
@@ -76,11 +76,11 @@
 		size= 30
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_greek
+		culture = dixie
 		religion = hellenic_pagan
-		size= 10361
+		size= 5361
 	}
 
 	soldiers=
@@ -125,11 +125,11 @@
 		size= 426
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = guyanese
 		religion = hellenic_pagan
-		size= 33576
+		size= 23576
 	}
 
 	soldiers=
@@ -176,30 +176,30 @@
 
 }
 2231 = {
-	slaves=
+	farmers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
-		size= 13334
+		size= 7334
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 283
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = anglo_canadian
 		religion = animist
 		size= 502
 	}
 
-	slaves=
+	aristocrats=
 	{
-		culture = afro_greek
+		culture = texan
 		religion = orthodox
 		size= 340
 	}
@@ -218,11 +218,11 @@
 		size= 7
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = dixie
 		religion = catholic
-		size= 30526
+		size= 15526
 	}
 
 	farmers=
@@ -274,11 +274,11 @@
 		size= 9
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = hellenic_pagan
-		size= 3695
+		size= 1695
 	}
 
 	soldiers=
@@ -323,11 +323,11 @@
 		size= 115
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 27095
+		size= 17095
 	}
 
 	soldiers=
@@ -374,32 +374,32 @@
 
 }
 2232 = {
-	slaves=
+	aristocrats=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
-		size= 17131
+		size= 7131
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 362
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 589
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = texan
 		religion = catholic
-		size= 36750
+		size= 26750
 	}
 
 	farmers=
@@ -451,11 +451,11 @@
 		size= 5
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = hellenic_pagan
-		size= 6590
+		size= 3590
 	}
 
 	soldiers=
@@ -500,11 +500,11 @@
 		size= 74
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = anglo_canadian
 		religion = hellenic_pagan
-		size= 30422
+		size= 15422
 	}
 
 	soldiers=
@@ -593,23 +593,23 @@
 
 }
 2233 = {
-	slaves=
+	farmers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
-		size= 13413
+		size= 6413
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
 		size= 1322
 	}
 
-	slaves=
+	aristocrats=
 	{
-		culture = afro_greek
+		culture = guyanese
 		religion = orthodox
 		size= 382
 	}
@@ -621,9 +621,9 @@
 		size= 38
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = catholic
 		size= 1124
 	}
@@ -670,11 +670,11 @@
 		size= 3
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = protestant
-		size= 17088
+		size= 7088
 	}
 
 	soldiers=
@@ -719,11 +719,11 @@
 		size= 110
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = hellenic_pagan
-		size= 16981
+		size= 8981
 	}
 
 	soldiers=
@@ -768,11 +768,11 @@
 		size= 297
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = anglo_canadian
 		religion = hellenic_pagan
-		size= 26663
+		size= 16663
 	}
 
 	soldiers=
@@ -819,23 +819,23 @@
 
 }
 2409 = {
-	slaves=
+	farmers=
 	{
-		culture = carribean
+		culture = guyanese
 		religion = animist
 		size= 13687
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
 		size= 1322
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_greek
+		culture = dixie
 		religion = orthodox
 		size= 390
 	}
@@ -847,9 +847,9 @@
 		size= 38
 	}
 
-	slaves=
+	aristocrats=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = catholic
 		size= 1147
 	}
@@ -896,11 +896,11 @@
 		size= 3
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = mexican
 		religion = protestant
-		size= 17436
+		size= 9436
 	}
 
 	soldiers=
@@ -945,9 +945,9 @@
 		size= 110
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = guyanese
 		religion = hellenic_pagan
 		size= 17328
 	}
@@ -994,11 +994,11 @@
 		size= 297
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = americano
 		religion = hellenic_pagan
-		size= 27207
+		size= 17207
 	}
 
 	soldiers=

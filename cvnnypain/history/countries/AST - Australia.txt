@@ -1,6 +1,7 @@
 capital = 2479
 primary_culture = nanren
 culture = japanese
+culture = dongren
 culture = zzz_religion_shinto
 religion = shinto
 government = democracy

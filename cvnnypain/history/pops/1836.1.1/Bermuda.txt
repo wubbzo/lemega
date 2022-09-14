@@ -1,11 +1,4 @@
 203 = {
-	slaves=
-	{
-		culture = afro_caribbean
-		religion = hellenic_pagan
-		size= 51236
-	}
-
 	soldiers=
 	{
 		culture = meashighcaw
@@ -45,14 +38,14 @@
 	{
 		culture = meashighcaw
 		religion = hellenic_pagan
-		size= 1557
+		size= 2557
 	}
 
 	farmers=
 	{
 		culture = meashighcaw
 		religion = hellenic_pagan
-		size= 21169
+		size= 46169
 	}
 
 }

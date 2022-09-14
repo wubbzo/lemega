@@ -1,4 +1,26 @@
 2241 = {
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15139
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 847
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 37319
+	}
+
 	slaves=
 	{
 		culture = guajiro
@@ -148,6 +170,20 @@
 
 }
 2246 = {
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = hellenic_pagan
+		size= 55454
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 4237
+	}
 	soldiers=
 	{
 		culture = guajiro

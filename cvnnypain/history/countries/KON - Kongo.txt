@@ -1,6 +1,12 @@
 capital = 2001
-primary_culture = kavango
-culture = bakongo
+primary_culture = bakongo
+culture = luba
+culture = kuba
+culture = lunda
+culture = kavango
+culture = ovimbundu
+culture = chokwe
+culture = visigothic
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

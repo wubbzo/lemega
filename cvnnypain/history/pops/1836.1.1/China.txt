@@ -337,6 +337,14 @@
 
 }
 1470 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11935
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -479,6 +487,21 @@
 
 }
 1471 = {
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2787
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 46975
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -621,6 +644,14 @@
 
 }
 1472 = {
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 7620
+	}
+	
 	soldiers=
 	{
 		culture = beifaren
@@ -721,6 +752,14 @@
 
 }
 1473 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11935
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -870,6 +909,14 @@
 
 }
 1474 = {
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 7053
+	}
+	
 	slaves=
 	{
 		culture = nanfaren
@@ -1040,6 +1087,28 @@
 
 }
 1475 = {
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1315
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 22147
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1804
+	}
+
 	slaves=
 	{
 		culture = nanfaren
@@ -1203,6 +1272,14 @@
 
 }
 1476 = {
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 4769
+	}
+
 	soldiers=
 	{
 		culture = beifaren
@@ -1303,6 +1380,28 @@
 
 }
 1477 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 23730
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1576
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = hellenic_pagan
+		size= 1500
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -1452,6 +1551,14 @@
 
 }
 1478 = {
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15353
+	}
+	
 	soldiers=
 	{
 		culture = beifaren
@@ -1643,6 +1750,14 @@
 
 }
 1479 = {
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 7053
+	}
+	
 	slaves=
 	{
 		culture = manchu
@@ -1925,6 +2040,21 @@
 
 }
 1480 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1627
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 19150
+	}
+
 	slaves=
 	{
 		culture = beifaren
@@ -2095,6 +2225,28 @@
 
 }
 1481 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1422
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1397
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 15560
+	}
+
 	soldiers=
 	{
 		culture = manchu
@@ -2342,6 +2494,28 @@
 
 }
 1482 = {
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6353
+	}
+	
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2994
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 6877
+	}
+	
 	slaves=
 	{
 		culture = min
@@ -2512,6 +2686,21 @@
 
 }
 1483 = {
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 11054
+	}
+	
+	farmers=
+	{
+		culture = chibchan
+		religion = jewish
+		size= 8946
+	}
+	
 	soldiers=
 	{
 		culture = min
@@ -2654,6 +2843,35 @@
 
 }
 1484 = {
+	
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 13182
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 12650
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1571
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 6670
+	}
+
 	soldiers=
 	{
 		culture = min
@@ -2803,6 +3021,42 @@
 
 }
 1486 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1680
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1050
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 27016
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1627
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 5762
+	}
+
 	soldiers=
 	{
 		culture = hakka
@@ -2945,6 +3199,35 @@
 
 }
 1487 = {
+	
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11361
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 8418
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1331
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 6757
+	}
+
 	soldiers=
 	{
 		culture = min
@@ -3094,6 +3377,35 @@
 
 }
 1488 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 30241
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2053
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 17965
+	}
+
 	soldiers=
 	{
 		culture = uighur
@@ -3236,6 +3548,42 @@
 
 }
 1489 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6943
+	}
+	
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15885
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 9939
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1520
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 5900
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -3483,6 +3831,28 @@
 
 }
 1490 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 26540
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 8983
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8801
+	}
+	
 	soldiers=
 	{
 		culture = manchu
@@ -3667,6 +4037,21 @@
 
 }
 1491 = {
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 12321
+	}
+	
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4731
+	}
+	
 	slaves=
 	{
 		culture = mongol
@@ -3837,6 +4222,56 @@
 
 }
 1492 = {
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3277
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3322
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 4245
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = hellenic_pagan
+		size= 1477
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3277
+	}
+	
 	slaves=
 	{
 		culture = beifaren
@@ -4007,6 +4442,21 @@
 
 }
 1493 = {
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2528
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 19678
+	}
+
 	slaves=
 	{
 		culture = yue
@@ -4177,6 +4627,35 @@
 
 }
 1494 = {
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 10816
+	}
+	
+	farmers=
+	{
+		culture = chibchan
+		religion = jewish
+		size= 5403
+	}
+	
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1000
+	}
+	
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2134
+	}
+	
 	soldiers=
 	{
 		culture = min
@@ -4359,6 +4838,20 @@
 		size= 152
 	}
 
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5282
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1243
+	}
+
 	aristocrats=
 	{
 		culture = lao
@@ -4375,6 +4868,63 @@
 
 }
 1495 = {
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 4971
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = catholic
+		size= 2720
+	}
+	
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 28287
+	}
+	
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3961
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 4912
+	}
+	
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5282
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1243
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6719
+	}
+	
 	slaves=
 	{
 		culture = min
@@ -4650,6 +5200,28 @@
 
 }
 1496 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3420
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 7555
+	}
+	
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3961
+	}
+	
 	soldiers=
 	{
 		culture = yue
@@ -4799,6 +5371,28 @@
 
 }
 1497 = {
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3027
+	}
+	
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 17022
+	}
+	
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3420
+	}
+	
 	soldiers=
 	{
 		culture = hakka
@@ -4948,6 +5542,28 @@
 
 }
 1498 = {
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5925
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 18313
+	}
+	
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3027
+	}
+	
 	slaves=
 	{
 		culture = yue
@@ -5111,6 +5727,35 @@
 
 }
 1499 = {
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5801
+	}
+	
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 5468
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 13738
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 1091
+	}
+
 	slaves=
 	{
 		culture = min
@@ -5281,6 +5926,35 @@
 
 }
 1500 = {
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 4040
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 1317
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 81247
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = shinto
+		size= 14312
+	}
+
 	soldiers=
 	{
 		culture = hakka
@@ -5430,6 +6104,28 @@
 
 }
 1501 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 8716
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4883
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 17892
+	}
+
 	slaves=
 	{
 		culture = yue
@@ -5600,6 +6296,28 @@
 
 }
 1502 = {
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5076
+	}
+	
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4883
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 17892
+	}
+	
 	slaves=
 	{
 		culture = zhuang
@@ -5763,6 +6481,13 @@
 
 	farmers=
 	{
+		culture = native_american_minor
+		religion = animist
+		size= 5076
+	}
+	
+	farmers=
+	{
 		culture = lao
 		religion = theravada
 		size= 12971
@@ -5770,6 +6495,21 @@
 
 }
 1503 = {
+	
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15833
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1740
+	}
+
 	soldiers=
 	{
 		culture = zhuang
@@ -5777,6 +6517,13 @@
 		size= 8677
 	}
 
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 4587
+	}
+	
 	artisans=
 	{
 		culture = zhuang
@@ -5912,6 +6659,28 @@
 
 }
 1504 = {
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10615
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15833
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1740
+	}
+
 	soldiers=
 	{
 		culture = yue
@@ -6061,6 +6830,28 @@
 
 }
 1505 = {
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 14227
+	}
+	
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4399
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 6217
+	}
+	
 	soldiers=
 	{
 		culture = yi
@@ -6112,6 +6903,42 @@
 
 }
 1506 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 1048
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 20991
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = nahuatl
+		size= 7980
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2175
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 16272
+	}
+
 	soldiers=
 	{
 		culture = bai
@@ -6212,6 +7039,42 @@
 
 }
 1507 = {
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20419
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 7517
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = nahuatl
+		size= 1059
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = nahuatl
+		size= 21299
+	}	
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2075
+	}
+
 	slaves=
 	{
 		culture = miao
@@ -6270,6 +7133,28 @@
 
 }
 1508 = {
+	
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 20759
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1664
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 9804
+	}
+
 	slaves=
 	{
 		culture = beifaren
@@ -6377,6 +7262,35 @@
 
 }
 1509 = {
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1175
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 31807
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 2456
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 15118
+	}
+
 	soldiers=
 	{
 		culture = beifaren
@@ -6477,6 +7391,42 @@
 
 }
 1510 = {
+	
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2096
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1255
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 71135
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1924
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 6447
+	}
+
 	slaves=
 	{
 		culture = beifaren
@@ -6575,6 +7525,13 @@
 		size= 278
 	}
 
+	farmers=
+	{
+		culture = nahua
+		religion = mayan
+		size= 15665
+	}
+	
 	aristocrats=
 	{
 		culture = beifaren
@@ -6584,6 +7541,35 @@
 
 }
 1511 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4102
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 12172
+	}
+	
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 20389
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 2466
+	}
+	
 	soldiers=
 	{
 		culture = beifaren
@@ -6684,6 +7670,28 @@
 
 }
 1512 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 23075
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 31053
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2417
+	}
+
 	soldiers=
 	{
 		culture = beifaren
@@ -6784,6 +7792,42 @@
 
 }
 1513 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1075
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 17921
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1198
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 19515
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1756
+	}
+
 	slaves=
 	{
 		culture = beifaren
@@ -6891,6 +7935,42 @@
 
 }
 1514 = {
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1448
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1102
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 28706
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1536
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 4082
+	}
+
 	soldiers=
 	{
 		culture = beifaren
@@ -6991,6 +8071,42 @@
 
 }
 1515 = {
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 2769
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 2107
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 54912
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 2815
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 6278
+	}
+	
 	soldiers=
 	{
 		culture = beifaren
@@ -7091,6 +8207,49 @@
 
 }
 1516 = {
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 7848
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 4566
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 2240
+	}
+	
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 4350
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = nahuatl
+		size= 4482
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 7586
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -7240,6 +8399,21 @@
 
 }
 1517 = {
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 15685
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1741
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -7389,6 +8563,42 @@
 
 }
 1518 = {
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 2460
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 1871
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 48767
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 2432
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 4717
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -7538,6 +8748,21 @@
 
 }
 1519 = {
+	
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 15038
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 2205
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -7687,6 +8912,49 @@
 
 }
 1520 = {
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 4124
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 3143
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 81547
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 3690
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 4195
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 7182
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -7836,6 +9104,35 @@
 
 }
 1521 = {
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1294
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 25652
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 5060
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1320
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -7985,6 +9282,28 @@
 
 }
 1522 = {
+	
+	farmers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 24138
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 3297
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 27291
+	}
+
 	slaves=
 	{
 		culture = nanfaren
@@ -8155,6 +9474,35 @@
 
 }
 1523 = {
+
+	farmers=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 3683
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 22438
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 1123
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = hellenic_pagan
+		size= 2522
+	}
+	
 	slaves=
 	{
 		culture = nanfaren
@@ -8325,6 +9673,35 @@
 
 }
 1524 = {
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2249
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 46193
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 2717
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 54850
+	}
+
 	slaves=
 	{
 		culture = nanfaren
@@ -8488,6 +9865,21 @@
 
 }
 1525 = {
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 40029
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1686
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -8637,6 +10029,63 @@
 
 }
 1526 = {
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 7981
+	}
+	
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2735
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 56090
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1093
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 21886
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1067
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1344
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 19687
+	}
+
 	slaves=
 	{
 		culture = nanfaren
@@ -8807,6 +10256,49 @@
 
 }
 1527 = {
+	
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2510
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1563
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 85185
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1121
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 2976
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 35158
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -8858,6 +10350,28 @@
 
 }
 1528 = {
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1332
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 45820
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 20887
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -9000,6 +10514,56 @@
 
 }
 1529 = {
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 2845
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 58033
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 8007
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 33259
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 1120
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 2717
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 19773
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -9149,6 +10713,28 @@
 
 }
 1530 = {
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 22720
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 3354
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 4705
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -9200,6 +10786,35 @@
 
 }
 1532 = {
+
+	farmers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 26137
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 1726
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 32526
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 3694
+	}
+
 	soldiers=
 	{
 		culture = mongol
@@ -9342,6 +10957,56 @@
 
 }
 1533 = {
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 1725
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 34961
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 1466
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 1771
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 28217
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 2196
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 5768
+	}
+
 	slaves=
 	{
 		culture = mongol
@@ -9617,6 +11282,14 @@
 
 }
 1534 = {
+
+	farmers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 38410
+	}
+
 	soldiers=
 	{
 		culture = mongol
@@ -9710,6 +11383,35 @@
 
 }
 1535 = {
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 9388
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = mayan
+		size= 1612
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 1007
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = hellenic_pagan
+		size= 7029
+	}
+
 	soldiers=
 	{
 		culture = manchu
@@ -9908,6 +11610,21 @@
 
 }
 1536 = {
+
+	farmers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 25811
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 11531
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -10050,6 +11767,35 @@
 
 }
 1537 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 36453
+	}
+	
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 7118
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1228
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 10587
+	}
+
 	slaves=
 	{
 		culture = nanfaren
@@ -10213,6 +11959,49 @@
 
 }
 1538 = {
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 1397
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = nahuatl
+		size= 23074
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 10666
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 1087
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 2545
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = hellenic_pagan
+		size= 15177
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -10362,6 +12151,35 @@
 
 }
 1539 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7227
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6816
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 3247
+	}
+	
+	farmers=
+	{
+		culture = zapotec
+		religion = mayan
+		size= 9886
+	}
+	
 	soldiers=
 	{
 		culture = nanfaren
@@ -10511,6 +12329,42 @@
 
 }
 1540 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4134
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 68557
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 2527
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 3544
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 38194
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -10660,6 +12514,35 @@
 
 }
 1541 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2153
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1064
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 34985
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = hellenic_pagan
+		size= 4319
+	}
+	
 	slaves=
 	{
 		culture = nanfaren
@@ -10823,6 +12706,49 @@
 
 }
 1542 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1946
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 32414
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1887
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 30691
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1404
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 3838
+	}
+
 	soldiers=
 	{
 		culture = beifaren
@@ -11056,6 +12982,42 @@
 
 }
 1543 = {
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4753
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1946
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 77715
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2449
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1608
+	}
+
 	soldiers=
 	{
 		culture = nanfaren
@@ -11205,6 +13167,35 @@
 
 }
 1544 = {
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 39264
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 1543
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 5269
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = hellenic_pagan
+		size= 19454
+	}
+
 	soldiers=
 	{
 		culture = nanfaren

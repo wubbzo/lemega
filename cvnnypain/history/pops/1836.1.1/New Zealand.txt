@@ -1,4 +1,180 @@
 2509 = {
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6548
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 5108
+	}
+
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 2388
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = shinto
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = shinto
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = shinto
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = shinto
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = protestant
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = protestant
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1227
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6548
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 5108
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -99,6 +275,140 @@
 
 }
 2510 = {
+
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 2388
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = shinto
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = shinto
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = shinto
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = shinto
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = protestant
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = protestant
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1227
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -241,6 +551,133 @@
 
 }
 2511 = {
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1682
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 3198
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = shinto
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = shinto
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = shinto
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = shinto
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = shinto
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 821
+	}
+
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 10404
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -341,6 +778,119 @@
 
 }
 2512 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2499
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1400
+	}
+
+	clergymen=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 17
+	}
+
+	officers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 47162
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = hellenic_pagan
+		size= 209
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 1627
+	}
+
+	clergymen=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	officers=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 196
+	}
+
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1992
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -441,6 +991,56 @@
 
 }
 2513 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 21554
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 979
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1315
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 612
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -555,6 +1155,35 @@
 
 }
 2514 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 7696
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 659
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -669,6 +1298,49 @@
 
 }
 2515 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 12947
+	}
+	
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1297
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 291
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -818,6 +1490,189 @@
 
 }
 2516 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4774
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5710
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 6582
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 247
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = catholic
+		size= 3219
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -918,6 +1773,21 @@
 
 }
 2524 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 5436
+	}
+
 	soldiers=
 	{
 		culture = maori
@@ -1018,6 +1888,21 @@
 
 }
 2571 = {
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 6123
+	}
+
 	soldiers=
 	{
 		culture = maori

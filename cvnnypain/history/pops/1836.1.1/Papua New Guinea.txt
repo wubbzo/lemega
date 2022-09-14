@@ -1,4 +1,26 @@
 1531 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1449
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1811
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 19165
+	}
+
 	soldiers=
 	{
 		culture = melanesian
@@ -246,6 +268,21 @@
 
 }
 2528 = {
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 5807
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = hellenic_pagan
+		size= 2123
+	}
+
 	soldiers=
 	{
 		culture = melanesian
@@ -339,6 +376,21 @@
 
 }
 2529 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3819
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 46447
+	}
+
 	soldiers=
 	{
 		culture = melanesian
@@ -586,6 +638,28 @@
 
 }
 2530 = {
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 7880
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = hellenic_pagan
+		size= 2704
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2421
+	}
+
 	soldiers=
 	{
 		culture = melanesian
@@ -819,6 +893,28 @@
 
 }
 2531 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1332
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 12541
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 7042
+	}
+
 	soldiers=
 	{
 		culture = melanesian
@@ -1057,6 +1153,13 @@
 		culture = melanesian
 		religion = animist
 		size= 1551
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 10571
 	}
 
 	artisans=
@@ -1299,6 +1402,21 @@
 
 }
 2539 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1066
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 29859
+	}
+
 	soldiers=
 	{
 		culture = melanesian

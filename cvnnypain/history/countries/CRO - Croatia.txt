@@ -1,6 +1,10 @@
 capital = 776
 primary_culture = croat
 culture = bulgarian
+culture = macedonian
+culture = bosniak
+culture = serb
+culture = albanian
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

@@ -1,16 +1,10 @@
 2197 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 67
-	}
-
+	
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 3277
+		size= 1277
 	}
 
 	farmers=
@@ -162,18 +156,12 @@
 
 }
 2198 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 67
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 3277
+		size= 2277
 	}
 
 	farmers=
@@ -327,140 +315,35 @@
 2199 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 3322
-	}
-
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 76
-	}
-
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1
+		size= 2322
 	}
 
 	soldiers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = mayan
 		size= 1033
 	}
 
-	artisans=
+	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = mayan
-		size= 273
-	}
-
-	clergymen=
-	{
-		culture = chibchan
-		religion = mayan
-		size= 13
-	}
-
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = mayan
-		size= 4
-	}
-
-	officers=
-	{
-		culture = chibchan
-		religion = mayan
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = chibchan
-		religion = mayan
-		size= 16
+		size= 1245
 	}
 
 	farmers=
 	{
-		culture = chibchan
-		religion = mayan
-		size= 4245
-	}
-
-	soldiers=
-	{
-		culture = chibchan
-		religion = hellenic_pagan
-		size= 42
-	}
-
-	artisans=
-	{
-		culture = chibchan
-		religion = hellenic_pagan
-		size= 496
-	}
-
-	clergymen=
-	{
-		culture = chibchan
-		religion = hellenic_pagan
-		size= 23
-	}
-
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = hellenic_pagan
-		size= 7
-	}
-
-	officers=
-	{
-		culture = chibchan
-		religion = hellenic_pagan
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = chibchan
-		religion = hellenic_pagan
-		size= 30
-	}
-
-	farmers=
-	{
-		culture = chibchan
+		culture = texan
 		religion = hellenic_pagan
 		size= 1477
 	}
@@ -516,32 +399,33 @@
 
 }
 2200 = {
-	slaves=
+
+	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 5248
+		size= 2248
 	}
 
 	soldiers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 2528
+		size= 1528
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 19678
+		size= 9678
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = catholic
-		size= 12394
+		size= 10394
 	}
 
 	soldiers=
@@ -593,9 +477,9 @@
 		size= 55
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = hellenic_pagan
 		size= 3136
 	}
@@ -649,11 +533,11 @@
 		size= 6552
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 17168
+		size= 7168
 	}
 
 	soldiers=

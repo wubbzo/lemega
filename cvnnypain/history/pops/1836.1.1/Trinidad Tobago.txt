@@ -1,37 +1,37 @@
 2237 = {
-	slaves=
+	farmers=
 	{
-		culture = carribean
+		culture = dixie
 		religion = animist
-		size= 16245
+		size= 8245
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = dixie
 		religion = animist
 		size= 1644
 	}
 
-	slaves=
+	artisans=
 	{
-		culture = guajiro
+		culture = dixie
 		religion = animist
 		size= 113
 	}
 
 	soldiers=
 	{
-		culture = guajiro
+		culture = texan
 		religion = animist
 		size= 11
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 81389
+		size= 41389
 	}
 
 	soldiers=
@@ -78,39 +78,39 @@
 
 }
 2238 = {
-	slaves=
+	clergymen=
 	{
-		culture = carribean
+		culture = anglo_canadian
 		religion = animist
 		size= 17396
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = dixie
 		religion = animist
 		size= 1644
 	}
 
-	slaves=
+	artisans=
 	{
-		culture = guajiro
+		culture = dixie
 		religion = animist
 		size= 121
 	}
 
 	soldiers=
 	{
-		culture = guajiro
+		culture = anglo_canadian
 		religion = animist
 		size= 11
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 87143
+		size= 47143
 	}
 
 	soldiers=

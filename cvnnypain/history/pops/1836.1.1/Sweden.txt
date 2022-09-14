@@ -1,4 +1,47 @@
 317 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 738
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 12337
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 482
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3748
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -50,6 +93,49 @@
 
 }
 318 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 8233
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 4581
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 877
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 853
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -101,6 +187,63 @@
 
 }
 319 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3237
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 36624
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 687
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 11105
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1041
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1487
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -152,6 +295,63 @@
 
 }
 320 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3111
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 18665
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2516
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 535
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 1121
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -252,6 +452,49 @@
 
 }
 321 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 6100
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 67712
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 287
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 4122
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3235
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -401,6 +644,56 @@
 
 }
 322 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 4149
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 67547
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 534
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 8742
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2064
+	}
+
+	clergymen=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 124
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -501,6 +794,49 @@
 
 }
 323 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2494
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 24066
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 717
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -601,6 +937,56 @@
 
 }
 324 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1462
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 24667
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = hellenic_pagan
+		size= 1293
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 262
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2274
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -701,6 +1087,56 @@
 
 }
 325 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1689
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1925
+	}
+
+	clergymen=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 25
+	}
+
+	officers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 33348
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -752,6 +1188,78 @@
 
 }
 326 = {
+
+
+	artisans=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 2501
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 268
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = hellenic_pagan
+		size= 11305
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2748
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1748
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 54133
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2341
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -852,6 +1360,35 @@
 
 }
 327 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1409
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 23641
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 13550
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -952,6 +1489,49 @@
 
 }
 328 = {
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 20779
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 786
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 546
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 14097
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -1150,6 +1730,14 @@
 
 }
 329 = {
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 20779
+	}
+
 	soldiers=
 	{
 		culture = norwegian
@@ -1299,6 +1887,49 @@
 
 }
 330 = {
+
+	farmers=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 14146
+	}
+	
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3107
+	}
+
+	artisans=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1053
+	}
+
+	clergymen=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 62277
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -1448,6 +2079,35 @@
 
 }
 331 = {
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1011
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 35111
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 610
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 20812
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -1548,6 +2208,35 @@
 
 }
 332 = {
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 12838
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 602
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 19867
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -1648,6 +2337,35 @@
 
 }
 333 = {
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 14101
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3306
+	}
+
 	soldiers=
 	{
 		culture = swedish
@@ -1748,6 +2466,63 @@
 
 }
 334 = {
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 417
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3497
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 4923
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 504
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 10434
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3631
+	}
+
 	soldiers=
 	{
 		culture = danish
@@ -1848,6 +2623,35 @@
 
 }
 335 = {
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 465
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 4123
+	}
+	
+	farmers=
+	{
+		culture = caddoan
+		religion = hellenic_pagan
+		size= 1919
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 5759
+	}
+
 	soldiers=
 	{
 		culture = danish
@@ -1997,32 +2801,32 @@
 
 }
 3246 = {
-	slaves=
+	aristocrats=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
 		size= 1379
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
 		size= 291
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
-		size= 3528
+		size= 1528
 	}
 
-	slaves=
+	clergymen=
 	{
-		culture = afro_greek
+		culture = texan
 		religion = orthodox
-		size= 3010
+		size= 1010
 	}
 
 	soldiers=
@@ -2074,13 +2878,6 @@
 		size= 3
 	}
 
-	slaves=
-	{
-		culture = afro_greek
-		religion = hellenic_pagan
-		size= 936
-	}
-
 	soldiers=
 	{
 		culture = neokosmi
@@ -2130,11 +2927,11 @@
 		size= 2176
 	}
 
-	slaves=
+	artisans=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 3454
+		size= 1454
 	}
 
 	soldiers=

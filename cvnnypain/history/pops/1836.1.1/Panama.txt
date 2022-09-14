@@ -1,44 +1,17 @@
 1723 = {
-	slaves=
+
+	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
 		size= 2137
 	}
 
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 64
-	}
-
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 4
-	}
-
 	farmers=
 	{
-		culture = chibchan
-		religion = animist
-		size= 1000
-	}
-
-	artisans=
-	{
-		culture = north_andean
+		culture = texan
 		religion = catholic
-		size= 129
-	}
-
-	slaves=
-	{
-		culture = afro_brazilian
-		religion = catholic
-		size= 6911
+		size= 3911
 	}
 
 	clergymen=
@@ -132,9 +105,9 @@
 		size= 1467
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1565
 	}
@@ -181,11 +154,11 @@
 		size= 58
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 9236
+		size= 4236
 	}
 
 	soldiers=
@@ -239,30 +212,10 @@
 
 }
 2204 = {
-	slaves=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1003
-	}
-
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 64
-	}
-
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 4
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
 		size= 2134
 	}
@@ -274,9 +227,9 @@
 		size= 129
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = catholic
 		size= 3245
 	}
@@ -372,13 +325,6 @@
 		size= 3588
 	}
 
-	slaves=
-	{
-		culture = afro_brazilian
-		religion = hellenic_pagan
-		size= 735
-	}
-
 	soldiers=
 	{
 		culture = brazilian
@@ -428,11 +374,11 @@
 		size= 796
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 4336
+		size= 2336
 	}
 
 	soldiers=
@@ -486,25 +432,12 @@
 
 }
 2205 = {
-	slaves=
-	{
-		culture = chibchan
-		religion = animist
-		size= 931
-	}
-
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 131
-	}
 
 	farmers=
 	{
-		culture = chibchan
-		religion = animist
-		size= 5403
+		culture = texan
+		religion = jewish
+		size= 3403
 	}
 
 	farmers=
@@ -514,9 +447,9 @@
 		size= 2175
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = catholic
 		size= 1338
 	}
@@ -612,13 +545,6 @@
 		size= 4948
 	}
 
-	slaves=
-	{
-		culture = afro_brazilian
-		religion = hellenic_pagan
-		size= 486
-	}
-
 	soldiers=
 	{
 		culture = brazilian
@@ -668,11 +594,11 @@
 		size= 1850
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 2484
+		size= 1484
 	}
 
 	soldiers=
@@ -726,32 +652,19 @@
 
 }
 2206 = {
-	slaves=
-	{
-		culture = chibchan
-		religion = animist
-		size= 2217
-	}
 
-	soldiers=
+	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 265
+		size= 7816
 	}
 
 	farmers=
 	{
-		culture = chibchan
-		religion = animist
-		size= 10816
-	}
-
-	slaves=
-	{
-		culture = afro_brazilian
+		culture = texan
 		religion = catholic
-		size= 4364
+		size= 3364
 	}
 
 	farmers=
@@ -803,9 +716,9 @@
 		size= 8
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_brazilian
+		culture = texan
 		religion = hellenic_pagan
 		size= 1004
 	}
@@ -859,11 +772,11 @@
 		size= 3956
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = hellenic_pagan
-		size= 6200
+		size= 3200
 	}
 
 	soldiers=
@@ -917,18 +830,12 @@
 
 }
 2208 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 399
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 6719
+		size= 3719
 	}
 
 	soldiers=

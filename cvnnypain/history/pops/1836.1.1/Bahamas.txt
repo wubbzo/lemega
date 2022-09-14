@@ -1,32 +1,4 @@
 2219 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 10625
-	}
-
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 700
-	}
-
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1175
-	}
-
-	slaves=
-	{
-		culture = afro_caribeno
-		religion = catholic
-		size= 10220
-	}
-
 	soldiers=
 	{
 		culture = barbaro_germanic_central_america_superregion_culture
@@ -76,11 +48,11 @@
 		size= 9
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = meashighcaw
 		religion = orthodox
-		size= 24623
+		size= 12623
 	}
 
 	soldiers=
@@ -132,9 +104,9 @@
 		size= 1344
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = meashighcaw
 		religion = orthodox
 		size= 10774
 	}
@@ -157,7 +129,7 @@
 	{
 		culture = meashighcaw
 		religion = orthodox
-		size= 256
+		size= 7256
 	}
 
 	bureaucrats=
@@ -178,30 +150,30 @@
 	{
 		culture = meashighcaw
 		religion = orthodox
-		size= 662
+		size= 7662
 	}
 
 }
 2220 = {
-	slaves=
+	farmers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
-		size= 9584
+		size= 5584
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = texan
 		religion = animist
 		size= 537
 	}
 
-	slaves=
+	artisans=
 	{
-		culture = afro_greek
+		culture = texan
 		religion = orthodox
-		size= 2509
+		size= 1509
 	}
 
 	soldiers=
@@ -211,11 +183,11 @@
 		size= 140
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribeno
+		culture = meashighcaw
 		religion = catholic
-		size= 46037
+		size= 23037
 	}
 
 	soldiers=
@@ -260,11 +232,11 @@
 		size= 46
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = afro_caribbean
+		culture = texan
 		religion = catholic
-		size= 11349
+		size= 6349
 	}
 
 	soldiers=

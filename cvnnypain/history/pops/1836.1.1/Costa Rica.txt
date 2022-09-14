@@ -1,16 +1,10 @@
 2201 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 128
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 6353
+		size= 3353
 	}
 
 	farmers=
@@ -162,18 +156,12 @@
 
 }
 2202 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 226
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 11054
+		size= 5054
 	}
 
 	farmers=
@@ -325,18 +313,12 @@
 
 }
 2203 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 182
-	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = texan
 		religion = animist
-		size= 8946
+		size= 4946
 	}
 
 	farmers=
