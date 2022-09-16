@@ -1,5 +1,5 @@
 capital = 424
-primary_culture = breton
+primary_culture = french
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
