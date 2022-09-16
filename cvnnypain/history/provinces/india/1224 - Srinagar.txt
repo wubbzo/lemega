@@ -1,6 +1,8 @@
 owner=X24
-controller=GHR
+controller=X24
 add_core=GHR
+add_core=X24
+add_core=ASY
 trade_goods = silk
 life_rating = 32
 colonial=2

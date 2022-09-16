@@ -2,5 +2,6 @@ owner=X05
 controller=X05
 add_core=MYS
 add_core=X05
+add_core=BHU
 trade_goods = fruit
 life_rating = 32

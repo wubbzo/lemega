@@ -1,5 +1,5 @@
 owner=TEX
 controller=TEX
-add_core=CSA
+add_core=TEX
 trade_goods = tobacco
 life_rating = 35

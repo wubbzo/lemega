@@ -1,5 +1,6 @@
 owner=EGY
 controller=EGY
-trade_goods = cattle
+add_core=EGY
+trade_goods = sulphur
 life_rating = 35
 fort = 1

@@ -5,7 +5,7 @@ religion = hindu
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.368812
+literacy = 0.2
 
 
 # Social Reforms
@@ -47,8 +47,8 @@ nonstate_consciousness= 0.409784
 flintlock_rifles = 1
 military_staff_system = 1
 post_napoleonic_thought = 1
-land_reform=yes_land_reform
-admin_reform=yes_admin_reform
+land_reform=no_land_reform
+admin_reform=no_admin_reform
 finance_reform=yes_finance_reform
 education_reform=no_education_reform
 transport_improv=no_transport_improv

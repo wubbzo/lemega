@@ -1,6 +1,7 @@
 owner=MYS
 controller=MYS
 add_core=MYS
+add_core=BHU
 trade_goods = silk
 life_rating = 32
 fort = 2

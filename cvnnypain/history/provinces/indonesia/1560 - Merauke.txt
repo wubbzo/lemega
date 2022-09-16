@@ -1,5 +1,7 @@
-owner=NZL
+owner=AST
 controller=AST
+add_core=AST
 trade_goods = fish
 life_rating = 10
 naval_base = 1
+colonial=2

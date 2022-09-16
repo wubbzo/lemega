@@ -1,6 +1,6 @@
 owner=X16
 controller=X16
-add_core=MCK
 add_core=X16
+add_core=MCK
 trade_goods = cattle
 life_rating = 35

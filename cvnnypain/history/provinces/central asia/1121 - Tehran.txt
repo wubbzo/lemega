@@ -1,6 +1,7 @@
 owner=ASY
 controller=ASY
 add_core=PER
+add_core=ASY
 trade_goods = grain
 life_rating = 35
 terrain = dryhills

@@ -1,6 +1,7 @@
-owner=SAX
-controller=SAX
-add_core=NET
+owner=HLR
+controller=HLR
+add_core=SAX
+add_core=HLR
 trade_goods = iron
 life_rating = 40
 fort = 1

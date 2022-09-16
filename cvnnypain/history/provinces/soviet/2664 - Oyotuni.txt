@@ -1,6 +1,6 @@
 owner=BHU
 controller=ASY
+add_core=ASY
 trade_goods = fish
 life_rating = 31
 terrain = mountain
-colonial=2

@@ -1,6 +1,7 @@
 owner=X13
 controller=X13
 add_core=X13
+add_core=KON
 trade_goods = cattle
 life_rating = 35
 terrain = savanna

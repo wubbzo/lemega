@@ -1,9 +1,9 @@
 owner=RUS
 controller=RUS
 add_core=PCH
+add_core=RUS
 trade_goods = coal
 life_rating = 35
-colonial=2
 state_building=
 {
 	level=1

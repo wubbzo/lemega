@@ -1,7 +1,12 @@
 owner=BHU
 controller=BHU
 add_core=BHU
-add_core=TOC
 trade_goods = wool
 life_rating = 25
 fort = 1
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}

@@ -1,5 +1,7 @@
 owner=BAV
 controller=BAV
+add_core=BAV
+add_core=NAP
 trade_goods = grain
 life_rating = 35
 fort = 1

@@ -1,5 +1,6 @@
 owner=LNG
 controller=LNG
 add_core=LNG
+add_core=BYZ
 trade_goods = wool
 life_rating = 32

@@ -1,6 +1,7 @@
 owner=ALS
 controller=ALS
 add_core=ALS
+add_core=HLR
 trade_goods = coal
 life_rating = 40
 terrain = mining_district

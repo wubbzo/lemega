@@ -1,4 +1,5 @@
 owner=AST
 controller=AST
-trade_goods = cattle
+add_core=AST
+trade_goods = sulphur
 life_rating = 34

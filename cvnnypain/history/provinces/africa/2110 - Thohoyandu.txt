@@ -1,5 +1,7 @@
 owner=X12
 controller=X12
+add_core=X12
+add_core=KON
 trade_goods = wool
 life_rating = 15
 terrain = mountain

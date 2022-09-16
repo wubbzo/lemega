@@ -1,6 +1,6 @@
-owner=ASY
-controller=ASY
-add_core=IRQ
+owner=EGY
+controller=EGY
+add_core=EGY
 trade_goods = grain
 life_rating = 10
 terrain = desert

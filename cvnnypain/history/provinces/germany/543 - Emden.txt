@@ -1,6 +1,6 @@
 owner=HLR
 controller=HLR
-add_core=FLA
+add_core=HLR
 trade_goods = fish
 life_rating = 40
 naval_base = 2

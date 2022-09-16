@@ -1,6 +1,6 @@
 owner=HES
 controller=HES
 add_core=HES
-add_core=NET
+add_core=HLR
 trade_goods = coal
 life_rating = 40

@@ -1,4 +1,6 @@
 owner=LNG
 controller=LNG
+add_core=BYZ
+add_core=LNG
 trade_goods = silk
 life_rating = 32

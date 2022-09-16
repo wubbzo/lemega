@@ -1,6 +1,7 @@
 owner=X17
 controller=X17
 add_core=X17
+add_core=BYZ
 trade_goods = tea
 life_rating = 32
 naval_base = 1

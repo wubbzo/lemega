@@ -1,5 +1,6 @@
 owner=X00
 controller=X00
 add_core=X00
+add_core=HLR
 trade_goods = cattle
 life_rating = 40

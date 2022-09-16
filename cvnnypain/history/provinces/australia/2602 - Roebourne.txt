@@ -1,5 +1,5 @@
-owner=AST
-controller=AST
+owner=NZL
+controller=NZL
 add_core=AST
 add_core=NZL
 trade_goods = grain

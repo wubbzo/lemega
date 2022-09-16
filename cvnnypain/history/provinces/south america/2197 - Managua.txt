@@ -4,3 +4,4 @@ add_core=TEX
 trade_goods = coffee
 life_rating = 39
 fort = 1
+colonial=2

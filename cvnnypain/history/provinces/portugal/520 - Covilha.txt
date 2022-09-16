@@ -1,6 +1,6 @@
 owner=X02
 controller=X02
-add_core=POR
 add_core=X02
+add_core=SPQ
 trade_goods = wool
 life_rating = 35

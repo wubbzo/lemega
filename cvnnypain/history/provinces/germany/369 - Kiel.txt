@@ -1,6 +1,6 @@
 owner=HLR
 controller=HLR
-add_core=DEN
+add_core=HLR
 trade_goods = cattle
 life_rating = 40
 naval_base = 1

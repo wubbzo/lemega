@@ -1,5 +1,5 @@
-owner=SAX
-controller=SAX
+owner=HLR
+controller=HLR
 add_core=HLR
 add_core=SAX
 trade_goods = fruit

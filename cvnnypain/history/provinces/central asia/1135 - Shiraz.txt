@@ -1,5 +1,6 @@
 owner=ASY
 controller=ASY
-add_core=PER
+add_core=ASY
 trade_goods = opium
 life_rating = 35
+colonial=2

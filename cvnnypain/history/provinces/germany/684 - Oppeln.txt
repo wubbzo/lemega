@@ -1,5 +1,6 @@
 owner=HLR
 controller=HLR
 add_core=POL
+add_core=HLR
 trade_goods = coal
 life_rating = 40

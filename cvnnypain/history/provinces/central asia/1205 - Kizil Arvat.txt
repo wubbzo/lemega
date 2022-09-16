@@ -1,6 +1,7 @@
 owner=X25
 controller=X25
 add_core=X25
+add_core=ASY
 trade_goods = fish
 life_rating = 15
 terrain = desert

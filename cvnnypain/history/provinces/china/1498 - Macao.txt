@@ -1,6 +1,8 @@
 owner=SIA
 controller=SIA
+add_core=BYZ
+add_core=SIA
 trade_goods = precious_goods
 life_rating = 35
 terrain = urban
-colonial=2
+

@@ -1,4 +1,6 @@
 owner=LOU
 controller=LOU
-trade_goods = cotton
+add_core=LOU
+add_core=TEX
+trade_goods = tobacco
 life_rating = 35

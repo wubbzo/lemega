@@ -1,5 +1,7 @@
 owner=X24
 controller=X24
+add_core=X24
+add_core=ASY
 trade_goods = grain
 life_rating = 35
 colonial=2

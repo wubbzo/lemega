@@ -1,4 +1,6 @@
 owner=X01
 controller=X01
+add_core=X01
+add_core=RUS
 trade_goods = coal
 life_rating = 30

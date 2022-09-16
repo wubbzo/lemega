@@ -1,6 +1,7 @@
 owner=BHU
 controller=BHU
 add_core=X19
+add_core=BHU
 trade_goods = timber
 life_rating = 30
 colonial=2

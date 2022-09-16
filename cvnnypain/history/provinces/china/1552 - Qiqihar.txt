@@ -3,5 +3,6 @@ controller=NHX
 add_core=MCK
 add_core=NHX
 add_core=X16
+add_core=KHA
 trade_goods = coal
 life_rating = 32

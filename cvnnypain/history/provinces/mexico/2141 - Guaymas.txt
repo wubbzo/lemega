@@ -1,6 +1,7 @@
-owner=CAL
-controller=CAL
-add_core=CAL
+owner=SON
+controller=SON
 add_core=SON
+add_core=CAL
+add_core=TEX
 trade_goods = cattle
 life_rating = 35

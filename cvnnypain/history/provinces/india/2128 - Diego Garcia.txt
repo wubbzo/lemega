@@ -1,7 +1,8 @@
 owner=TEX
 controller=TEX
-trade_goods = fish
+add_core=TEX
+add_core=MYS
+trade_goods = sulphur
 life_rating = 32
-terrain = small_island
 colonial=2
 naval_base = 1

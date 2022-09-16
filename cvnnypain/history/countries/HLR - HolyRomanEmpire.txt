@@ -8,7 +8,7 @@ religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.511146
+literacy = 0.411146
 
 civilized = yes
 
@@ -60,22 +60,19 @@ freedom_of_trade = 1
 guild_based_production = 1
 high_pressure_steam_engine = 1
 hot_blast = 1
-introspectionism = 1
 late_enlightenment_philosophy = 1
-malthusian_thought = 1
 mechanical_production = 1
-military_staff_system = 1
 no_standard = 1
 piston_steam_engine = 1
 post_napoleonic_thought = 1
 private_banks = 1
 stock_exchange = 1
-prestige=12.6919
+interchangeable_parts = 1
+clipper_design = 1
+military_staff_system = 1
+prestige=75.6919
 
 # Decisions
-1.1.1 = {
-	decision = build_kiel_canal
-}
 oob = "HLR_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_HLR

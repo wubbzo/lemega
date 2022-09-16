@@ -1,7 +1,6 @@
 owner=BHU
 controller=BHU
 add_core=BHU
-add_core=TOC
 trade_goods = grain
 life_rating = 25
 fort = 1

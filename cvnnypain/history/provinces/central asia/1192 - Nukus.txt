@@ -1,5 +1,7 @@
 owner=X01
 controller=X01
+add_core=X01
+add_core=RUS
 trade_goods = opium
 life_rating = 30
 colonial=2

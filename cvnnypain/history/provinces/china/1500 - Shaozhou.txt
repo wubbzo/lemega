@@ -1,5 +1,7 @@
 owner=SIA
 controller=SIA
+add_core=SIA
+add_core=BYZ
 trade_goods = tropical_wood
 life_rating = 32
 colonial=2

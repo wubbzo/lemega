@@ -1,6 +1,9 @@
 owner=SIA
 controller=SIA
+add_core=BYZ
+add_core=SIA
 trade_goods = fish
 life_rating = 32
-colonial=2
 naval_base = 2
+colonial=2
+

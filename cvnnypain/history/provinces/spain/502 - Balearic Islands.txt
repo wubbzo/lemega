@@ -1,5 +1,8 @@
 owner=BYZ
 controller=BYZ
+add_core=BYZ
+add_core=JAP
+add_core=SPQ
 trade_goods = cattle
 life_rating = 35
 naval_base = 2

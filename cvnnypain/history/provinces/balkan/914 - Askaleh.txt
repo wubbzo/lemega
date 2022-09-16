@@ -1,7 +1,6 @@
 owner=ASY
 controller=ASY
-add_core=SRN
+add_core=ASY
 trade_goods = iron
 life_rating = 35
 terrain = hills
-colonial=2

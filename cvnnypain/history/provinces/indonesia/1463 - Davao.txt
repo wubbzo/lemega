@@ -1,5 +1,8 @@
 owner=JAP
 controller=JAP
+add_core=PHL
+add_core=JAP
 trade_goods = iron
 life_rating = 35
 naval_base = 2
+colonial=2

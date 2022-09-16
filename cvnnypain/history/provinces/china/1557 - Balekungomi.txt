@@ -1,6 +1,7 @@
 owner=X23
 controller=X23
-add_core=TIB
+add_core=BHU
 add_core=X23
+add_core=BYZ
 trade_goods = coal
 life_rating = 32

@@ -3,3 +3,9 @@ controller=AST
 add_core=AST
 trade_goods = coal
 life_rating = 33
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}

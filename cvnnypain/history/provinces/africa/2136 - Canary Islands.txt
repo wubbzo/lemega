@@ -1,4 +1,5 @@
 owner=MLI
-controller=REB
+controller=MLI
+add_core=MLI
 trade_goods = fruit
 life_rating = 35

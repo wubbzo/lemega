@@ -2,5 +2,6 @@ owner=X26
 controller=X26
 add_core=PER
 add_core=X26
+add_core=ASY
 trade_goods = fruit
 life_rating = 35

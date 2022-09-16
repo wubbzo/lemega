@@ -1,7 +1,8 @@
 owner=ASY
 controller=ASY
+add_core=ASY
 trade_goods = fish
 life_rating = 31
 terrain = mountain
-colonial=2
 naval_base = 1
+colonial=2

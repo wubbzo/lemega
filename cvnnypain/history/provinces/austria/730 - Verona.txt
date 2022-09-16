@@ -1,5 +1,6 @@
-owner=VEN
-controller=VEN
+owner=NAP
+controller=NAP
 add_core=VEN
+add_core=NAP
 trade_goods = cattle
 life_rating = 35

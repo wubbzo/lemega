@@ -1,5 +1,6 @@
 owner=BHU
 controller=BHU
+add_core=BHU
 trade_goods = coffee
 life_rating = 33
 colonial=2

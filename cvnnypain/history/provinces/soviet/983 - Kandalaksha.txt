@@ -1,5 +1,7 @@
 owner=DEN
 controller=DEN
 add_core=SMI
+add_core=RUS
+add_core=DEN
 trade_goods = sulphur
 life_rating = 10

@@ -1,6 +1,9 @@
 owner=NHX
 controller=NHX
 add_core=MCK
+add_core=KHA
 add_core=NHX
+add_core=BYZ
+add_core=MGL
 trade_goods = timber
 life_rating = 32

@@ -1,6 +1,6 @@
 owner=FEO
 controller=FEO
 add_core=FEO
-add_core=GEO
+add_core=GRE
 trade_goods = iron
 life_rating = 35

@@ -1,12 +1,7 @@
 owner=EGY
 controller=EGY
+add_core=X07
 trade_goods = tobacco
 life_rating = 32
 colonial=2
 fort = 1
-state_building=
-{
-	level=1
-	building = fabric_factory
-	upgrade = yes
-}

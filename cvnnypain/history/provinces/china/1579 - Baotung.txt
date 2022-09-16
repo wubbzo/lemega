@@ -1,5 +1,6 @@
 owner=CMI
 controller=CMI
 add_core=CMI
+add_core=BYZ
 trade_goods = tea
 life_rating = 32

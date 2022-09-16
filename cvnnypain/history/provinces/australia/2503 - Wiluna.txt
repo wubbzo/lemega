@@ -1,6 +1,6 @@
-owner=AST
-controller=AST
+owner=NZL
+controller=NZL
 add_core=AST
-add_core=AUZ
+add_core=NZL
 trade_goods = cattle
 life_rating = 15

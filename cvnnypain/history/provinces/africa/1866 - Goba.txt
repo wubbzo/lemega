@@ -2,6 +2,7 @@ owner=X08
 controller=X08
 add_core=X08
 add_core=X09
+add_core=EGY
 trade_goods = cattle
 life_rating = 10
 terrain = dryhills

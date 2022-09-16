@@ -3490,7 +3490,7 @@ humiliate = {
     is_triggered_only = yes
     months = 12
 
-    badboy_factor = 1.5
+    badboy_factor = 1.0
     prestige_factor = 1
     peace_cost_factor = 15
     penalty_factor = 1
@@ -3601,7 +3601,7 @@ place_in_the_sun = {
     is_triggered_only = yes
     months = 12
 
-    badboy_factor = 1.1
+    badboy_factor = 0.8
     prestige_factor = 2
     peace_cost_factor = 0.5
     penalty_factor = 1
@@ -3803,7 +3803,7 @@ acquire_state = {
 
     construction_speed = 0.5
 
-    badboy_factor = 2.2
+    badboy_factor = 1.0
     prestige_factor = 2
     peace_cost_factor = 1
     penalty_factor = 1
@@ -4273,7 +4273,7 @@ demand_concession_casus_belli = {
     construction_speed = 1.2
     crisis = no
 
-    badboy_factor = 1.5
+    badboy_factor = 0.8
     prestige_factor = 1
     peace_cost_factor = 0.6
     penalty_factor = 1
@@ -5127,7 +5127,7 @@ conquest = {
         }
     }
 
-    badboy_factor = 2.2
+    badboy_factor = 1.0
     prestige_factor = 5
     peace_cost_factor = 1
     penalty_factor = 1
@@ -6721,7 +6721,7 @@ establish_protectorate_casus_belli = {
 
     construction_speed = 0.5
 
-    badboy_factor = 1.5
+    badboy_factor = 0.8
     prestige_factor = 1
     peace_cost_factor = 1
     penalty_factor = 1

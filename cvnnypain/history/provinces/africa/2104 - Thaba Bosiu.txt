@@ -1,5 +1,6 @@
 owner=X12
 controller=X12
 add_core=X12
+add_core=KON
 trade_goods = grain
 life_rating = 35

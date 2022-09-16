@@ -1,5 +1,6 @@
-owner=SON
-controller=LOU
+owner=TEX
+controller=TEX
 add_core=TEX
 trade_goods = fruit
 life_rating = 35
+colonial=2

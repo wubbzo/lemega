@@ -1,5 +1,6 @@
 owner=HLR
 controller=HLR
-add_core=PRT
+add_core=HLR
+add_core=POL
 trade_goods = sulphur
 life_rating = 35

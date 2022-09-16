@@ -1,6 +1,7 @@
 owner=HLR
 controller=HLR
 add_core=POL
+add_core=HLR
 trade_goods = grain
 life_rating = 40
 fort = 1

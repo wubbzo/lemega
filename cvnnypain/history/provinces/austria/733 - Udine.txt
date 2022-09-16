@@ -1,5 +1,6 @@
-owner=VEN
-controller=VEN
+owner=NAP
+controller=NAP
 add_core=VEN
+add_core=NAP
 trade_goods = fish
 life_rating = 35

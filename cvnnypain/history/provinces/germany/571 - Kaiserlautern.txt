@@ -1,5 +1,6 @@
 owner=ALS
 controller=ALS
 add_core=ALS
+add_core=HLR
 trade_goods = fruit
 life_rating = 40

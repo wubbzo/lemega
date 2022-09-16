@@ -1,5 +1,5 @@
-owner=URB
-controller=FER
+owner=LOM
+controller=LOM
 add_core=FER
 add_core=LOM
 add_core=URB

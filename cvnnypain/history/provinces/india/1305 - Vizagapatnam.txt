@@ -1,5 +1,7 @@
 owner=X22
-controller=X05
+controller=X22
+add_core=X22
+add_core=BHU
 trade_goods = tobacco
 life_rating = 32
 naval_base = 2

@@ -4,9 +4,3 @@ add_core=MLI
 trade_goods = fish
 life_rating = 10
 naval_base = 2
-state_building=
-{
-	level=1
-	building = steamer_shipyard
-	upgrade = yes
-}

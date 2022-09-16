@@ -2,5 +2,6 @@ owner=X25
 controller=X25
 add_core=PER
 add_core=X25
+add_core=ASY
 trade_goods = grain
 life_rating = 35

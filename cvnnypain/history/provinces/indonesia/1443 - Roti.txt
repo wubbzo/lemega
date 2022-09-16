@@ -1,5 +1,7 @@
 owner=X21
 controller=X21
+add_core=JAV
+add_core=X21
 trade_goods = timber
 life_rating = 31
-colonial=2
+

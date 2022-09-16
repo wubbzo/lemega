@@ -12,7 +12,7 @@ religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.393189
+literacy = 0.193189
 
 civilized = yes
 
@@ -71,12 +71,12 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 private_banks = 1
 stock_exchange = 1
-prestige=11.3982
+interchangeable_parts = 1
+clipper_design = 1
+military_staff_system = 1
+prestige=0
 
 # Decisions
-1.1.1 = {
-	decision = build_panama_canal
-}
 oob = "TEX_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = post_colonial_country

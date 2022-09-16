@@ -1,9 +1,13 @@
 owner=X10
 controller=X10
 add_core=FRA
-add_core=OCC
-add_core=PRO
 add_core=X10
 trade_goods = grain
 life_rating = 35
 fort = 1
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}

@@ -3,3 +3,9 @@ controller=HLR
 add_core=HLR
 trade_goods = cattle
 life_rating = 40
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}

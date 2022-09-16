@@ -1,5 +1,5 @@
 owner=BYZ
-controller=X16
+controller=BYZ
 add_core=BYZ
 trade_goods = grain
 life_rating = 32

@@ -1,5 +1,6 @@
 owner=X26
 controller=X26
 add_core=X26
+add_core=ASY
 trade_goods = fish
 life_rating = 35

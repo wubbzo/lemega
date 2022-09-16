@@ -1,6 +1,6 @@
 owner=BHU
 controller=BHU
-add_core=SMO
+add_core=BHU
 trade_goods = fish
 life_rating = 15
 colonial=2

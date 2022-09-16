@@ -1,4 +1,6 @@
 owner=CMI
 controller=CMI
+add_core=BYZ
+add_core=CMI
 trade_goods = tropical_wood
 life_rating = 32

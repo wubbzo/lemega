@@ -1,6 +1,7 @@
 owner=FLR
 controller=FLR
 add_core=FLR
+add_core=TEX
 trade_goods = cotton
 life_rating = 35
 is_slave = yes

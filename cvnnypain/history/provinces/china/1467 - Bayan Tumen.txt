@@ -1,7 +1,8 @@
 owner=NHX
 controller=NHX
 add_core=KHA
-add_core=KLK
 add_core=NHX
+add_core=MGL
+add_core=MCK
 trade_goods = cattle
 life_rating = 32

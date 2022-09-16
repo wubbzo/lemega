@@ -1,7 +1,7 @@
 owner=X22
-controller=MYS
+controller=X22
 add_core=KRN
 add_core=X22
-add_core=XMA
+add_core=BHU
 trade_goods = dye
 life_rating = 32

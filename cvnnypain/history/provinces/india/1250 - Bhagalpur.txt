@@ -1,4 +1,5 @@
 owner=BHU
 controller=BHU
+add_core=BHU
 trade_goods = fish
 life_rating = 32

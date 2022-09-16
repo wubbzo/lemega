@@ -1,5 +1,6 @@
 owner=CHC
 controller=CHC
 add_core=CHC
+add_core=BYZ
 trade_goods = fish
 life_rating = 32

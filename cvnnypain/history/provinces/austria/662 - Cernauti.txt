@@ -1,6 +1,8 @@
 owner=POL
 controller=POL
 add_core=PCH
+add_core=POL
+add_core=RUS
 trade_goods = fruit
 life_rating = 35
 fort = 1

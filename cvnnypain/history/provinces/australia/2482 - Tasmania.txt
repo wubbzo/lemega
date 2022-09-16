@@ -1,5 +1,5 @@
-owner=NZL
+owner=AST
 controller=AST
-add_core=NZL
+add_core=AST
 trade_goods = timber
 life_rating = 31

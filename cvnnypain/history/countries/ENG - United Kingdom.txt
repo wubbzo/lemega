@@ -1,12 +1,8 @@
 capital = 291
 primary_culture = anglo_saxon
-culture = british
-culture = english
-culture = guillaumois
-culture = dutch
-culture = pictish
 culture = scottish
 culture = welsh
+culture = dutch
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
 government = democracy

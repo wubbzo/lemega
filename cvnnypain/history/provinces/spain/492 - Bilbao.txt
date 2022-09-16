@@ -1,6 +1,7 @@
 owner=X03
 controller=X03
-add_core=BSQ
+add_core=X03
+add_core=SPQ
 trade_goods = fruit
 life_rating = 35
 naval_base = 1

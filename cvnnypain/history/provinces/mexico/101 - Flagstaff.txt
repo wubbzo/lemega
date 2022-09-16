@@ -1,6 +1,7 @@
-owner=SON
-controller=SON
+owner=CAL
+controller=CAL
 add_core=CAL
 add_core=SON
+add_core=TEX
 trade_goods = iron
 life_rating = 35

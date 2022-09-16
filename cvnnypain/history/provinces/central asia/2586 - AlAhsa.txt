@@ -1,5 +1,6 @@
-owner=ASY
-controller=ASY
+owner=EGY
+controller=EGY
+add_core=EGY
 trade_goods = grain
 life_rating = 10
 colonial=2

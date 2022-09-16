@@ -1,8 +1,7 @@
 owner=SPQ
-controller=FRA
-add_core=FRA
+controller=SPQ
+add_core=SPQ
 add_core=OCC
-add_core=PRO
 trade_goods = grain
 life_rating = 31
 fort = 1

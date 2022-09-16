@@ -1,6 +1,7 @@
 owner=SPQ
 controller=SPQ
-trade_goods = fish
+add_core=SPQ
+trade_goods = sulphur
 life_rating = 32
 terrain = semidesert
 colonial=2
